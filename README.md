@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Paleoclimate Reconstructor
 
 Emily Gill
@@ -37,19 +36,3 @@ TBD
 ## Repo structure
 
 TBD
-
-<!-- ```
-├── data (will contain csv files and pickles of data)
-├── notebooks (will contain scripts used for EDA and visualizations)
-├── src (will contain the scripts used to perform the analysis)
-├── web_app
-|     ├── static
-|     ├── templates
-|     └── app.py (will run the web app via Flask)
-└── README.md
-``` -->
-=======
-# paleoclimate_reconstructor
-
-This GitHub repo is under construction!
->>>>>>> babea6e531452a1da966207df688d8ae0f510b62
