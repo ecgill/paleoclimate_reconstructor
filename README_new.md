@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paleoclimate Reconstructor
 
 Emily Gill
@@ -47,3 +48,8 @@ TBD
 |     └── app.py (will run the web app via Flask)
 └── README.md
 ``` -->
+=======
+# paleoclimate_reconstructor
+
+This GitHub repo is under construction!
+>>>>>>> babea6e531452a1da966207df688d8ae0f510b62
