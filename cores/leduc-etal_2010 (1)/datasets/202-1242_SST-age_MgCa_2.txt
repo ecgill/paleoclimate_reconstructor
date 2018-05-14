@@ -1,0 +1,93 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 202-1242 using Mg/Ca-ratios. doi:10.1594/PANGAEA.737014, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 7.855867 * LONGITUDE: -83.606967
+	MINIMUM AGE: 0.492 ka BP * MAXIMUM AGE: 10.415 ka BP
+Event(s):	202-1242 * LATITUDE: 7.855867 * LONGITUDE: -83.606967 * DATE/TIME: 2002-05-26T00:00:00 * ELEVATION: -1363.7 m * RECOVERY: 770.50 m * PENETRATION: 770.30 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg202 (URI: doi:10.2973/odp.proc.ir.202.2003) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: 80 cores; 743.8 m cored; 26.5 m drilled; 103.6 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios * COMMENT: references for proxy Mg/Ca hdl:10013/epic.35231.d001
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	81 data points
+*/
+Age [ka BP]	SST [¡C]
+0.492	26.73
+0.766	27.44
+0.857	25.77
+1.222	24.48
+1.222	26.21
+1.404	24.75
+1.677	26.34
+1.768	25.85
+2.133	27.08
+2.133	28.06
+2.315	26.61
+2.498	27.58
+2.680	25.24
+3.045	28.01
+3.154	27.37
+3.227	26.10
+3.373	26.09
+3.592	28.25
+3.592	26.39
+3.865	27.52
+3.956	27.96
+4.138	24.89
+4.503	26.12
+4.868	27.43
+5.050	26.07
+5.148	26.98
+5.245	26.36
+5.440	26.20
+5.538	26.26
+5.635	25.08
+5.733	27.07
+5.928	26.68
+5.967	26.66
+6.025	26.32
+6.220	26.44
+6.279	26.94
+6.416	26.74
+6.513	25.69
+6.591	27.14
+6.708	26.56
+6.903	26.18
+6.903	27.30
+7.001	26.60
+7.001	26.37
+7.196	26.65
+7.391	25.30
+7.488	28.21
+7.684	25.86
+7.684	26.39
+7.879	25.86
+7.976	26.68
+7.976	25.78
+8.171	26.59
+8.171	26.26
+8.269	26.55
+8.366	26.03
+8.366	25.49
+8.464	26.31
+8.513	25.16
+8.659	24.16
+8.659	25.21
+8.727	25.15
+8.854	25.90
+8.854	26.10
+8.952	27.16
+9.147	26.11
+9.322	26.30
+9.342	26.67
+9.439	26.99
+9.508	26.30
+9.634	25.80
+9.634	27.15
+9.781	27.48
+9.829	26.25
+9.927	26.88
+9.927	26.62
+10.122	25.89
+10.122	26.18
+10.317	25.96
+10.317	25.93
+10.415	25.92

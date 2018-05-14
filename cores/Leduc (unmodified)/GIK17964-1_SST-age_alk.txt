@@ -1,0 +1,27 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GIK17964-1 using alkenones. doi:10.1594/PANGAEA.737224, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 6.158333 * LONGITUDE: 112.213333
+	MINIMUM AGE: 0.596 ka BP * MAXIMUM AGE: 9.380 ka BP
+Event(s):	GIK17964-1 * LATITUDE: 6.158333 * LONGITUDE: 112.213333 * DATE/TIME: 1994-06-01T00:00:00 * ELEVATION: -1556.0 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: SO95 (MONITOR MONSUN) (URI: doi:10.2312/reports-gpi.1994.68) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	15 data points
+*/
+Age [ka BP]	SST [¡C]
+0.596	27.8
+0.949	27.8
+1.694	27.7
+2.478	27.7
+3.262	27.7
+4.046	27.5
+4.830	27.5
+5.560	27.7
+6.290	27.7
+7.020	27.6
+7.570	27.4
+8.120	27.5
+8.540	27.4
+8.960	27.3
+9.380	27.3

@@ -1,0 +1,24 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 165-999A using Mg/Ca-ratios. doi:10.1594/PANGAEA.736982, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 12.744000 * LONGITUDE: -78.739300
+	MINIMUM AGE: 3.520 ka BP * MAXIMUM AGE: 10.320 ka BP
+Event(s):	165-999A * LATITUDE: 12.744000 * LONGITUDE: -78.739300 * DATE/TIME START: 1996-01-10T19:30:00 * DATE/TIME END: 1996-01-14T23:15:00 * ELEVATION: -2828.0 m * RECOVERY: 534.83 m * PENETRATION: 566.10 m * LOCATION: Caribbean Sea * CAMPAIGN: Leg165 (URI: doi:10.2973/odp.proc.ir.165.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 61 core; 566.1 m cored; 0 m drilled; 94.5 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	12 data points
+*/
+Age [ka BP]	SST [¡C]
+3.520	28.20
+3.860	28.30
+4.080	28.00
+4.410	28.00
+4.630	28.50
+4.860	28.50
+5.190	27.80
+5.750	28.30
+6.780	28.30
+7.820	28.30
+9.280	27.60
+10.320	27.40

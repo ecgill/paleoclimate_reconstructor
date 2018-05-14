@@ -1,0 +1,14 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 138-846 using alkenones. doi:10.1594/PANGAEA.737191, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -3.095000 * LONGITUDE: -90.818330
+	MINIMUM AGE: 2.200 ka BP * MAXIMUM AGE: 6.100 ka BP
+Event(s):	138-846 * LATITUDE: -3.095000 * LONGITUDE: -90.818330 * DATE/TIME START: 1991-05-21T00:00:00 * DATE/TIME END: 1991-05-26T00:00:00 * ELEVATION: -3296.0 m * RECOVERY: 821.61 m * PENETRATION: 871.50 m * LOCATION: South Pacific Ocean * CAMPAIGN: Leg138 (URI: doi:10.2973/odp.proc.ir.138.1992) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: 92 cores; 865.5 m cored; 0 m drilled; 94.9 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	2 data points
+*/
+Age [ka BP]	SST [¡C]
+2.200	25.8
+6.100	26.2

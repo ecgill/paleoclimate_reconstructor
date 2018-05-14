@@ -1,0 +1,78 @@
+/* DATA DESCRIPTION:
+Citation:	Kudrass, H-R et al. (2001): Age model of sediment core SO93-126KL. doi:10.1594/PANGAEA.58758, 
+	In Supplement to: Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Modulation and amplification of climatic changes in the Northern Hemisphere by the Indian summer monsoon during the past 80 k.y. Geology, 29(1), 63-66, doi:10.1130/0091-7613(2001)029<0063:MAAOCC>2.0.CO;2
+Coverage:	LATITUDE: 19.973333 * LONGITUDE: 90.033333
+	DATE/TIME START: 1994-01-15T00:00:00 * DATE/TIME END: 1994-01-15T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 8.7 m
+Event(s):	SO93-126KL * LATITUDE: 19.973333 * LONGITUDE: 90.033333 * DATE/TIME: 1994-01-15T00:00:00 * ELEVATION: -1250.0 m * LOCATION: Bengal Fan * CAMPAIGN: SO93 (BENGAL FÄCHER) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: continental slope, upslope thickening
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * Geocode
+	Age model [ka] (Age model) * PI: Hofmann, Annette (eMail: Annette.Hofmann@multibrid.com) * METHOD: Age model, SPECMAP chronology, Imbrie et al (1984, in Berger et al, Reidel Pub)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	65 data points
+*/
+Depth [m]	Age model [ka]
+0.00	0.000
+0.10	2.224
+0.43	5.653
+0.60	7.717
+0.83	10.846
+0.97	12.590
+0.99	12.935
+1.03	13.803
+1.21	14.569
+1.29	14.628
+1.35	14.673
+1.63	16.775
+1.71	17.003
+1.87	19.172
+2.02	21.307
+2.15	23.303
+2.20	24.000
+2.50	26.609
+2.67	28.287
+2.75	28.941
+2.80	29.548
+2.92	31.643
+2.95	32.245
+3.05	33.455
+3.15	35.147
+3.17	35.706
+3.20	36.376
+3.30	38.320
+3.40	38.565
+3.44	39.852
+3.52	40.134
+3.60	40.562
+3.66	41.091
+3.70	41.497
+3.77	42.393
+3.80	42.713
+3.85	43.305
+4.02	45.283
+4.13	45.585
+4.32	46.911
+4.40	47.245
+4.52	51.608
+4.55	52.538
+4.57	52.740
+4.62	53.497
+4.71	54.053
+4.80	56.238
+4.85	56.884
+4.90	57.539
+5.30	59.219
+5.45	60.524
+5.59	61.870
+5.85	63.066
+6.22	64.411
+6.28	65.736
+6.32	66.022
+6.45	68.437
+6.54	69.082
+6.79	72.751
+6.88	73.623
+6.97	75.564
+7.55	83.556
+7.75	86.508
+8.15	89.244
+8.70	98.737

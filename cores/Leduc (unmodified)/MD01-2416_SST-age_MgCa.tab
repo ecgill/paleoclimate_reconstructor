@@ -1,0 +1,83 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD01-2416 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736993, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 51.268000 * LONGITUDE: 167.725000
+	MINIMUM AGE: 4.170 ka BP * MAXIMUM AGE: 10.411 ka BP
+Event(s):	MD01-2416 (MD012416) * LATITUDE: 51.268000 * LONGITUDE: 167.725000 * DATE/TIME: 2001-06-09T20:05:00 * ELEVATION: -2317.0 m * RECOVERY: 44.75 m * LOCATION: Emperor Seamounts * CAMPAIGN: MD122 (IMAGES VII - WEPAMA) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Giant piston corer (GPC) * COMMENT: Pilot core (trigger core) available: see MD01-2416PC
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	71 data points
+*/
+Age [ka BP]	SST [¡C]
+4.170	6.50
+4.217	6.48
+4.311	6.14
+4.405	4.36
+4.499	3.81
+4.593	6.08
+4.687	5.06
+4.781	5.37
+4.875	3.67
+4.969	3.69
+5.063	3.08
+5.157	4.06
+5.250	4.60
+5.344	5.11
+5.439	4.70
+5.533	6.23
+5.626	4.87
+5.632	5.20
+5.726	5.25
+5.727	3.88
+5.965	5.44
+6.064	4.88
+6.164	4.34
+6.183	4.70
+6.263	4.45
+6.362	4.19
+6.462	5.94
+6.561	4.80
+6.562	5.78
+6.773	3.97
+6.992	5.91
+7.319	4.54
+7.698	5.23
+7.736	4.89
+7.799	4.19
+7.899	7.67
+8.101	4.38
+8.152	3.91
+8.202	5.05
+8.303	6.10
+8.404	5.84
+8.505	3.98
+8.568	4.84
+8.706	6.63
+8.807	4.51
+8.908	6.20
+8.985	5.66
+9.009	6.97
+9.061	5.45
+9.110	5.63
+9.137	5.17
+9.211	4.82
+9.213	4.76
+9.289	4.65
+9.311	5.91
+9.317	5.32
+9.345	5.13
+9.373	4.87
+9.401	5.57
+9.412	5.53
+9.429	6.46
+9.513	5.61
+9.614	5.93
+9.715	5.86
+9.816	5.03
+9.917	7.30
+10.017	4.10
+10.118	5.89
+10.219	4.79
+10.320	6.76
+10.411	4.60

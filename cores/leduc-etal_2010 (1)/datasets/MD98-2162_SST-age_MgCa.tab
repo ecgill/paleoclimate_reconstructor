@@ -1,0 +1,35 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD98-2162 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736999, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -4.690000 * LONGITUDE: 117.900000
+	MINIMUM AGE: 0.751 ka BP * MAXIMUM AGE: 10.140 ka BP
+Event(s):	MD98-2162 (MD982162) * LATITUDE: -4.690000 * LONGITUDE: 117.900000 * ELEVATION: -1855.0 m * RECOVERY: 55.33 m * CAMPAIGN: MD111 (IMAGES IV) (URI: http://www.ifremer.fr/sismer/program/csus/htql/campagne.htql?CRNO=98200030) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	23 data points
+*/
+Age [ka BP]	SST [¡C]
+0.751	29.21
+1.102	29.17
+1.219	28.93
+1.453	29.68
+2.038	29.01
+2.271	28.91
+2.638	28.77
+3.704	29.08
+4.032	29.09
+4.439	28.79
+4.859	28.81
+5.279	28.87
+5.699	29.27
+6.119	29.58
+6.539	29.15
+6.959	28.53
+7.379	30.03
+8.012	28.67
+8.437	28.57
+8.863	29.47
+9.289	28.93
+9.714	28.88
+10.140	29.09

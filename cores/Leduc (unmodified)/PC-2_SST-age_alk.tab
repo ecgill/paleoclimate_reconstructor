@@ -1,0 +1,41 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core PC-2 using alkenones. doi:10.1594/PANGAEA.737288, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 50.395000 * LONGITUDE: 148.323000
+	MINIMUM AGE: 0.050 ka BP * MAXIMUM AGE: 10.110 ka BP
+Event(s):	PC-2 * LATITUDE: 50.395000 * LONGITUDE: 148.323000 * ELEVATION: -1258.0 m * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	29 data points
+*/
+Age [ka BP]	SST [¡C]
+0.050	8.0
+0.260	8.1
+0.590	8.1
+0.850	7.7
+1.200	7.7
+1.430	8.3
+1.810	7.4
+2.070	7.8
+2.440	7.2
+2.820	7.2
+3.070	6.8
+3.690	6.7
+3.940	7.2
+4.350	7.0
+4.630	8.0
+5.040	7.4
+5.320	7.3
+5.800	7.3
+6.110	8.1
+6.590	8.4
+6.910	8.5
+7.390	8.4
+7.710	8.3
+8.190	8.3
+8.510	7.9
+8.990	8.1
+9.310	8.0
+9.790	8.1
+10.110	8.1

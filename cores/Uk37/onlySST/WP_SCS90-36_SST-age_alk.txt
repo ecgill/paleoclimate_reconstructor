@@ -1,0 +1,25 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core SCS90-36 using alkenones. doi:10.1594/PANGAEA.737265, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 17.995000 * LONGITUDE: 111.494000
+	MINIMUM AGE: 1.123 ka BP * MAXIMUM AGE: 10.081 ka BP
+Event(s):	SCS90-36 * LATITUDE: 17.995000 * LONGITUDE: 111.494000 * ELEVATION: -2050.0 m * RECOVERY: 6.57 m * DEVICE: Gravity corer (GC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	13 data points
+*/
+Age [ka BP]	SST [¡C]
+1.123	26.4
+2.142	25.8
+2.906	25.9
+3.670	25.9
+4.434	24.9
+5.707	23.9
+5.962	25.9
+6.726	26.2
+7.490	25.8
+8.170	25.8
+8.807	25.8
+9.444	25.3
+10.081	24.9

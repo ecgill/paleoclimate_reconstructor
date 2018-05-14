@@ -1,0 +1,23 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 184-1145C using Mg/Ca-ratios. doi:10.1594/PANGAEA.736984, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 19.583980 * LONGITUDE: 117.630830
+	MINIMUM AGE: 2.006 ka BP * MAXIMUM AGE: 9.800 ka BP
+Event(s):	184-1145C * LATITUDE: 19.583980 * LONGITUDE: 117.630830 * DATE/TIME START: 1999-03-20T19:00:00 * DATE/TIME END: 1999-03-21T16:45:00 * ELEVATION: -3176.4 m * RECOVERY: 189.15 m * PENETRATION: 198.10 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: Leg184 (URI: doi:10.2973/odp.proc.ir.184.2000) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 21 core; 198.1 m cored; 0 m drilled; 95.5 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	11 data points
+*/
+Age [ka BP]	SST [¡C]
+2.006	27.80
+2.700	28.20
+3.471	26.90
+4.320	27.80
+5.014	26.80
+5.800	27.80
+6.680	28.30
+7.400	27.30
+8.200	27.70
+9.080	28.50
+9.800	28.40

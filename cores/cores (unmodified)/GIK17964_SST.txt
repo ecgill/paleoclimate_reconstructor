@@ -1,0 +1,92 @@
+/* DATA DESCRIPTION:
+Citation:	Pelejero, Carles; Grimalt, Joan O; Heilig, S; Kienast, Markus; Wang, Luejiang; Martrat, Belen (1999): Sea surface temperature estimation for sediment core GIK17964-2. doi:10.1594/PANGAEA.794498, 
+	In: Pelejero, C et al. (2012): Alkenone-derived sea-surface temperature records of sediment cores GIK17940-2, GIK17954-2, GIK17961-2 and GIK17964-2. doi:10.1594/PANGAEA.797445
+Related to:	Pelejero, Carles; Grimalt, Joan O; Heilig, S; Kienast, Markus; Wang, Liping (1999): High-resolution UK37 temperature reconstructions in the South China Sea over the past 220 kyr. Paleoceanography, 14(2), 224-231, doi:10.1029/1998PA900015
+Coverage:	LATITUDE: 6.158333 * LONGITUDE: 112.213333
+	MINIMUM AGE: 0.596 ka BP * MAXIMUM AGE: 34.171 ka BP
+	MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 14.6 m
+Event(s):	GIK17964-2 * LATITUDE: 6.158333 * LONGITUDE: 112.213333 * DATE/TIME: 1994-06-01T00:00:00 * ELEVATION: -1556.0 m * PENETRATION: 22.00 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: SO95 (MONITOR MONSUN) (URI: doi:10.2312/reports-gpi.1994.68) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (Kiel type) (KOL) * COMMENT: TWC 115 cm
+Parameter(s):	DEPTH, sediment/rock [m] (Depth)
+	AGE [ka BP] (Age)
+	Alkenone, unsaturation index UK37 (UK37) * PI: Pelejero, Carles
+	Sea surface temperature [°C] (SST) * PI: Pelejero, Carles * METHOD: Calculated from UK37 (Pelejero & Grimalt, 1997) (URI: doi:10.1016/S0016-7037(97)00280-9)
+	Sea surface temperature [°C] (SST) * PI: Pelejero, Carles * METHOD: Calculated from UK'37 (Müller et al, 1998) (URI: doi:10.1016/S0016-7037(98)00097-0)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	225 data points
+*/
+Depth [m]	Age [ka BP]	UK37	SST [°C] (Calculated from UK37 (Pelejer...)	SST [°C] (Calculated from UK'37 (Müller...)
+0.00	0.596	0.961	28.0	27.8
+0.09	0.949	0.961	28.0	27.8
+0.28	1.694	0.958	27.9	27.7
+0.48	2.478	0.959	28.0	27.7
+0.68	3.262	0.959	28.0	27.7
+0.88	4.046	0.952	27.7	27.5
+1.08	4.830	0.953	27.8	27.5
+1.28	5.560	0.958	28.0	27.7
+1.48	6.290	0.958	27.9	27.7
+1.68	7.020	0.953	27.8	27.5
+1.88	7.570	0.949	27.7	27.4
+2.08	8.120	0.951	27.7	27.5
+2.28	8.540	0.947	27.6	27.4
+2.48	8.960	0.944	27.5	27.3
+2.68	9.380	0.945	27.5	27.3
+2.88	9.800	0.942	27.4	27.2
+3.08	10.960	0.936	27.2	27.0
+3.28	11.899	0.922	26.8	26.6
+3.48	12.497	0.912	26.5	26.3
+3.68	13.095	0.915	26.5	26.4
+3.88	13.468	0.914	26.5	26.4
+4.08	13.841	0.917	26.6	26.4
+4.28	14.215	0.900	26.1	25.9
+4.48	14.588	0.887	25.6	25.5
+4.68	14.961	0.889	25.7	25.6
+4.88	15.334	0.892	25.8	25.7
+5.08	15.707	0.893	25.8	25.7
+5.28	16.080	0.885	25.6	25.5
+5.48	16.454	0.887	25.6	25.5
+5.68	16.827	0.889	25.7	25.6
+5.80	17.051	0.880	25.4	25.3
+6.00	17.434	0.883	25.5	25.4
+6.20	17.823	0.882	25.5	25.4
+6.40	18.212	0.885	25.6	25.5
+6.60	18.601	0.892	25.8	25.7
+6.80	18.991	0.891	25.8	25.7
+7.00	19.380	0.887	25.6	25.5
+7.20	19.769	0.878	25.3	25.3
+7.40	20.158	0.890	25.7	25.6
+7.60	20.547	0.897	26.0	25.8
+7.80	20.937	0.892	25.8	25.7
+8.00	21.326	0.910	26.4	26.2
+8.20	21.715	0.899	26.0	25.9
+8.40	22.104	0.898	26.0	25.9
+8.60	22.494	0.897	26.0	25.8
+8.80	22.883	0.892	25.8	25.7
+9.00	23.272	0.898	26.0	25.9
+9.20	23.661	0.889	25.7	25.6
+9.40	24.051	0.883	25.5	25.4
+9.60	24.440	0.886	25.6	25.5
+9.80	24.829	0.888	25.7	25.6
+10.00	25.218	0.900	26.0	25.9
+10.20	25.608	0.906	26.3	26.1
+10.40	25.997	0.900	26.1	25.9
+10.60	26.386	0.904	26.2	26.1
+10.80	26.775	0.894	25.9	25.8
+11.00	27.165	0.892	25.8	25.7
+11.20	27.554	0.885	25.6	25.5
+11.40	27.943	0.883	25.5	25.4
+11.60	28.332	0.896	25.9	25.8
+11.80	28.722	0.895	25.9	25.8
+12.00	29.111	0.885	25.6	25.5
+12.20	29.500	0.906	26.3	26.1
+12.40	29.889	0.881	25.5	25.4
+12.60	30.278	0.897	26.0	25.9
+12.80	30.668	0.902	26.1	26.0
+13.00	31.057	0.899	26.0	25.9
+13.20	31.446	0.898	26.0	25.9
+13.40	31.835	0.897	26.0	25.9
+13.60	32.225	0.902	26.1	26.0
+13.80	32.614	0.905	26.2	26.1
+14.00	33.003	0.885	25.6	25.5
+14.20	33.392	0.896	25.9	25.8
+14.40	33.782	0.902	26.1	26.0
+14.60	34.171	0.898	26.0	25.9

@@ -1,0 +1,299 @@
+Indo-Pacific Warm Pool 40KYr SST and d18Osw Reconstructions 
+----------------------------------------------------------------------- 
+               World Data Center for Paleoclimatology, Boulder 
+                                  and 
+                     NOAA Paleoclimatology Program 
+----------------------------------------------------------------------- 
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!! 
+
+
+NAME OF DATA SET: 
+Indo-Pacific Warm Pool 40KYr SST and d18Osw Reconstructions 
+LAST UPDATE: 5/2011 (Original receipt by WDC Paleo) 
+CONTRIBUTORS: Mohtadi, M., S. Steinke, A. Lückge, J. Groeneveld, 
+and E.C. Hathorne. 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2011-062 
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Mohtadi, M., et al. 2011. 
+Indo-Pacific Warm Pool 40KYr SST and d18Osw Reconstructions. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2011-062. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+ORIGINAL REFERENCE: 
+Mohtadi, M., S. Steinke, A. Lückge, J. Groeneveld, 
+and E.C. Hathorne. 2010. 
+Glacial to Holocene surface hydrography of the tropical 
+eastern Indian Ocean. 
+Earth and Planetary Science Letters, Vol. 292, pp. 89-97. 
+doi:10.1016/j.epsl.2010.01.024 
+
+ABSTRACT: 
+Quantifying the spatial and temporal sea surface temperature (SST) 
+and salinity changes of the Indo-Pacific Warm Pool is essential to 
+understand the role of this region in connection with abrupt climate 
+changes particularly during the last deglaciation. In this study we 
+reconstruct SST and seawater d18O of the tropical eastern Indian 
+Ocean for the past 40,000 years from two sediment cores (GeoB 10029-4, 
+1°30'S, 100°08'E, and GeoB 10038-4, 5°56'S, 103°15'E) retrieved 
+offshore Sumatra. Our results show that annual mean SSTs increased 
+about 2-3 °C at 19,000 years ago and exhibited southern hemisphere- 
+like timing and pattern during the last deglaciation. Our SST records 
+together with other Mg/Ca-based SST reconstructions around Indonesia 
+do not track the monsoon variation since the last glacial period, 
+as recorded by terrestrial monsoon archives. However, the spatial 
+SST heterogeneity might be a result of changing monsoon intensity 
+that shifts either the annual mean SSTs or the seasonality of G. ruber 
+towards the warmer or the cooler season at different locations. 
+Seawater d18O reconstructions north of the equator suggest fresher 
+surface conditions during the last glacial and track the northern 
+high-latitude climate change during the last deglaciation. In contrast, 
+seawater d18O records south of the equator do not show a significant 
+difference between the last glacial period and the Holocene, and lack 
+Bølling-Allerød and Younger Dryas periods suggestive of additional 
+controls on annual mean surface hydrology in this part of the 
+Indo-Pacific Warm Pool. 
+
+
+
+ADDITIONAL REFERENCES: 
+Anand, P., H. Elderfield, and M.H. Conte. 2003. 
+Calibration of Mg/Ca thermometry in planktonic foraminifera 
+from a sediment trap time series. 
+Paleoceanography, Vol. 18, doi:10.1029/2002PA000846. 
+
+Bemis, B.E., H.J. Spero, J. Bijma, and D.W. Lea. 1998. 
+Reevaluation of the oxygen isotopic composition of planktonic 
+foraminifera: experimental results and revised paleotemperature 
+equations. 
+Paleoceanography, 13 (2), 150–160. 
+
+Hughen, K.A., et al.. 2004. 
+Marine04 marine radiocarbon age calibration, 0-26 cal kyr BP. 
+Radiocarbon, 46, 1059-1086. 
+
+Jöris, O. and B. Weninger. 1998. 
+Extension of the 14C calibration curve to ca. 40, 000 cal BC 
+by synchronizing Greenland 18O/16O ice core records and North 
+Atlantic foraminifera profiles: A comparison with U/Th coral data. 
+Radiocarbon, Vol. 40 (1), 495-504. 
+
+Waelbroeck, C., L. Labeyrie, E. Michel, J.C. Duplessy, J.F. McManus, 
+K. Lambeck, E. Balbon, and M. Labracherie. 2002. 
+Sea-level and deep water temperature changes derived from benthic 
+foraminifera isotopic records. 
+Quatern. Sci. Rev., 21 (1-3), 295-305. 
+
+
+
+GEOGRAPHIC REGION: Eastern Tropical Indian Ocean 
+PERIOD OF RECORD: 40 KYrBP - present 
+
+FUNDING SOURCES: 
+German Bundesministerium für Bildung und Forschung project "PABESIA",
+MARUM fellowships. 
+
+
+
+DESCRIPTION: 
+Benthic (Cibicidoides wuellerstorfi) and planktonic (Globigerinoides 
+ruber, sensu stricto or sensu lato) foraminiferal oxygen isotope (d18O) 
+and Mg/Ca data, plus reconstructed Sea Surface Temperature (SST) 
+and d18O-seawater from two Indo-Pacific Warm Pool cores for the last 
+40,000 years. 
+
+Core Locations: 
+GeoB 10029-4: 1°29.67'S, 100°07.68'E, 964m water depth 
+GeoB 10038-4: 5°56.25'S, 103°14.76'E, 1819m water depth 
+
+
+
+
+
+DATA: 
+1. List of AMS 14C dating points from the cores GeoB 10029-4 and 10038-4 
+Converted to calendar age using CALPAL 2007-Hulu (Jöris and Weninger, 1998) 
+program and the CALIB 5.0.1program (Hughen et al., 2004), respectively. 
+
+Depth    Sample             14C           CALPALage  Error   2-sigma            CalibAge   Error       2-sigma
+(cm)     ident.           years  Error      CalYrsBP         range              CalYrsBP                range
+
+
+GeoB 10029-4
+8        KIA31762          2080    60          1610    80   1450–1770               1645    80          1513–1811
+53       KIA31291          7830    45          8240    60   8120–8360               8308    50          8186–8383
+118      KIA31290         15160    90         17850    40   17,770–17,930          17870    190     17,417–18,489
+218      KIA31289         21280    140        24820    110  24,600–25,040          25152    246     24,640–25,518
+323      KIA31288         28660    315        32680    360  31,960–33,400             –      –                  –
+
+GeoB 10038-4
+3        KIA38219           800    35           440    70   300–580                  450    35            350–502
+88       KIA38242          8065    50          8470    50   8370–8570               8518    60          8395–8645
+143      KIA38212         13110    80         15230    130  14,970–15,490          15009    150     14,647–15,289
+193      KIA38234         18060    140        21170    170  20,830–21,510          20817    230     20,451–21,298
+233      KIA38258         22880    250        27200    420  26,360–28,040             –      –                  –
+273      KIA38229         28370    480        32550    450  31,650–33,450             –      –                  –
+
+
+
+
+
+2. GeoB 10038-4 benthic and plaktonic data 
+Depth       Age    d18Obenth. d18Oplank.    Mg/Ca      SST        d18O seawater
+[cm]       kyrBP      [‰PDB]    [‰PDB]   [mmol/mol]    [°C]       [‰SMOW]
+                    C.wuell.   G.rub.ss   G.rub.ss    Anand2003   Bemis1998/Waelbroeck2003
+0           0.00         -       -3.07       4.78      27.84      -0.10
+3           0.44       2.32      -2.64       4.34      26.76       0.10
+8           0.91       2.80      -2.88       4.35      26.79      -0.13
+13          1.38       1.54      -2.35       4.53      27.26       0.49
+18          1.86       1.89      -2.65       4.39      26.89       0.11
+23          2.33       2.46      -2.82       4.33      26.76      -0.08
+28          2.80       2.51      -2.74       4.07      26.07      -0.15
+33          3.27       2.61      -2.67       4.17      26.32      -0.03
+38          3.75       2.06      -2.65       4.05      26.00      -0.08
+43          4.22       2.09      -2.61       4.28      26.61       0.09
+48          4.69       2.44      -2.35       3.84      25.40       0.09
+53          5.16       2.58      -2.53       4.22      26.46       0.12
+58          5.64       1.84      -2.53         -          -          -
+63          6.11       2.54      -2.75       4.06      26.02      -0.20
+68          6.58       2.29      -2.34       3.99      25.84       0.17
+73          7.05       2.66      -2.37       3.91      25.61       0.08
+78          7.53       2.66      -2.25       3.90      25.58       0.18
+83          8.00       2.43      -2.40       4.25      26.54       0.22
+88          8.47       2.71      -2.64       4.02      25.92      -0.19
+93          9.08       2.72      -2.37       3.96      25.76      -0.01
+98          9.70       2.54      -2.32       3.84      25.40      -0.09
+103        10.31       2.70      -2.10       4.03      25.95       0.17
+108        10.93       2.19      -1.65       3.91      25.61       0.48
+113        11.54       2.80      -1.83       3.93      25.68       0.24
+118        12.16       2.77      -1.53       4.16      26.30       0.60
+123        12.77       3.10      -1.28       3.96      25.75       0.66
+128        13.39       2.89      -1.79       3.85      25.45       0.01
+133        14.00       3.42         -          -          -          -
+138        14.62       3.43      -1.27       3.72      25.06       0.31
+143        15.23       3.47      -0.83       3.90      25.57       0.80
+148        15.82       3.44      -1.06       3.84      25.42       0.50
+153        16.42       3.32      -0.86       3.85      25.43       0.67
+158        17.01       3.92      -0.95       3.67      24.92       0.44
+163        17.61       3.62      -0.78       3.84      25.41       0.70
+168        18.20       3.72      -0.87       3.64      24.82       0.46
+173        18.79       3.91      -0.47       3.48      24.32       0.74
+178        19.39       4.05      -0.95       3.31      23.77       0.14
+183        19.98       3.94      -0.73       3.41      24.10       0.42
+188        20.58       4.09      -0.75       3.83      25.39       0.67
+193        21.17       3.85      -0.34       3.91      25.61       1.14
+198        21.94       3.98      -0.71       3.74      25.11       0.67
+203        22.72       3.85      -1.03       3.47      24.27       0.18
+208        23.49       3.98      -0.65       3.56      24.56       0.64
+213        24.26       3.49      -0.84       3.67      24.92       0.55
+217        24.88       4.01      -1.11       3.42      24.13       0.13
+222        25.65       3.76      -0.62       3.45      24.21       0.67
+227        26.43       4.10      -0.83       3.62      24.76       0.61
+232        27.20       4.00      -0.73       3.30      23.73       0.52
+237        27.87       3.72      -0.74       3.74      25.13       0.84
+242        28.54       4.01      -1.15       3.93      25.66       0.58
+247        29.21       3.79      -1.04       3.68      24.94       0.58
+252        29.88       3.45      -0.57       3.40      24.05       0.89
+257        30.54       3.57      -1.15       3.35      23.90       0.31
+262        31.21       3.68      -0.87       3.24      23.53       0.52
+267        31.88       3.78      -0.95       3.83      25.39       0.84
+272        32.55       3.46      -0.70       3.47      24.29       0.86
+277        33.43       3.89      -0.89       3.60      24.68       0.75
+282        34.31       3.69      -1.16       3.51      24.42       0.42
+287        35.19       3.63      -1.36       3.92      25.64       0.47
+292        36.07         -       -0.89       3.70      25.01       0.82
+297        36.95       3.66      -1.15       3.64      24.81       0.56
+302        37.83       3.53      -1.34       3.68      24.95       0.45
+307        38.71       3.54      -1.13       3.52      24.46       0.58
+312        39.59       3.41      -1.14       3.66      24.89       0.68
+
+
+
+
+
+3. GeoB 10029-4 benthic and plaktonic data 
+Depth       Age       d18O       Mg/Ca      Mg/Ca     SSTs.s.     SSTs.l.       d18O seawater
+[cm]      [kyrBP]    [‰PDB]    [mmol/mol] [mmol/mol]   [°C]       [°C]        [‰SMOW]
+                     G.rub.ss   G.rub.ss   G.rub.sl   Anand2003  Anand2003     Bemis1998/Waelbroeck2003
+0           0.00      -3.10       5.10       5.21      28.56      28.80       0.02
+3           0.87      -2.97       5.02       5.06      28.38      28.48       0.11
+8           1.61      -2.75       5.17       4.98      28.72      28.30       0.40
+13          2.35      -2.80       4.97       5.01      28.27      28.38       0.25
+18          3.08      -3.12       4.87       5.21      28.06      28.79      -0.12
+23          3.82      -2.83       5.27       4.96      28.94      28.26       0.36
+28          4.56      -3.01       4.91       5.14      28.15      28.65       0.00
+33          5.29      -3.16       5.14       5.03      28.65      28.41      -0.05
+38          6.03      -2.91       5.03       5.09      28.40      28.55       0.14
+43          6.77      -2.68       5.00       5.01      28.35      28.36       0.35
+48          7.50      -2.60       4.99       4.92      28.33      28.17       0.40
+53          8.24      -2.93       4.78       4.83      27.84      27.96      -0.07
+58          9.77      -2.49       4.83       4.68      27.97      27.62       0.26
+63         11.31      -2.02       4.55       4.69      27.30      27.64       0.42
+68         12.45      -1.93       4.60       4.64      27.42      27.51       0.39
+73         12.99      -1.83       4.54       4.24      27.27      26.51       0.39
+78         13.53      -1.92       4.55       4.20      27.30      26.40       0.24
+83         14.07      -1.93       4.64       4.44      27.52      27.03       0.21
+88         14.61      -1.60       4.46       4.25      27.08      26.55       0.40
+93         15.15      -1.47       4.36       4.05      26.82      26.01       0.43
+98         15.69      -1.40       4.31       4.09      26.68      26.13       0.42
+103        16.23      -0.99       4.38       4.01      26.88      25.91       0.85
+108        16.77         -        4.22       3.90      26.46      25.58         -
+113        17.31      -1.16       4.21       3.81      26.43      25.33       0.53
+118        17.85      -0.77       4.11       3.91      26.17      25.61       0.85
+123        18.21      -1.39       4.23       3.78      26.50      25.23       0.29
+128        18.57      -1.13       4.46       3.91      27.06      25.61       0.66
+133        18.93      -1.29       4.27       3.65      26.60      24.85       0.39
+138        19.29      -1.42       3.90       3.69      25.58      24.97       0.04
+143        19.65      -1.40       3.68       3.96      24.93      25.74      -0.07
+148        20.01      -1.39       3.94       3.70      25.69      24.99       0.09
+153        20.36      -1.26       3.73       3.61      25.10      24.72       0.10
+158        20.72      -1.38       3.88       3.97      25.52      25.79       0.07
+163        21.08      -1.59       3.85       3.88      25.45      25.54      -0.15
+168        21.44      -1.37       3.83       3.86      25.38      25.46       0.06
+173        21.80      -1.33       3.93       3.97      25.66      25.77       0.17
+178        22.16      -1.27       3.91       3.91      25.60      25.60       0.22
+183        22.52      -1.45       3.99       3.71      25.84      25.02       0.09
+188        22.88      -1.17       3.96       3.84      25.75      25.42       0.36
+193        23.24      -1.37       3.84       3.72      25.40      25.07       0.10
+198        23.60      -1.46       3.89       3.80      25.54      25.30       0.05
+203        23.96      -1.35       4.11       3.87      26.17      25.51       0.29
+208        24.32         -        3.86       3.79      25.46      25.28         -
+210        24.46      -1.36       4.06       4.12      26.02      26.18       0.27
+215        24.82      -1.54         -          -          -          -          -
+220        25.19      -1.51       3.97       3.65      25.77      24.86       0.10
+225        25.57      -1.44       3.91       3.80      25.61      25.28       0.14
+230        25.94      -1.41       3.91       3.91      25.61      25.60       0.19
+235        26.32      -1.45       3.68       3.89      24.93      25.54       0.02
+240        26.69      -1.50       3.97       3.50      25.78      24.38       0.17
+245        27.07      -1.24       3.81       3.61      25.32      24.74       0.34
+250        27.44      -1.58       4.12       3.56      26.19      24.58       0.20
+255        27.81      -1.44       3.90       3.90      25.58      25.59       0.24
+260        28.19      -1.59       3.65       3.71      24.83      25.02      -0.05
+265        28.56      -1.58         -        4.06         -       26.02         -
+270        28.94      -1.57       3.80       3.78      25.31      25.24       0.12
+275        29.31      -1.49       3.76       3.73      25.18      25.10       0.18
+280        29.69      -1.28       3.60       3.66      24.70      24.89       0.31
+285        30.06      -1.62       3.64       3.74      24.81      25.12       0.01
+290        30.43      -1.41       3.65       3.93      24.84      25.67       0.24
+295        30.81      -1.49       3.84       3.61      25.42      24.74       0.29
+300        31.18      -1.58       3.69       3.30      24.98      23.72       0.11
+305        31.56      -1.63       3.66       3.59      24.89      24.66       0.05
+310        31.93      -1.55       3.70       3.69      25.01      24.96       0.15
+315        32.31      -1.33       3.77       3.55      25.20      24.56       0.41
+320        32.68      -1.78         -          -          -          -          -
+325        33.30      -1.58       3.89       3.75      25.54      25.14       0.24
+330        33.92      -1.50       3.67       3.71      24.91      25.02       0.18
+335        34.54      -1.69       3.51       3.64      24.40      24.81      -0.11
+340        35.16      -1.44       3.86       3.77      25.47      25.20       0.35
+345        35.78      -1.46       3.94       3.80      25.69      25.31       0.39
+350        36.40      -1.79       3.66       3.87      24.87      25.49      -0.10
+355        37.02      -1.33       3.88       3.86      25.53      25.48       0.53
+360        37.64      -1.97       3.84       3.80      25.40      25.29      -0.10
+365        38.26      -1.90       3.92       3.78      25.64      25.24       0.04
+370        38.88      -1.93       3.90       3.88      25.58      25.53       0.02
+375        39.50      -2.00       3.81       3.92      25.31      25.64      -0.10
+380        40.12      -1.73       3.93       3.91      25.68      25.61       0.24
+

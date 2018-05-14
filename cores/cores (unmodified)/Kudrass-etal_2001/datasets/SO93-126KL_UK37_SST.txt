@@ -1,0 +1,83 @@
+/* DATA DESCRIPTION:
+Citation:	Kudrass, H-R et al. (2001): Sea surface temperature reconstructions from UK37 in sediment core SO93-126KL. doi:10.1594/PANGAEA.57609, 
+	In Supplement to: Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Modulation and amplification of climatic changes in the Northern Hemisphere by the Indian summer monsoon during the past 80 k.y. Geology, 29(1), 63-66, doi:10.1130/0091-7613(2001)029<0063:MAAOCC>2.0.CO;2
+Coverage:	LATITUDE: 19.973333 * LONGITUDE: 90.033333
+	DATE/TIME START: 1994-01-15T00:00:00 * DATE/TIME END: 1994-01-15T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 3.0 m
+Event(s):	SO93-126KL * LATITUDE: 19.973333 * LONGITUDE: 90.033333 * DATE/TIME: 1994-01-15T00:00:00 * ELEVATION: -1250.0 m * LOCATION: Bengal Fan * CAMPAIGN: SO93 (BENGAL FÄCHER) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: continental slope, upslope thickening
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * Geocode
+	Alkenone, unsaturation index UK'37 (UK'37) * PI: Kudrass, Hermann-Rudolph (eMail: kudrass@bgr.de) * METHOD: Calculated, see reference(s)
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Kudrass, Hermann-Rudolph (eMail: kudrass@bgr.de) * METHOD: Calculated from UK37 (Sonzogni et al., 1998) (URI: doi:10.1016/S0277-3791(97)00099-1)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	138 data points
+*/
+Depth [m]	UK'37	SST (1-12) [°C]
+0.02	0.957	27.8
+0.06	0.974	28.3
+0.12	0.946	27.5
+0.18	0.958	27.8
+0.24	0.956	27.7
+0.30	0.948	27.5
+0.36	0.947	27.5
+0.42	0.939	27.2
+0.48	0.978	28.4
+0.51	0.974	28.3
+0.54	0.941	27.3
+0.57	0.962	27.9
+0.60	0.913	26.5
+0.66	0.934	27.1
+0.70	0.951	27.6
+0.74	0.943	27.4
+0.78	0.927	26.9
+0.84	0.950	27.6
+0.88	0.913	26.5
+0.92	0.909	26.3
+0.94	0.882	25.6
+0.96	0.992	28.8
+0.98	0.883	25.6
+1.00	0.917	26.6
+1.04	0.823	23.8
+1.06	0.931	27.0
+1.08	0.910	26.4
+1.12	0.896	26.0
+1.14	0.958	27.8
+1.16	0.963	27.9
+1.20	0.930	27.0
+1.24	0.937	27.2
+1.26	0.939	27.2
+1.28	0.884	25.6
+1.30	0.878	25.4
+1.32	0.837	24.2
+1.36	0.910	26.4
+1.40	0.880	25.5
+1.44	0.898	26.0
+1.48	0.915	26.5
+1.54	0.904	26.2
+1.60	0.916	26.6
+1.63	0.901	26.1
+1.66	0.877	25.4
+1.69	0.937	27.2
+1.71	0.916	26.6
+1.77	0.928	26.9
+1.83	0.940	27.3
+1.88	0.959	27.8
+1.92	0.943	27.4
+1.94	0.921	26.7
+2.00	0.905	26.2
+2.02	0.940	27.3
+2.07	0.929	26.9
+2.10	0.938	27.2
+2.15	0.936	27.2
+2.20	0.935	27.1
+2.30	0.940	27.3
+2.36	0.937	27.2
+2.40	0.934	27.1
+2.50	0.943	27.4
+2.57	0.934	27.1
+2.61	0.935	27.1
+2.67	0.929	26.9
+2.76	0.920	26.7
+2.85	0.928	26.9
+2.90	0.932	27.0
+2.96	0.931	27.0
+3.05	0.934	27.1

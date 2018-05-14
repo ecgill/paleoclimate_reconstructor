@@ -1,0 +1,30 @@
+/* DATA DESCRIPTION:
+Citation:	Lückge, A et al. (2009): (Table 1) Age determination of sediment core SO139-74KL. doi:10.1594/PANGAEA.832065, 
+	Supplement to: Lückge, Andreas; Mohtadi, Mahyar; Rühlemann, Carsten; Scheeder, Georg; Vink, Annemiek; Reinhardt, Lutz; Wiedicke, Michael (2009): Monsoon versus ocean circulation controls on paleoenvironmental conditions off southern Sumatra during the past 300,000 years. Paleoceanography, 24(1), PA1208, doi:10.1029/2008PA001627
+Abstract:	A multiproxy record has been acquired from a piston core (SO139-74KL) taken offshore southern Sumatra, an area which is situated in the southwestern sector of the tropical Indo-Pacific Warm Pool. The high-resolution data sets (X-ray fluorescence, total organic carbon, and C37 alkenones) were used to track changes in paleoproductivity, freshwater budget, and sea surface temperature (SST) of the tropical climate system at orbital time scales over the past 300 ka. Our paleoclimatic data show that enhanced marine paleoproductivity was directly related to strengthening of coastal upwelling during periods of increased boreal summer insolation and associated SE monsoon strength with a precessional cyclicity. Changes in freshwater supply were primarily forced by precession-controlled changes in boreal NW winter monsoon rainfall enclosing an additional sea level component. SST variations of 2°-5°C occurred at eccentricity and precessional cyclicity. We suggest that the sea surface temperature variability off southern Sumatra is predominantly related to three major causes: (1) variations in upwelling intensity; (2) an elevated freshwater input into the southern Makassar Strait leading to reduced supply of warmer surface waters from the western Pacific and increased subsurface water transport via the Indonesian Throughflow into the Indian Ocean; and (3) long-term changes in the intensity or frequency of low-latitude climate phenomena, such as El Niño-Southern Oscillation.
+Coverage:	LATITUDE: -6.543000 * LONGITUDE: 103.833000
+	MINIMUM DEPTH, sediment/rock: 0.5 m * MAXIMUM DEPTH, sediment/rock: 5.2 m
+Event(s):	SO139-74KL * LATITUDE: -6.543000 * LONGITUDE: 103.833000 * ELEVATION: -1690.0 m * RECOVERY: 10.50 m * LOCATION: Indonesia * CAMPAIGN: SO139 (GINCO 3) (URI: doi:10.2312/cr_so139) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL)
+Parameter(s):	Laboratory code/label (Lab label) * PI: Lückge, Andreas
+	DEPTH, sediment/rock [m] (Depth)
+	Age, dated [ka] (Age dated) * PI: Lückge, Andreas * METHOD: Age, 14C AMS (URI: doi:10.1146/annurev.ns.30.120180.002253)
+	Age, dated [ka] (Age dated) * PI: Lückge, Andreas * METHOD: Age, 14C milieu/reservoir corrected (-400 yr)
+	Age, dated standard deviation [±] (Age std dev) * PI: Lückge, Andreas
+	Calendar years [ka BP] (Cal yrs) * PI: Lückge, Andreas * METHOD: Age, 14C calibrated * COMMENT: p(68%)
+	Calendar years, standard deviation [±] (Cal yrs std dev) * PI: Lückge, Andreas * METHOD: Age, 14C calibrated * COMMENT: p(68%)
+	Age, minimum/young [ka] (Age min) * PI: Lückge, Andreas * METHOD: Age, 14C calibrated * COMMENT: Calendar age p(95%)
+	Age, maximum/old [ka] (Age max) * PI: Lückge, Andreas * METHOD: Age, 14C calibrated * COMMENT: Calendar age p(95%)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	80 data points
+*/
+Lab label	Depth [m]	Age dated [ka] (Age, 14C AMS)	Age dated [ka] (Age, 14C milieu/reservoir cor...)	Age std dev [±]	Cal yrs [ka BP]	Cal yrs std dev [±]	Age min [ka]	Age max [ka]
+KIA 23847	0.46	4.475	4.075	0.040	4.63	0.12	4.39	4.87
+KIA 23848	0.96	5.640	5.240	0.040	6.03	0.08	5.87	6.19
+KIA 23849	1.56	5.340	4.940	0.045	5.67	0.05	5.57	5.77
+KIA 23850	1.96	5.650	5.250	0.040	6.04	0.08	5.88	6.20
+KIA 23851	2.56	9.315	8.915	0.045	10.05	0.10	9.85	10.25
+KIA 11023	2.82	10.390	9.990	0.050	11.47	0.13	11.21	11.73
+KIA 23852	2.96	10.880	10.480	0.055	12.43	0.15	12.13	12.73
+KIA 23853	3.66	14.690	14.290	0.070	17.48	0.15	17.18	17.78
+KIA 23854	3.98	21.530	21.130	0.130	25.15	0.21	24.73	25.57
+KIA 11024	5.16	45.870	45.470	2.515	49.12	2.88	43.36	54.88

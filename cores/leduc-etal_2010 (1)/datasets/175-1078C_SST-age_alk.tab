@@ -1,0 +1,59 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 175-1078C using alkenones. doi:10.1594/PANGAEA.737200, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -11.920770 * LONGITUDE: 13.400250
+	MINIMUM AGE: 0.021 ka BP * MAXIMUM AGE: 10.430 ka BP
+Event(s):	175-1078C * LATITUDE: -11.920770 * LONGITUDE: 13.400250 * DATE/TIME START: 1997-09-03T18:10:00 * DATE/TIME END: 1997-09-04T06:05:00 * ELEVATION: -426.0 m * RECOVERY: 149.58 m * PENETRATION: 165.20 m * LOCATION: Benguela Current, South Atlantic Ocean * CAMPAIGN: Leg175 (URI: doi:10.2973/odp.proc.ir.175.1998) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 18 cores; 165.2 m cored; 0 m drilled; 90.5 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	47 data points
+*/
+Age [ka BP]	SST [¡C]
+0.021	24.8
+0.227	24.8
+0.434	25.0
+0.641	25.0
+0.890	24.8
+1.138	25.0
+1.387	24.8
+1.635	24.9
+1.884	24.7
+2.132	24.7
+2.392	24.8
+2.653	24.8
+2.913	24.8
+3.174	24.7
+3.434	24.6
+3.695	24.4
+3.955	24.2
+4.216	24.1
+4.564	24.1
+4.950	24.0
+5.322	24.3
+5.639	24.3
+5.956	24.5
+6.273	24.5
+6.590	24.4
+6.907	24.6
+7.224	24.2
+7.477	24.1
+7.730	24.1
+7.983	23.7
+8.237	23.8
+8.490	23.8
+8.743	23.9
+8.996	23.6
+9.179	23.7
+9.362	23.6
+9.545	23.5
+9.627	23.6
+9.709	23.6
+9.790	23.8
+9.872	23.7
+9.954	23.8
+10.036	23.8
+10.117	23.7
+10.199	23.8
+10.281	23.7
+10.430	23.7

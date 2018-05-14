@@ -1,0 +1,23 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GGC-15 using alkenones. doi:10.1594/PANGAEA.737221, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 48.168000 * LONGITUDE: 151.337000
+	MINIMUM AGE: 1.340 ka BP * MAXIMUM AGE: 10.460 ka BP
+Event(s):	GGC-15 * LATITUDE: 48.168000 * LONGITUDE: 151.337000 * ELEVATION: -1980.0 m * RECOVERY: 3.25 m * LOCATION: Southern Okhotsk Sea * DEVICE: Gravity corer (GC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	11 data points
+*/
+Age [ka BP]	SST [¡C]
+1.340	10.9
+2.540	10.9
+3.660	10.1
+4.720	9.9
+5.710	9.5
+6.630	9.9
+7.510	10.5
+8.320	8.9
+9.080	8.6
+9.790	8.3
+10.460	9.2

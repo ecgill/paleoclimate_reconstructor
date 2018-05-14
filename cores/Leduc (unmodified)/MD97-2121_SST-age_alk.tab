@@ -1,0 +1,105 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD97-2121 using alkenones. doi:10.1594/PANGAEA.737255, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -40.380000 * LONGITUDE: 177.990000
+	MINIMUM AGE: 3.316 ka BP * MAXIMUM AGE: 10.469 ka BP
+Event(s):	MD97-2121 (MD972121) * LATITUDE: -40.380000 * LONGITUDE: 177.990000 * ELEVATION: -3014.0 m * RECOVERY: 34.92 m * CAMPAIGN: MD106 (IMAGES III - IPHIS) (URI: http://www.ifremer.fr/sismer/UK/catal/campagne/campagnea.htql?crno=97200010) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	93 data points
+*/
+Age [ka BP]	SST [¡C]
+3.316	16.8
+3.453	16.9
+3.410	17.0
+3.330	17.3
+3.353	17.4
+3.409	16.8
+3.466	16.7
+3.523	16.6
+3.580	16.8
+3.636	16.4
+3.693	16.3
+3.750	17.0
+3.807	16.7
+3.920	16.4
+4.573	16.7
+4.601	17.2
+4.715	17.7
+4.828	17.4
+4.942	17.3
+5.055	17.4
+5.169	17.4
+5.282	17.4
+5.396	17.3
+5.509	17.3
+5.623	17.4
+5.736	17.4
+5.808	17.5
+5.907	17.6
+5.973	17.6
+6.039	17.6
+6.104	17.7
+6.170	16.9
+6.203	16.3
+6.236	17.6
+6.302	17.6
+6.368	17.8
+6.434	17.7
+6.500	17.8
+6.566	17.9
+6.632	18.1
+6.698	17.6
+6.764	18.0
+6.830	18.0
+6.896	17.8
+6.962	18.0
+7.041	17.6
+7.135	17.8
+7.229	17.6
+7.323	17.8
+7.417	17.9
+7.511	17.7
+7.605	17.4
+7.699	17.4
+7.793	18.1
+7.887	17.7
+7.981	17.5
+8.075	17.9
+8.169	17.8
+8.263	17.7
+8.357	17.7
+8.451	18.1
+8.545	18.1
+8.733	18.0
+8.827	18.1
+8.881	18.0
+8.923	18.1
+8.965	18.1
+9.007	18.3
+9.049	18.2
+9.091	18.1
+9.133	18.0
+9.175	17.9
+9.300	17.6
+9.342	17.4
+9.384	17.8
+9.426	17.8
+9.558	17.4
+9.609	17.4
+9.760	17.2
+9.811	17.4
+9.862	17.3
+9.912	17.2
+9.963	17.5
+10.013	17.5
+10.064	17.5
+10.115	17.5
+10.165	17.2
+10.216	17.9
+10.266	17.2
+10.317	17.3
+10.368	17.1
+10.418	17.3
+10.469	17.1

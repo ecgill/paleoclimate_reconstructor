@@ -1,0 +1,127 @@
+/* DATA DESCRIPTION:
+Citation:	Kiefer, Thorsten (2006): Stable isotopes and sea surface temperature on planktic foraminifera of sediment core WIND 28K. doi:10.1594/PANGAEA.610271
+Related to:	Kiefer, Thorsten; McCave, I Nick; Elderfield, Henry (2006): Antarctic control on tropical Indian Ocean sea surface temperature and hydrography. Geophysical Research Letters, 33(24), L24612, doi:10.1029/2006GL027097
+Coverage:	LATITUDE: -10.153833 * LONGITUDE: 51.012819
+	MINIMUM AGE: 4.330 ka BP * MAXIMUM AGE: 67.530 ka BP
+	MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 3.0 m
+Event(s):	WIND28K * LATITUDE: -10.153833 * LONGITUDE: 51.012819 * DATE/TIME: 2001-07-30T15:00:00 * ELEVATION: -4157.0 m * RECOVERY: 6.15 m * LOCATION: SW Indian Ocean * CAMPAIGN: CD129 (WIND) * BASIS: Charles Darwin * DEVICE: Kasten corer (KAL)
+Comment:	all measurements were carried out on the 300-355 ym fraction
+Parameter(s):	DEPTH, sediment/rock [m] (Depth)
+	AGE [ka BP] (Age)
+	Cibicidoides wuellerstorfi, d18O [per mil PDB] (C. wuellerstorfi d18O) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	Globigerinoides ruber white, d18O [per mil PDB] (G. ruber w d18O) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	Globigerinoides ruber white, d18O [per mil PDB] (G. ruber w d18O) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry) * COMMENT: ice volume corrected
+	Globigerinoides ruber white, d13C [per mil PDB] (G. ruber w d13C) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	Neogloboquadrina dutertrei, d18O [per mil PDB] (N. dutertrei d18O) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	Neogloboquadrina dutertrei, d18O [per mil PDB] (N. dutertrei d18O) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry) * COMMENT: ice volume corrected
+	Neogloboquadrina dutertrei, d13C [per mil PDB] (N. dutertrei d13C) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Isotope ratio mass spectrometry (URI: http://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	Magnesium/Calcium ratio (Mg/Ca) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Atomic absorption spectrometry, graphite furnace (GF-AAS) * COMMENT: on Globigerinoides ruber
+	Magnesium/Calcium ratio (Mg/Ca) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Atomic absorption spectrometry, graphite furnace (GF-AAS) * COMMENT: on Neogloboquadrina dutertrei
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Calculated * COMMENT: based on Globigerinoides ruber
+	Thermocline temperature [°C] (TT) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * METHOD: Calculated from Mg/Ca (Anand et al., 2003) (URI: doi:10.1029/2002PA000846) * COMMENT: based on Neogloboquadrina dutertrei
+	Foraminifera, planktic, mass per shell [µg] (Foram plankt mass) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * COMMENT: Globigerinoides ruber
+	Foraminifera, planktic, mass per shell [µg] (Foram plankt mass) * PI: Kiefer, Thorsten (URL: http://www.pages.unibe.ch/ppeople/staff/kiefer.html, eMail: kiefer@pages.unibe.ch) * COMMENT: Neogloboquadrina dutertrei
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	1132 data points
+*/
+Depth [m]	Age [ka BP]	C. wuellerstorfi d18O [per mil PDB]	G. ruber w d18O [per mil PDB]	G. ruber w d18O [per mil PDB] (ice volume corrected)	G. ruber w d13C [per mil PDB]	N. dutertrei d18O [per mil PDB]	N. dutertrei d18O [per mil PDB] (ice volume corrected)	N. dutertrei d13C [per mil PDB]	Mg/Ca (on Globigerinoides ruber)	Mg/Ca (on Neogloboquadrina dutertrei)	SST (1-12) [°C]	TT [°C]	Foram plankt mass [µg] (Globigerinoides ruber)	Foram plankt mass [µg] (Neogloboquadrina dutertrei)
+0.000	4.330	2.75	-0.88	-0.82	1.30	-0.09	-0.03	1.28	3.25	1.33	22.00	15.10	12.1	15.0
+0.020	4.710		-1.04	-0.99	1.27	-0.40	-0.35	1.44					11.6	14.4
+0.040	5.090	3.13	-1.22	-1.18	1.42	-0.14	-0.10	1.15	2.98	1.32	21.00	15.00		14.1
+0.060	5.470					-0.34	-0.30	1.33					12.3	14.8
+0.080	5.850	2.89	-0.85	-0.82	1.45	-0.17	-0.14	1.26	2.91	1.33	20.80	15.10	7.5	15.8
+0.100	6.230		-1.20	-1.17	1.35	-0.45	-0.43	1.29					11.7	14.6
+0.120	6.610	2.55	-1.29	-1.27	1.53	-0.62	-0.60	1.16	3.36	1.38	22.30	15.50		15.2
+0.140	6.990		-1.20	-1.19	1.27	-0.51	-0.50	1.31					12.4	15.8
+0.160	7.370	2.87	-1.07	-1.06	1.44	-0.43	-0.42	1.35	3.10	1.17	21.50	13.70	10.3	16.2
+0.180	7.750		-1.16	-1.17	1.37	-0.27	-0.27	1.16					13.2	18.6
+0.200	8.130	3.41	-1.42	-1.48	1.31	-0.48	-0.54	1.34	3.22	1.32	21.90	15.00	11.1	16.1
+0.220	8.510		-1.38	-1.47	1.32	-0.42	-0.51	1.24					11.8	19.1
+0.240	8.890	2.79	-1.45	-1.58	1.34	-0.21	-0.34	1.22	3.59	1.38	23.10	15.50	11.1	18.3
+0.260	9.270		-1.61	-1.78	1.13	-0.66	-0.83	1.46					11.6	18.4
+0.280	9.640	3.34	-1.60	-1.83	1.15	-0.31	-0.54	1.40	3.48	1.22	22.80	14.10	11.1	19.9
+0.300	10.020		-1.60	-1.87	1.15	-0.22	-0.50	1.35					12.6	19.1
+0.320	10.400	3.17	-1.61	-1.94	1.23	-0.39	-0.72	1.35	3.84	1.51	23.80	16.50	13.1	20.9
+0.340	10.880		-1.74	-2.24	1.21	-0.18	-0.68	1.21					12.6	20.3
+0.360	11.360	3.52	-1.51	-2.05	1.36	-0.13	-0.67	1.16	3.72	1.70	23.50	17.80	11.9	20.5
+0.380	11.840		-1.57	-2.15	1.13	-0.16	-0.74	1.12					12.7	18.8
+0.400	12.310	3.28	-1.24	-1.84	1.14	-0.01	-0.61	1.29	3.77	1.63	23.60	17.30	12.7	20.8
+0.420	12.620		-1.10	-1.72	1.18	0.02	-0.60	1.20					13.3	20.0
+0.440	12.920	3.52	-0.86	-1.50	1.25	0.26	-0.38	1.19	3.59	1.70	23.10	17.80	13.0	19.9
+0.460	13.220		-1.15	-1.82	1.13	0.08	-0.59	1.15					12.8	20.2
+0.480	13.520	3.96	-0.93	-1.65	1.20	0.22	-0.50	1.40	3.64	1.54	23.30	16.70	12.3	19.5
+0.500	13.950	3.76	-0.97	-1.73	1.17	0.33	-0.43	1.23					12.8	19.5
+0.520	14.380	4.06	-0.86	-1.76	1.10	0.40	-0.50	1.25	3.65	1.56	23.30	16.80	11.9	19.7
+0.540	14.810		-0.81	-1.78	1.11	0.62	-0.36	1.34					12.9	20.8
+0.560	15.230	4.00	-0.58	-1.59	1.16	0.85	-0.16	1.33	3.38	1.32	22.40	15.00	11.7	19.5
+0.580	15.820	4.28	-0.58	-1.62	1.22	0.90	-0.14	1.22					12.9	20.8
+0.600	16.400		-0.35	-1.41	1.12	0.98	-0.08	1.36	3.07	1.14	21.40	13.40	10.7	20.3
+0.620	16.980	4.51	-0.24	-1.31	1.15	1.08	0.01	1.41					11.6	19.7
+0.640	17.570	4.38	-0.17	-1.25	1.27	1.04	-0.04	1.42	2.81	1.05	20.40	12.50	10.2	19.4
+0.660	17.920	4.44											11.7	21.1
+0.680	18.260		-0.40	-1.50	1.31	1.13	0.03	1.52	2.89	1.04	20.70	12.30	11.4	19.4
+0.700	18.610	4.36	-0.17	-1.29	1.20	0.91	-0.20	1.46					11.5	18.4
+0.720	18.960	4.19	-0.12	-1.26	1.23	0.99	-0.15	1.51	2.61	1.12	19.60	13.20	11.9	19.5
+0.740	19.310		-0.30	-1.44	1.15	1.03	-0.11	1.43					13.0	20.7
+0.760	19.660	4.28	-0.27	-1.40	1.24	0.89	-0.24	1.50	3.11	1.22	21.50	14.10	12.9	20.3
+0.800	20.360	4.20	-0.17	-1.25	1.28	0.92	-0.16	1.46	2.98	1.18	21.00	13.70	13.5	19.4
+0.840	21.120	4.29	-0.30	-1.32	1.32	0.91	-0.11	1.46	3.25	1.17	22.00	13.60	12.5	19.0
+0.880	21.880	4.17	-0.39	-1.39	1.36	0.78	-0.22	1.53	3.00	1.17	21.10	13.70	12.3	18.5
+0.920	22.640	4.17	-0.29	-1.29	1.37	0.68	-0.32	1.44	3.11	1.27	21.50	14.50	12.5	18.4
+0.960	23.410	4.29	-0.20	-1.20	1.31	0.90	-0.10	1.46	2.80	1.15	20.40	13.40	11.9	19.1
+0.980	23.990	4.34											15.7	22.6
+1.000	24.570	4.16	-0.52	-1.53	1.28	0.76	-0.25	1.61	3.03	1.28	21.20	14.70	12.4	19.3
+1.040	25.730	4.15	-0.33	-1.37	1.24	0.84	-0.20	1.55	2.94	1.13	20.90	13.30	12.9	18.6
+1.080	26.890	4.04	-0.34	-1.31	1.43	0.74	-0.23	1.47	2.83	1.10	20.50	13.00	11.2	19.9
+1.120	28.060	4.12	-0.56	-1.41	1.27	0.66	-0.19	1.46	2.94	1.29	20.90	14.80	12.5	17.5
+1.160	29.220	3.97	-0.79	-1.63	1.37	0.90	0.06	1.50	2.96	0.97	21.00	11.50	11.2	18.5
+1.200	30.380	4.06	-0.73	-1.55	1.41	0.69	-0.13	1.44	2.85	1.03	20.50	12.20	11.1	19.1
+1.240	31.160	3.94	-0.68	-1.48	1.49	0.78	-0.02	1.59	2.70	1.07	19.90	12.70	10.9	19.6
+1.280	31.930	4.11	-0.67	-1.52	1.57	0.77	-0.08	1.70	2.68	1.06	19.90	12.60	10.9	20.0
+1.320	32.700	3.94	-0.38	-1.22	1.65	0.62	-0.22	1.60	3.05	1.05	21.30	12.50	11.9	20.6
+1.360	33.470	3.98	-0.61	-1.46	1.58	0.60	-0.25	1.58	2.83	0.90	20.50	10.70	11.3	19.8
+1.400	34.240	4.00	-0.92	-1.73	1.44	0.54	-0.27	1.58	2.89	1.21	20.70	14.10	11.2	19.0
+1.440	35.020	4.01	-0.75	-1.55	1.54	0.27	-0.53	1.57	2.79	1.26	20.30	14.50	11.8	20.7
+1.480	35.790		-0.77	-1.64	1.48	0.28	-0.59	1.60	2.89	1.30	20.70	14.80	12.4	19.7
+1.520	36.560	4.01	-0.79	-1.68	1.55	0.49	-0.40	1.48	2.97	1.21	21.00	14.10	13.4	18.0
+1.560	37.330	3.91	-0.89	-1.71	1.36	0.35	-0.47	1.47	2.75	1.11	20.20	13.10	11.7	19.1
+1.600	38.110	4.10	-0.89	-1.64	1.48	0.33	-0.42	1.56	2.82	1.50	20.40	16.40	12.3	18.7
+1.640	38.880	3.96	-0.94	-1.61	1.44	0.17	-0.50	1.40	2.76	1.15	20.20	13.50	11.8	18.7
+1.680	39.650	3.91	-0.80	-1.63	1.69	0.47	-0.36	1.43	2.95	1.16	20.90	13.60	12.4	17.6
+1.720	40.420	3.90	-0.52	-1.33	1.42	0.43	-0.38	1.44	2.60	0.98	19.50	11.70	12.1	16.3
+1.760	41.190	4.23	-0.64	-1.47	1.50	0.60	-0.23	1.51	2.67	0.98	19.80	11.70	11.6	15.2
+1.800	41.970	3.90	-0.63	-1.43	1.47	0.32	-0.48	1.41	2.41	1.06	18.70	12.60	12.0	15.4
+1.840	42.740	3.84	-0.75	-1.53	1.42	0.31	-0.47	1.55	2.85	1.06	20.50	12.60	12.3	15.9
+1.880	43.510	4.01	-0.76	-1.59	1.58	0.30	-0.53	1.45	2.62	0.86	19.60	10.20	13.1	15.5
+1.920	44.280	3.91	-0.88	-1.73	1.62	0.48	-0.37	1.48	2.85	0.94	20.50	11.20	11.5	16.8
+1.960	45.060	3.90	-0.75	-1.47	1.52	0.19	-0.53	1.40	2.82	0.86	20.40	10.30	13.4	18.1
+1.980	45.440	3.75											13.9	18.4
+2.000	45.830	3.99	-0.99	-1.75	1.49	0.25	-0.51	1.30	3.10	0.94	21.50	11.30	13.8	17.9
+2.040	46.600	3.89	-0.83	-1.70	1.51	0.26	-0.61	1.47	2.85	1.06	20.50	12.60	12.8	17.5
+2.080	47.370	3.80	-0.98	-1.88	1.56	0.36	-0.54	1.38	2.64	1.00	19.70	11.90	11.5	17.2
+2.120	48.140	3.62	-0.64	-1.50	1.37	0.45	-0.41	1.47	2.62	0.95	19.60	11.30	12.2	16.5
+2.160	48.920	3.85	-0.77	-1.54	1.53	0.30	-0.47	1.41	2.57	0.96	19.40	11.50	11.5	19.3
+2.200	49.690	3.79	-0.93	-1.67	1.40	0.18	-0.56	1.45	2.94	1.05	20.90	12.40	12.6	19.2
+2.240	50.460	3.95	-0.87	-1.53	1.51	0.21	-0.45	1.36	2.90	1.17	20.70	13.70	12.4	19.3
+2.280	51.230	3.88	-0.86	-1.47	1.42	0.08	-0.53	1.31	2.63	1.20	19.70	13.90	11.1	18.6
+2.300	51.620	3.79											13.3	20.0
+2.320	52.010	3.93	-0.93	-1.56	1.43	0.13	-0.50	1.26	2.92	1.08	20.80	12.80	12.3	18.3
+2.360	52.780	3.77	-0.97	-1.63	1.49	0.09	-0.57	1.28	2.79	1.16	20.30	13.50	12.8	18.2
+2.400	53.550	3.78	-0.89	-1.55	1.38	0.31	-0.36	1.22	2.80	1.12	20.30	13.20	12.1	17.2
+2.440	54.320	3.87	-0.95	-1.60	1.45	0.38	-0.27	1.40	2.74	1.07	20.10	12.70	13.2	19.6
+2.480	55.090	3.87	-0.88	-1.66	1.32	0.28	-0.50	1.37	2.71	1.07	20.00	12.70	12.2	17.5
+2.520	55.870	3.95	-0.71	-1.39	1.39	0.32	-0.37	1.33	2.71	1.04	20.00	12.40	11.7	17.0
+2.560	56.640	3.98	-1.03	-1.63	1.29	0.09	-0.50	1.31	2.78	1.17	20.20	13.60	12.8	16.9
+2.600	57.410	3.84	-1.05	-1.69	1.33	-0.07	-0.71	1.13	3.01	1.46	21.10	16.10		19.0
+2.620	57.800	3.74											13.9	19.5
+2.640	58.180	3.35	-0.95	-1.62	1.32	0.18	-0.48	1.09	3.09	1.27	21.40	14.60	12.1	17.3
+2.660	58.570	3.86											14.0	18.7
+2.680	58.960	3.64	-0.93	-1.60	1.23	0.47	-0.19	0.99	2.78	1.13	20.30	13.30		18.6
+2.720	59.730	3.79	-0.63	-1.49	1.16	0.55	-0.32	1.09	2.84	0.94	20.50	11.20	13.3	18.5
+2.760	60.500	3.94	-0.75	-1.61	1.30	0.40	-0.46	0.99	2.98	1.12	21.00	13.20	12.4	17.5
+2.800	61.670	3.96	-0.66	-1.63	1.06	0.69	-0.28	1.14	3.26	0.98	22.00	11.60	12.4	15.9
+2.840	62.840	4.04	-0.85	-1.82	1.13	0.39	-0.57	1.16	2.83	0.95	20.50	11.30	11.8	15.7
+2.880	64.020	4.03	-0.42	-1.38	0.98	0.58	-0.38	1.22	2.72	0.95	20.00	11.40	10.9	14.3
+2.920	65.190	4.09	-0.55	-1.57	1.23				2.52	0.98	19.20	11.70	11.4	15.0
+2.960	66.360	3.90				0.65	-0.32	1.45					10.7	15.3
+3.000	67.530	3.93	-0.74	-1.73	1.47	0.50	-0.50	1.48		0.83		9.80	11.9	14.2

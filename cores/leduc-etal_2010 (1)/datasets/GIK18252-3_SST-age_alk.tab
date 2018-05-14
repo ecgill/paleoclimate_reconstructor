@@ -1,0 +1,29 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GIK18252-3 using alkenones. doi:10.1594/PANGAEA.737225, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 9.250117 * LONGITUDE: 109.390767
+	MINIMUM AGE: 2.134 ka BP * MAXIMUM AGE: 10.245 ka BP
+Event(s):	GIK18252-3 (SO115_05) * LATITUDE: 9.250117 * LONGITUDE: 109.390767 * DATE/TIME: 1996-12-13T00:00:00 * ELEVATION: -1273.0 m * RECOVERY: 11.85 m * LOCATION: Vietnam shelf * CAMPAIGN: SO115 (SUNDAFLUT) (URI: doi:10.2312/reports-gpi.1997.86) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: GC-12/
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	17 data points
+*/
+Age [ka BP]	SST [¡C]
+2.134	28.0
+2.988	27.9
+3.415	27.6
+4.696	27.6
+5.122	27.5
+5.549	27.4
+5.976	27.2
+6.403	27.0
+6.830	27.0
+7.257	26.9
+7.684	26.8
+8.110	26.9
+8.964	26.9
+9.391	26.6
+9.818	26.5
+10.031	26.5
+10.245	26.1

@@ -1,0 +1,24 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 167-1012B using alkenones. doi:10.1594/PANGAEA.737197, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 32.282600 * LONGITUDE: -118.383000
+	MINIMUM AGE: 2.048 ka BP * MAXIMUM AGE: 10.040 ka BP
+Event(s):	167-1012B * LATITUDE: 32.282600 * LONGITUDE: -118.383000 * DATE/TIME START: 1996-05-11T07:30:00 * DATE/TIME END: 1996-05-11T17:15:00 * ELEVATION: -1772.0 m * RECOVERY: 131.26 m * PENETRATION: 132.30 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg167 (URI: doi:10.2973/odp.proc.ir.167.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 14 cores; 132.3 m cored; 0 m drilled; 99.2 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	12 data points
+*/
+Age [ka BP]	SST [¡C]
+2.048	16.5
+2.531	16.5
+3.049	16.5
+3.639	16.6
+4.526	16.8
+5.276	16.6
+6.035	16.1
+6.807	16.1
+7.592	16.2
+8.393	16.5
+9.209	16.3
+10.040	16.3

@@ -1,0 +1,52 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD02-2575 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736994, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 29.001700 * LONGITUDE: -87.118800
+	MINIMUM AGE: 1.051 ka BP * MAXIMUM AGE: 10.466 ka BP
+Event(s):	MD02-2575 (MD022575) * LATITUDE: 29.001700 * LONGITUDE: -87.118800 * DATE/TIME: 2002-07-16T13:50:00 * ELEVATION: -847.0 m * RECOVERY: 34.36 m * LOCATION: De Soto Canyon * CAMPAIGN: MD127 (IMAGES IX - PAGE) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	40 data points
+*/
+Age [ka BP]	SST [¡C]
+1.051	25.75
+1.239	24.48
+1.427	25.21
+1.615	26.10
+1.803	25.46
+1.991	24.32
+2.144	25.39
+2.297	25.64
+2.450	26.39
+2.604	26.24
+2.757	25.77
+2.910	25.63
+3.063	27.30
+3.370	27.18
+3.677	26.56
+3.983	25.72
+4.290	26.51
+4.597	26.87
+4.904	26.42
+5.211	26.65
+5.517	25.69
+5.824	27.28
+6.131	26.89
+6.298	26.25
+6.465	26.84
+6.633	26.97
+6.800	26.87
+6.967	27.02
+7.134	27.24
+7.301	27.10
+7.636	26.54
+7.803	27.25
+8.132	27.15
+8.461	27.78
+8.789	26.45
+9.118	27.04
+9.447	26.36
+9.787	27.01
+10.126	26.40
+10.466	25.99

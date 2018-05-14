@@ -1,0 +1,64 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GeoB1023-5 using alkenones. doi:10.1594/PANGAEA.737209, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -17.157217 * LONGITUDE: 11.011667
+	MINIMUM AGE: 0.276 ka BP * MAXIMUM AGE: 10.376 ka BP
+Event(s):	GeoB1023-5 * LATITUDE: -17.157217 * LONGITUDE: 11.011667 * DATE/TIME: 1988-02-28T00:00:00 * ELEVATION: -1978.0 m * RECOVERY: 9.50 m * PENETRATION: 12.00 m * LOCATION: Angola Basin * CAMPAIGN: M6/6 (URI: urn:nbn:de:gbv:46-ep000101421) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: cc: clay, olivgreen, shells
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	52 data points
+*/
+Age [ka BP]	SST [¡C]
+0.276	20.4
+0.449	20.4
+0.621	21.2
+0.794	21.0
+0.966	21.1
+1.139	21.0
+1.311	21.4
+1.518	21.4
+1.725	21.6
+1.932	21.4
+2.139	21.4
+2.346	21.2
+2.553	21.5
+2.760	21.6
+2.967	21.4
+3.132	21.6
+3.380	21.8
+3.587	21.9
+3.794	21.4
+4.001	21.8
+4.208	21.8
+4.415	21.5
+4.622	21.9
+4.829	22.1
+5.126	22.2
+5.423	22.4
+5.720	22.2
+6.017	22.0
+6.314	22.1
+6.611	21.9
+6.908	21.8
+7.205	21.8
+7.502	21.9
+7.769	21.9
+7.914	21.9
+8.059	21.8
+8.203	21.7
+8.348	21.6
+8.493	21.8
+8.638	21.6
+8.783	21.5
+8.927	21.6
+9.072	21.3
+9.217	21.7
+9.362	21.3
+9.507	21.0
+9.652	21.1
+9.796	21.4
+9.941	21.2
+10.086	21.2
+10.231	21.2
+10.376	20.7

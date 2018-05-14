@@ -1,0 +1,46 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD79-257 using alkenones. doi:10.1594/PANGAEA.737247, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -20.240000 * LONGITUDE: 36.200000
+	MINIMUM AGE: 1.200 ka BP * MAXIMUM AGE: 10.500 ka BP
+Event(s):	MD79-257 * LATITUDE: -20.240000 * LONGITUDE: 36.200000 * DATE/TIME: 1979-01-01T00:00:00 * ELEVATION: -1262.0 m * RECOVERY: 11.40 m * LOCATION: Indian Ocean * CAMPAIGN: OSIRIS4 * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	34 data points
+*/
+Age [ka BP]	SST [¡C]
+1.200	26.8
+1.500	26.9
+2.100	26.9
+3.800	27.2
+4.300	27.4
+4.700	27.2
+5.300	27.1
+5.700	27.1
+6.100	27.3
+6.400	27.4
+6.700	27.5
+7.100	27.5
+7.200	26.8
+7.400	27.2
+7.900	26.6
+8.000	26.5
+8.000	26.5
+8.000	26.6
+8.100	26.5
+8.100	26.4
+8.100	26.6
+8.200	26.8
+8.300	26.7
+8.500	26.8
+8.700	26.8
+8.900	26.9
+9.200	26.9
+9.400	26.1
+9.600	26.3
+9.800	26.3
+10.100	26.1
+10.200	26.4
+10.400	26.3
+10.500	26.2

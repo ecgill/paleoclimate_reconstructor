@@ -1,0 +1,118 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 175-1084B using Mg/Ca-ratios. doi:10.1594/PANGAEA.736983, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -25.513660 * LONGITUDE: 13.027750
+	MINIMUM AGE: 0.000 ka BP * MAXIMUM AGE: 10.498 ka BP
+Event(s):	175-1084B * LATITUDE: -25.513660 * LONGITUDE: 13.027750 * DATE/TIME START: 1997-09-24T03:15:00 * DATE/TIME END: 1997-09-24T17:50:00 * ELEVATION: -1992.8 m * RECOVERY: 186.60 m * PENETRATION: 182.80 m * LOCATION: Benguela Current, South Atlantic Ocean * CAMPAIGN: Leg175 (URI: doi:10.2973/odp.proc.ir.175.1998) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 20 cores; 182.8 m cored; 0 m drilled; 102.1 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	106 data points
+*/
+Age [ka BP]	SST [¡C]
+0.000	14.00
+0.066	14.20
+0.197	13.90
+0.263	13.80
+0.329	12.60
+0.395	13.60
+0.461	13.20
+0.527	13.00
+0.592	12.50
+0.658	14.40
+0.724	12.40
+0.856	13.00
+0.921	13.30
+0.987	12.90
+1.206	13.90
+1.360	14.00
+1.513	13.40
+1.667	12.50
+1.820	13.40
+1.974	13.80
+2.127	14.10
+2.281	13.50
+2.434	14.00
+2.588	13.10
+2.741	13.40
+2.895	14.20
+3.048	14.10
+3.201	13.20
+3.355	14.40
+3.508	14.80
+3.662	14.30
+3.815	14.40
+3.969	14.20
+4.122	13.80
+4.276	13.90
+4.429	14.30
+4.583	14.40
+4.736	13.70
+4.890	14.40
+5.043	14.80
+5.153	14.80
+5.263	14.20
+5.374	13.90
+5.484	14.00
+5.594	14.80
+5.704	14.80
+5.814	13.10
+5.925	13.30
+6.145	13.90
+6.255	13.00
+6.365	13.40
+6.476	13.20
+6.586	13.60
+6.696	15.30
+6.806	12.40
+6.916	13.50
+7.027	14.10
+7.137	12.40
+7.247	12.90
+7.357	14.00
+7.467	12.90
+7.578	13.60
+7.688	12.90
+7.798	13.90
+7.908	14.00
+8.018	14.50
+8.129	12.50
+8.239	14.10
+8.406	14.70
+8.462	14.60
+8.519	14.40
+8.576	14.70
+8.689	14.40
+8.746	15.20
+8.802	14.50
+8.859	14.50
+8.916	14.60
+8.972	14.40
+9.029	14.40
+9.086	15.00
+9.142	14.50
+9.199	14.60
+9.256	14.60
+9.312	13.20
+9.369	14.10
+9.426	14.40
+9.482	15.40
+9.539	15.20
+9.596	15.60
+9.652	14.00
+9.709	13.80
+9.766	14.30
+9.822	15.10
+9.879	13.20
+9.931	14.30
+9.982	14.20
+10.034	13.70
+10.085	13.70
+10.137	13.90
+10.189	15.10
+10.240	13.30
+10.292	14.60
+10.343	14.20
+10.395	14.50
+10.446	13.10
+10.498	14.30

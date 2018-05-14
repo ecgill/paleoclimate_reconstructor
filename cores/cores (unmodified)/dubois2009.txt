@@ -1,0 +1,467 @@
+Eastern Equatorial Pacific 30KYr Alkenone SST Reconstructions 
+----------------------------------------------------------------------- 
+               World Data Center for Paleoclimatology, Boulder 
+                                  and 
+                     NOAA Paleoclimatology Program 
+----------------------------------------------------------------------- 
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!! 
+
+
+NAME OF DATA SET: 
+Eastern Equatorial Pacific 30KYr Alkenone SST Reconstructions 
+
+LAST UPDATE: 9/2011 (Original receipt by WDC Paleo) 
+CONTRIBUTORS: Dubois, N., M. Kienast, C. Normandeau, and T.D. Herbert 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2011-124 
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Dubois, N., et al. 2011. 
+Eastern Equatorial Pacific 30KYr Alkenone SST Reconstructions. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2011-124. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+ORIGINAL REFERENCE: 
+Dubois, N., M. Kienast, C. Normandeau, and T.D. Herbert. 2009. 
+Eastern equatorial Pacific cold tongue during the Last Glacial 
+Maximum as seen from alkenone paleothermometry. 
+Paleoceanography, 24, PA4207, doi:10.1029/2009PA001781. 
+
+ABSTRACT: 
+We present new alkenone-based sea surface temperature (SST) 
+estimates from the eastern equatorial Pacific (EEP) for the 
+last 30 kyr. By combining these new results with recently 
+published records from the region, we reconstruct the spatial 
+pattern of changes in SST during the Last Glacial Maximum (LGM). 
+Alkenone-based SST estimates show a greater glacial cooling 
+in the upwelling environment of the cold tongue than in sites 
+located further north in the equatorial front and eastern Pacific 
+Warm Pool. This result agrees with the paradigm of stronger 
+glacial winds, increased upwelling, steeper zonal thermocline 
+tilt, and stronger advection of cold water in the Peru Current. 
+Furthermore, we investigate possible changes in glacial surface 
+hydrography by using the alkenone-based SST reconstructions 
+to correct planktonic foraminifera d18O for the temperature effect. 
+After additional correction for the global ice volume effect, 
+the residual changes in seawater d18O show a clear latitudinal 
+pattern that would be consistent with a southward shift of the 
+Intertropical Convergence Zone. We thus suggest that changes 
+in sea surface salinities could explain contrasting SST 
+reconstructions based on planktonic foraminifera d18O, 
+which implied a weakening of the cold tongue. The controversial 
+LGM dynamics of the EEP reconstructed by different proxies, 
+i.e., a weakening or a strengthening of the cold tongue, 
+highlight the necessity to better assess the influence 
+of various biases on these proxies. 
+
+
+
+ADDITIONAL REFERENCES: 
+Benway, H.M., A.C. Mix, B.A. Haley, and G.P. Klinkhammer. 2006. 
+Eastern Pacific Warm Pool paleosalinity and climate variability: 
+0-30 kyr. 
+Paleoceanography, v. 21, PA3008, doi:10.1029/2005PA001208. 
+
+Herbert, T.D., J.D. Schuffert, D. Thomas, C. Lange, A. Weinheimer, 
+A. Peleo-Alampay, C. Lange, A. Weinheimer, A. Peleo-Alampay, 
+and J.-C. Herguera. 1998. 
+Depth and seasonality of alkenone production along the California 
+margin inferred from a core top transect. 
+Paleoceanography, v. 13, 263- 271. 
+
+Kienast, M., S.S. Kienast, S.E. Calvert, T.I. Eglinton, 
+G. Mollenhauer, R. François, and A. Mix. 2006. 
+Eastern Pacific cooling and Atlantic overturning circulation 
+during the last deglaciation. 
+Nature, v. 443, 846?849, doi:10.1038/nature05222. 
+
+Kienast, S.S., M. Kienast, A.C. Mix, S.E. Calvert, 
+and R. François. 2007. 
+Thorium-230 normalized particle flux and sediment focusing 
+in the Panama Basin region during the last 30,000 years. 
+Paleoceanography, v. 22, PA2213, doi:10.1029/2006PA001357. 
+
+Lea, D.W., D.K. Pak, C.L. Belanger, H.J. Spero, M.A. Hall, 
+and N.J. Shackleton. 2006. 
+Paleoclimate history of Galapagos surface waters over the last 
+135,000 yr. 
+Quat. Sci. Rev., v. 25, 1152-1167. 
+doi:10.1016/j.quascirev.2005.11.010. 
+
+Lea, D.W., D.K. Pak, and H.J. Spero. 2000. 
+Climate impact of late quaternary equatorial Pacific 
+sea surface temperature variations. 
+Science, v. 289, 1719-1724, doi:10.1126/science.289.5485.1719. 
+
+Martin, P.A., D.W. Lea, Y. Rosenthal, N.J. Shackleton, 
+M. Sarnthein, and T. Papenfuss. 2002. 
+Quaternary deep sea temperature histories derived from benthic 
+foraminiferal Mg/Ca. 
+Earth Planet. Sci. Lett., v. 198, 193-209. 
+doi:10.1016/S0012-821X(02)00472-7. 
+
+Prahl, F. G., L. A. Muehlhausen, and D. L. Zahnle. 1988. 
+Further evaluation of longchain alkenones as indicators 
+of paleoceanographic conditions. 
+Geochim. Cosmochim. Acta, v. 52, 2303-2310, 
+doi:10.1016/0016-7037(88)90132-9. 
+
+
+
+GEOGRAPHIC REGION: Eastern Equatorial Pacific 
+PERIOD OF RECORD: 30 KYrBP - present 
+
+FUNDING SOURCES: 
+NSERC Canada, US National Science Foundation (NSF), 
+Canadian Institute for Advanced Research (CIFAR).  
+
+
+
+DESCRIPTION: 
+Reconstructed alkenone-based sea surface temperature from five 
+eastern equatorial Pacific sediment cores covering the last 30 kyr BP. 							
+
+Cores ME0005A-27JC, ME0005A-43JC and TR163-31P were analyzed for 
+alkenone unsaturation at Dalhousie University following standard 
+laboratory procedures detailed by Kienast et al. (2006), whereas 
+cores TR163-19P and TR163-22P where analyzed at Brown University 
+following similar laboratory procedures detailed by Herbert et al. 
+(1998). 
+
+The age models for these cores were adopted as published in earlier 
+studies (ME0005A-27JC from Kienast et al. 2007, ME0005A-43JC from 
+Benway et al. 2006, TR163-19P from Lea et al. 2000, TR163-22P from 
+Lea et al. 2006, TR163-31P from Martin et al. 2002). 
+
+The alkenone unsaturation index UK037 is calculated as 
+UK'37 = (C37:2)/(C37:3 + C37:2), where (C37:2) and (C37:3) are 
+concentrations of the diunsaturated and triunsaturated C37 methyl 
+alkenones. For conversion into temperature estimates, we used the 
+culture calibration of Prahl et al. (1988) (UK'37 = 0.034T + 0.039). 
+Replicate analyses of selected samples indicate an analytical 
+precision of about ±0.01 UK'37 units (0.3°C). 
+
+Core Locations: 
+ME0005A-27JC: 1°51.20'S, 82°47.20'W, 2203 m water depth 
+ME0005A-43JC: 7°51.35'N, 83°36.50'W, 1368 m water depth 
+TR163-19P:    2°15.50'N, 90°57.10'W, 2348 m water depth 
+TR163-22P:    0°30.90'N, 92°23.90'W, 2830 m water depth 
+TR163-31P:    3°37.12'S, 83°58.24'W, 3205 m water depth
+
+
+
+
+
+
+DATA: 
+1. Core ME0005A-27JC UK'37 and UK-based SST. 
+   Age model from Kienast et al. (2007).
+
+Column 1: Core
+Column 2: Depth (cm)
+Column 3: Age (kyr BP)
+Column 4: UK'37
+Column 5: SST (°C)
+
+Core                 Depth        Age      UK'37        SST
+ME0005A-27JC             4       1.21      0.861      24.19
+ME0005A-27JC             6       1.56      0.859      24.11
+ME0005A-27JC             8       1.91      0.863      24.24
+ME0005A-27JC            10       2.26      0.873      24.52
+ME0005A-27JC            22       4.38      0.849      23.82
+ME0005A-27JC            26       5.08      0.858      24.07
+ME0005A-27JC            28       5.44      0.875      24.59
+ME0005A-27JC            30       5.79      0.856      24.03
+ME0005A-27JC          32.5       6.23      0.853      23.93
+ME0005A-27JC            36       6.85      0.853      23.95
+ME0005A-27JC            38        7.2      0.872       24.5
+ME0005A-27JC            40       7.55      0.855      24.01
+ME0005A-27JC            42       7.88      0.855         24
+ME0005A-27JC            44       8.19      0.853      23.95
+ME0005A-27JC            48       8.81      0.836      23.44
+ME0005A-27JC          52.5       9.51      0.838      23.49
+ME0005A-27JC            58      10.36      0.847      23.76
+ME0005A-27JC            62      10.98      0.843      23.65
+ME0005A-27JC            66       11.6      0.835       23.4
+ME0005A-27JC            68      11.91      0.824      23.09
+ME0005A-27JC          69.5      12.14      0.816      22.86
+ME0005A-27JC            71      12.37      0.834      23.37
+ME0005A-27JC          72.5      12.61      0.818      22.92
+ME0005A-27JC            74      12.84      0.804      22.49
+ME0005A-27JC            76      13.15      0.811       22.7
+ME0005A-27JC            77       13.3      0.806      22.55
+ME0005A-27JC            79      13.61      0.809      22.65
+ME0005A-27JC            82      14.08      0.813      22.77
+ME0005A-27JC            84      14.39      0.805      22.53
+ME0005A-27JC            86       14.7      0.815      22.83
+ME0005A-27JC            88      15.01      0.803      22.48
+ME0005A-27JC            90      15.32      0.829      23.25
+ME0005A-27JC            92      15.62      0.784      21.91
+ME0005A-27JC            94      15.91      0.793      22.16
+ME0005A-27JC            96      16.21      0.786      21.98
+ME0005A-27JC            98       16.5      0.793      22.19
+ME0005A-27JC            99      16.65      0.789      22.05
+ME0005A-27JC         100.5      16.87      0.785      21.93
+ME0005A-27JC         101.5      17.02      0.791      22.12
+ME0005A-27JC           104      17.39      0.797      22.29
+ME0005A-27JC           106      17.68      0.823      23.05
+ME0005A-27JC           108      17.98      0.795      22.24
+ME0005A-27JC           110      18.27      0.784      21.92
+ME0005A-27JC           112      18.57      0.796      22.26
+ME0005A-27JC           114      18.86      0.801       22.4
+ME0005A-27JC           116      19.16      0.821      23.01
+ME0005A-27JC           122      20.07      0.818      22.93
+ME0005A-27JC           132      21.68      0.823      23.07
+ME0005A-27JC           142      23.29      0.807       22.6
+ME0005A-27JC           152      24.89      0.797       22.3
+ME0005A-27JC         171.5      28.03      0.805      22.52
+ME0005A-27JC           174      28.69      0.836      23.43
+ME0005A-27JC           176      29.05      0.843      23.64
+ME0005A-27JC         177.5      29.32      0.833      23.36
+ME0005A-27JC         179.5      29.68      0.843      23.64
+
+
+
+
+
+2. Core ME0005A-43JC UK'37 and UK-based SST. 
+   Age model from Benway et al. (2006).
+
+Column 1: Core
+Column 2: Depth (cm)
+Column 3: Age (kyr BP)
+Column 4: UK'37
+Column 5: SST (°C)
+
+Core                 Depth        Age      UK'37        SST 
+ME0005A-43JC            11       2.31       0.96      27.08
+ME0005A-43JC            25       4.87      0.954      26.91
+ME0005A-43JC            28       5.25      0.949      26.76
+ME0005A-43JC            34       5.83      0.949      26.76
+ME0005A-43JC            44       6.81      0.943      26.59
+ME0005A-43JC            47        7.1      0.943      26.59
+ME0005A-43JC            53       7.69      0.942      26.56
+ME0005A-43JC            65       8.86      0.942      26.55
+ME0005A-43JC            71       9.44      0.929      26.18
+ME0005A-43JC            76       9.93      0.925      26.05
+ME0005A-43JC            79      10.22      0.932      26.26
+ME0005A-43JC            84      10.71      0.928      26.14
+ME0005A-43JC            87         11      0.919      25.87
+ME0005A-43JC            90      11.29       0.92      25.92
+ME0005A-43JC            93       11.6       0.92       25.9
+ME0005A-43JC            96      11.91      0.918      25.86
+ME0005A-43JC            99      12.22      0.924      26.03
+ME0005A-43JC           102      12.54      0.915      25.77
+ME0005A-43JC           108      13.16       0.91      25.62
+ME0005A-43JC           111      13.47      0.919      25.88
+ME0005A-43JC           114      13.79      0.911      25.63
+ME0005A-43JC           117       14.1      0.919      25.88
+ME0005A-43JC           121      14.52      0.915      25.76
+ME0005A-43JC           124      14.83      0.916      25.79
+ME0005A-43JC           127      15.14        0.9      25.31
+ME0005A-43JC           132      15.65      0.906      25.49
+ME0005A-43JC           135      15.92      0.901      25.36
+ME0005A-43JC           138      16.19      0.889      25.01
+ME0005A-43JC           141      16.46      0.904      25.43
+ME0005A-43JC           144      16.73      0.902      25.38
+ME0005A-43JC           147         17      0.887      24.95
+ME0005A-43JC           151      17.36      0.913       25.7
+ME0005A-43JC           155      17.72      0.892       25.1
+ME0005A-43JC           158      17.99      0.906      25.49
+ME0005A-43JC           161      18.26      0.914      25.75
+ME0005A-43JC           164      18.53      0.913      25.69
+ME0005A-43JC           171      19.16      0.906      25.49
+ME0005A-43JC           173      19.34      0.901      25.34
+ME0005A-43JC           176      19.61        0.9      25.33
+ME0005A-43JC           178      19.79      0.911      25.65
+ME0005A-43JC           180      19.97      0.913      25.72
+ME0005A-43JC           183      20.24      0.907      25.52
+ME0005A-43JC           187      20.58      0.916      25.79
+ME0005A-43JC           191      20.87      0.911      25.65
+ME0005A-43JC           193      21.02       0.91      25.62
+ME0005A-43JC           202      21.68      0.913      25.69
+ME0005A-43JC           208      22.12      0.913      25.72
+ME0005A-43JC           211       22.3      0.897      25.24
+ME0005A-43JC           214      22.48      0.917      25.81
+ME0005A-43JC           217      22.65      0.905      25.47
+ME0005A-43JC           221      22.89      0.925      26.06
+ME0005A-43JC           227      23.24      0.911      25.64
+ME0005A-43JC           231      23.51      0.894      25.15
+ME0005A-43JC           234      23.72      0.908      25.56
+ME0005A-43JC           237      23.93      0.884      24.85
+ME0005A-43JC           241      24.34      0.886      24.92
+ME0005A-43JC           243      24.57      0.904      25.44
+ME0005A-43JC           246      24.92      0.891      25.05
+
+
+
+
+
+3. Core TR163-19P UK'37 and UK-based SST. 
+   Age model from Lea et al. (2000).
+
+Column 1: Core
+Column 2: Depth (cm)
+Column 3: Age (kyr BP)
+Column 4: UK'37
+Column 5: SST (°C)
+
+Core                 Depth        Age      UK'37        SST 
+TR163-19P                1       0.99      0.893      25.12
+TR163-19P              2.5       1.37      0.897      25.24
+TR163-19P              4.5       1.86      0.915      25.76
+TR163-19P              6.5       2.36        0.9      25.32
+TR163-19P              9.5        3.1        0.9      25.32
+TR163-19P               11        3.5      0.891      25.06
+TR163-19P             12.5       3.89      0.883      24.82
+TR163-19P               14       4.28      0.895      25.18
+TR163-19P               19        5.6      0.888      24.97
+TR163-19P               24       6.65      0.887      24.94
+TR163-19P               29       8.07      0.889         25
+TR163-19P               34        9.5      0.882      24.79
+TR163-19P               39      10.88      0.877      24.65
+TR163-19P               44      12.21      0.851      23.88
+TR163-19P               49      13.39      0.855         24
+TR163-19P               54      14.57       0.86      24.15
+TR163-19P               59       15.9      0.848      23.79
+TR163-19P               64      17.29      0.854      23.97
+TR163-19P               69      18.71      0.856      24.03
+TR163-19P               74      20.54      0.858      24.09
+TR163-19P               79      22.76      0.856      24.03
+TR163-19P               84       24.6      0.854      23.97
+TR163-19P               89      26.09      0.841      23.59
+TR163-19P               94       27.5      0.854      23.97
+TR163-19P               99      28.83      0.845      23.71
+
+
+
+
+
+4. Core TR163-22P UK'37 and UK-based SST. 
+   Age model from Lea et al. (2006).
+
+Column 1: Core
+Column 2: Depth (cm)
+Column 3: Age (kyr BP)
+Column 4: UK'37
+Column 5: SST (°C)
+
+Core                 Depth        Age      UK'37        SST  
+TR163-22P              1.5       0.98      0.858       24.1
+TR163-22P                5       1.43      0.869       24.4
+TR163-22P               10       2.08      0.869       24.4
+TR163-22P             19.5       3.32      0.841       23.6
+TR163-22P               24        3.9      0.841       23.6
+TR163-22P             29.5       4.66      0.835       23.4
+TR163-22P               34        5.2      0.848       23.8
+TR163-22P             39.5       5.96      0.841       23.6
+TR163-22P               44        6.5      0.848       23.8
+TR163-22P             48.5       7.13      0.845       23.7
+TR163-22P               54        7.8      0.845       23.7
+TR163-22P             60.5       8.61      0.838       23.5
+TR163-22P               63       8.96      0.841       23.6
+TR163-22P             69.5       9.76      0.841       23.6
+TR163-22P             73.5      10.24      0.841       23.6
+TR163-22P             78.5      10.84      0.828       23.2
+TR163-22P               84       11.6      0.804       22.5
+TR163-22P               88      12.08      0.787         22
+TR163-22P               94       12.7      0.797       22.3
+TR163-22P             99.5      13.15      0.801       22.4
+TR163-22P              104       13.6      0.794       22.2
+TR163-22P            108.5      13.96      0.801       22.4
+TR163-22P              114       14.5      0.763       21.3
+TR163-22P              119         15      0.784       21.9
+TR163-22P              124       15.4      0.784       21.9
+TR163-22P            127.5      15.72      0.787         22
+TR163-22P            131.5      16.08       0.78       21.8
+TR163-22P            137.5      16.65      0.777       21.7
+TR163-22P            141.5      17.05      0.773       21.6
+TR163-22P            147.5      17.65       0.79       22.1
+TR163-22P              152      18.04       0.79       22.1
+TR163-22P            157.5      18.55      0.784       21.9
+TR163-22P              162      18.94      0.797       22.3
+TR163-22P            166.5       19.4      0.804       22.5
+TR163-22P            171.5      19.93       0.79       22.1
+TR163-22P            175.5      20.29       0.79       22.1
+TR163-22P              181      20.76       0.79       22.1
+TR163-22P            187.5      21.42      0.797       22.3
+TR163-22P              193      21.92      0.797       22.3
+TR163-22P            197.5      22.35      0.811       22.7
+TR163-22P              202      22.74      0.807       22.6
+TR163-22P            206.5      23.15      0.801       22.4
+TR163-22P              212      23.67      0.777       21.7
+TR163-22P            216.5      24.08       0.79       22.1
+TR163-22P              223       24.7      0.801       22.4
+TR163-22P            227.5      25.15      0.794       22.2
+TR163-22P              232      25.57      0.794       22.2
+TR163-22P            235.5      25.89       0.79       22.1
+TR163-22P              241      26.36      0.787         22
+TR163-22P            246.5      26.85      0.777       21.7
+TR163-22P              253       27.5      0.794       22.2
+TR163-22P              261      28.52      0.804       22.5
+TR163-22P              266      29.07      0.804       22.5
+TR163-22P              272      29.76      0.801       22.4
+
+
+
+
+
+5. Core TR163-31P UK'37 and UK-based SST. 
+   Age model from Martin et al. (2002).
+
+Column 1: Core
+Column 2: Depth (cm)
+Column 3: Age (kyr BP)
+Column 4: UK'37
+Column 5: SST (°C)
+
+Core                 Depth        Age      UK'37        SST 
+TR163-31P                3       5.44      0.792      22.13
+TR163-31P                6       5.84      0.807      22.58
+TR163-31P                9       6.24      0.809      22.65
+TR163-31P               12       6.65      0.806      22.56
+TR163-31P               15       7.05      0.792      22.16
+TR163-31P             16.5       7.26      0.804      22.49
+TR163-31P               20       7.73      0.781      21.82
+TR163-31P               24       8.37       0.82      22.98
+TR163-31P               27       8.93      0.808      22.61
+TR163-31P               30       9.48      0.803      22.48
+TR163-31P               33      10.03      0.802      22.43
+TR163-31P               36      10.59      0.783      21.91
+TR163-31P               39      11.14      0.782      21.76
+TR163-31P               42      11.71      0.763       21.3
+TR163-31P               45       12.3       0.78      21.78
+TR163-31P               48       12.9       0.76       21.2
+TR163-31P               54      13.88      0.769       21.9
+TR163-31P               57      14.15      0.761      21.23
+TR163-31P               60      14.42      0.763      21.31
+TR163-31P               63       14.7      0.758      21.13
+TR163-31P               66         15      0.753      20.99
+TR163-31P               69       15.3      0.763       21.3
+TR163-31P               74       15.8      0.759      21.18
+TR163-31P               77       16.1      0.772      21.56
+TR163-31P               80       16.4      0.772      21.55
+TR163-31P               83      16.68       0.75      20.91
+TR163-31P               89      17.26      0.779      21.78
+TR163-31P               92      17.55      0.738      20.57
+TR163-31P               95      17.84      0.729       20.3
+TR163-31P              101      18.42       0.74      20.62
+TR163-31P              104       18.7      0.735      20.47
+TR163-31P              107      18.98      0.765      21.35
+TR163-31P              110      19.25       0.75      20.92
+TR163-31P              116       19.8      0.743       20.7
+TR163-31P              122      20.26      0.735      20.47
+TR163-31P              128      20.64      0.754      21.03
+TR163-31P              134      20.97      0.739      20.58
+TR163-31P              140      21.19       0.73      20.33
+TR163-31P              146       21.4      0.754      21.02
+TR163-31P              152      21.62      0.759      21.17
+TR163-31P              158      21.83      0.738      20.54
+TR163-31P              164      22.04      0.749      20.89
+TR163-31P              170      22.26      0.749      20.88
+TR163-31P              188       22.9      0.745      20.75
+TR163-31P              203      23.43      0.752      20.97
+TR163-31P              233       24.7      0.746      20.78
+

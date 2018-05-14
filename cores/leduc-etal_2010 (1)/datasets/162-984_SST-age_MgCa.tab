@@ -1,0 +1,107 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 162-984 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736981, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 61.425317 * LONGITUDE: -24.082417
+	MINIMUM AGE: 0.554 ka BP * MAXIMUM AGE: 10.423 ka BP
+Event(s):	162-984 * LATITUDE: 61.425317 * LONGITUDE: -24.082417 * DATE/TIME START: 1995-07-24T00:00:00 * DATE/TIME END: 1995-07-29T00:00:00 * ELEVATION: -1648.5 m * RECOVERY: 1049.60 m * PENETRATION: 1240.90 m * LOCATION: North Atlantic Ocean * CAMPAIGN: Leg162 (URI: doi:10.2973/odp.proc.ir.162.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: 115 cores; 1083.1 m cored; 0 m drilled; 96.9% recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	95 data points
+*/
+Age [ka BP]	SST [¡C]
+0.554	9.00
+0.608	6.90
+0.626	8.20
+0.734	8.10
+0.769	6.60
+0.985	6.60
+1.043	8.20
+1.159	7.70
+1.217	8.20
+1.450	10.70
+1.508	9.00
+1.566	10.70
+1.624	6.00
+1.740	7.50
+1.798	7.70
+2.199	7.60
+2.300	8.10
+2.400	8.20
+2.500	8.20
+2.701	8.60
+2.801	9.90
+3.203	9.30
+3.303	7.30
+3.403	9.20
+3.504	7.00
+3.670	6.60
+3.735	8.50
+3.867	8.80
+3.998	8.80
+4.064	10.70
+4.130	10.00
+4.195	8.10
+4.261	10.60
+4.393	8.90
+4.524	9.30
+4.679	8.40
+4.757	8.80
+4.834	8.70
+4.912	9.60
+5.067	9.20
+5.144	8.70
+5.377	9.60
+5.455	7.40
+5.532	8.40
+5.610	9.20
+5.687	7.40
+5.765	9.00
+5.842	8.20
+5.920	8.20
+6.075	9.10
+6.155	8.80
+6.234	9.20
+6.314	8.50
+6.473	8.00
+6.553	8.10
+6.633	8.50
+6.713	7.90
+6.872	8.40
+6.952	8.70
+7.031	7.50
+7.111	7.20
+7.270	8.00
+7.350	7.20
+7.451	6.60
+7.553	8.80
+7.654	8.60
+7.756	8.10
+7.806	8.10
+7.857	7.50
+7.938	7.50
+8.018	6.70
+8.179	6.00
+8.260	5.60
+8.340	6.60
+8.421	7.90
+8.502	7.50
+8.582	7.40
+8.663	7.60
+8.743	6.80
+8.824	7.70
+8.985	8.20
+9.066	7.60
+9.146	6.80
+9.227	6.00
+9.307	5.90
+9.388	6.30
+9.468	7.30
+9.547	5.90
+9.627	6.60
+9.786	8.00
+9.945	6.10
+10.025	7.30
+10.184	7.00
+10.343	7.00
+10.423	7.40

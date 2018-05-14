@@ -1,0 +1,40 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD03-2611G using alkenones. doi:10.1594/PANGAEA.737245, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -36.729800 * LONGITUDE: 136.548300
+	MINIMUM AGE: 0.684 ka BP * MAXIMUM AGE: 10.482 ka BP
+Event(s):	MD03-2611G (MD032611G) * LATITUDE: -36.729800 * LONGITUDE: 136.548300 * DATE/TIME: 2003-02-27T06:25:00 * ELEVATION: -2420.0 m * RECOVERY: 11.97 m * LOCATION: Southern Ocean * CAMPAIGN: MD130 (IMAGES X - CADO) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Gravity corer (GC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	28 data points
+*/
+Age [ka BP]	SST [¡C]
+0.684	17.6
+0.872	18.1
+1.248	18.1
+1.625	18.4
+2.224	18.3
+2.544	18.3
+2.865	18.4
+3.185	18.5
+3.506	18.9
+4.044	19.1
+4.582	19.4
+4.892	19.3
+5.203	19.4
+5.514	19.5
+5.825	19.6
+6.332	19.8
+6.840	19.7
+7.152	19.5
+7.465	19.8
+7.744	19.5
+8.023	19.4
+8.351	19.2
+8.679	19.2
+9.023	18.7
+9.367	18.7
+9.680	18.7
+9.994	18.8
+10.482	19.1

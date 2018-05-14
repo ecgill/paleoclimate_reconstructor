@@ -1,0 +1,44 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GeoB5546-2 using alkenones. doi:10.1594/PANGAEA.737214, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 27.536700 * LONGITUDE: -13.736700
+	MINIMUM AGE: 3.310 ka BP * MAXIMUM AGE: 10.421 ka BP
+Event(s):	GeoB5546-2 * LATITUDE: 27.536700 * LONGITUDE: -13.736700 * DATE/TIME: 1998-10-15T11:01:00 * ELEVATION: -1172.0 m * RECOVERY: 8.51 m * CAMPAIGN: M42/4b (URI: doi:10.2312/cr_m42) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: core recovery 8.51 m
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	32 data points
+*/
+Age [ka BP]	SST [¡C]
+3.310	20.6
+3.578	20.8
+3.847	21.0
+4.115	21.1
+4.384	21.0
+4.652	21.2
+4.921	21.1
+5.189	21.4
+5.458	21.2
+5.726	21.3
+5.995	21.5
+6.263	21.7
+6.532	22.2
+6.800	21.9
+7.069	21.7
+7.337	22.0
+7.692	21.8
+8.046	21.8
+8.401	21.4
+8.600	21.7
+8.798	21.6
+8.997	21.8
+9.196	21.6
+9.395	21.4
+9.593	21.1
+9.792	21.3
+9.897	20.8
+10.002	21.4
+10.106	21.3
+10.211	21.1
+10.316	21.3
+10.421	21.0

@@ -1,0 +1,35 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD94-103 using alkenones. doi:10.1594/PANGAEA.737249, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -45.583333 * LONGITUDE: 86.516667
+	MINIMUM AGE: 5.040 ka BP * MAXIMUM AGE: 10.466 ka BP
+Event(s):	MD94-103 * LATITUDE: -45.583333 * LONGITUDE: 86.516667 * ELEVATION: -3560.0 m * DEVICE: Giant piston corer (GPC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	23 data points
+*/
+Age [ka BP]	SST [¡C]
+5.040	9.5
+5.099	10.0
+5.159	9.8
+5.218	9.8
+5.278	10.0
+5.337	9.8
+5.396	9.2
+5.768	9.2
+5.995	9.7
+6.223	9.8
+6.451	10.5
+6.906	9.2
+7.134	9.9
+7.361	9.3
+7.589	9.4
+8.272	11.2
+8.500	10.3
+8.728	10.5
+9.183	10.4
+9.638	10.3
+9.866	10.2
+10.077	11.8
+10.466	12.5

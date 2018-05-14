@@ -1,0 +1,18 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 96-619 using alkenones. doi:10.1594/PANGAEA.737202, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 27.193500 * LONGITUDE: -91.409000
+	MINIMUM AGE: 1.800 ka BP * MAXIMUM AGE: 8.500 ka BP
+Event(s):	96-619 * LATITUDE: 27.193500 * LONGITUDE: -91.409000 * DATE/TIME: 1983-10-21T00:00:00 * ELEVATION: -2259.0 m * RECOVERY: 111.90 m * PENETRATION: 208.70 m * LOCATION: Gulf of Mexico * CAMPAIGN: Leg96 (URI: doi:10.2973/dsdp.proc.96.1986) * BASIS: Glomar Challenger (URI: http://odp.pangaea.de/glomar.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 25 cores; 134.4 m cored; 0 m drilled; 83.2 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	6 data points
+*/
+Age [ka BP]	SST [¡C]
+1.800	24.6
+2.900	25.6
+4.900	22.5
+6.500	20.3
+7.500	19.9
+8.500	20.2

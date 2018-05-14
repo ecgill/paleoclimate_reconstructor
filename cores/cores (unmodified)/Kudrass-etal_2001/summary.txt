@@ -1,0 +1,18 @@
+/* DATA DESCRIPTION:
+Citation:	Kudrass, H-R et al. (2001): Reconstruction of sea surface temperature and salinity of the Arabian Sea. doi:10.1594/PANGAEA.735053, 
+	Supplement to: Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Modulation and amplification of climatic changes in the Northern Hemisphere by the Indian summer monsoon during the past 80 k.y. Geology, 29(1), 63-66, doi:10.1130/0091-7613(2001)029<0063:MAAOCC>2.0.CO;2
+Abstract:	High-frequency suborbital variations (Dansgaard-Oeschger cycles) characterize the climatic history of the Northern Hemisphere as observed in Greenland ice cores, deep-sea sediments of the North Atlantic, the Californian borderland, the Arabian Sea, the South China Sea, and the Chinese loess area. Paleoceanographic data from core KL126 from the Bay of Bengal in combination with data from the other Asian monsoonal areas indicate that the feedback processes involving snow and dust of the Tibetan Plateau vary the summer monsoon capacity to transport moisture into central South Asia and into the atmosphere. We postulate that the summer monsoon initiates, amplifies, and terminates these cycles in the Northern Hemisphere.
+Coverage:	LATITUDE: 19.973333 * LONGITUDE: 90.033333
+	MINIMUM AGE: 0.000 ka BP * MAXIMUM AGE: 101.408 ka BP
+	DATE/TIME START: 1994-01-15T00:00:00 * DATE/TIME END: 1994-01-15T00:00:00
+Event(s):	SO93-126KL * LATITUDE: 19.973333 * LONGITUDE: 90.033333 * DATE/TIME: 1994-01-15T00:00:00 * ELEVATION: -1250.0 m * LOCATION: Bengal Fan * CAMPAIGN: SO93 (BENGAL FÄCHER) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: continental slope, upslope thickening
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	5 datasets
+*/
+/* TABULAR SUMMARY OF DATASETS LISTED IN THIS COLLECTION: */
+Filename	Citation of child dataset
+SO93-126KL_age_model.tab	Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Age model of sediment core SO93-126KL. doi:10.1594/PANGAEA.58758
+SO93-126KL_SSS.tab	Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Sea surface salinity reconstructed from sediment core SO93-126KL. doi:10.1594/PANGAEA.57608
+SO93-126KL_UK37_SST.tab	Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Sea surface temperature reconstructions from UK37 in sediment core SO93-126KL. doi:10.1594/PANGAEA.57609
+SO93-126KL_d18O.tab	Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Stable oxygen isotope ratios measured on Globigerinoides ruber from sediment core SO93-126KL. doi:10.1594/PANGAEA.58759
+SO93-126KL_susceptibility.tab	Kudrass, Hermann-Rudolph; Hofmann, Annette; Doose, Heidi; Emeis, Kay-Christian; Erlenkeuser, Helmut (2001): Volume susceptibility of sediment core SO93-126KL. Dataset #58760 (DOI registration in progress)

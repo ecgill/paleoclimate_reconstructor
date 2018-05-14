@@ -1,0 +1,49 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core M44/1_74KL using alkenones. doi:10.1594/PANGAEA.737240, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 40.783333 * LONGITUDE: 28.773333
+	MINIMUM AGE: 0.208 ka BP * MAXIMUM AGE: 10.233 ka BP
+Event(s):	M44/1_74KL (96) * LATITUDE: 40.783333 * LONGITUDE: 28.773333 * DATE/TIME: 1999-02-09T00:00:00 * ELEVATION: -1142.0 m * RECOVERY: 10.26 m * LOCATION: Marmara Sea * CAMPAIGN: M44/1 (URI: doi:10.2312/cr_m44) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer Meischner large (KL_Mg)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	37 data points
+*/
+Age [ka BP]	SST [¡C]
+0.208	27.3
+0.417	27.4
+0.625	27.3
+0.835	27.4
+1.045	27.1
+1.256	27.2
+1.466	27.0
+1.676	27.1
+1.886	27.0
+2.096	26.9
+2.306	26.8
+2.517	27.2
+2.727	27.0
+2.937	27.2
+3.259	27.0
+3.581	26.9
+3.903	27.0
+4.225	27.0
+4.546	27.2
+4.868	27.1
+5.190	27.3
+5.512	27.2
+5.873	27.2
+6.595	26.7
+6.956	27.1
+7.317	26.8
+7.678	26.9
+7.860	27.0
+8.042	27.0
+8.224	26.6
+8.406	26.9
+8.711	26.7
+9.015	26.7
+9.320	26.7
+9.624	26.6
+9.929	26.7
+10.233	26.4

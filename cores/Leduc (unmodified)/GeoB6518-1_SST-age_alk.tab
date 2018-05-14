@@ -1,0 +1,87 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GeoB6518-1 using alkenones. doi:10.1594/PANGAEA.737218, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -5.588300 * LONGITUDE: 11.221700
+	MINIMUM AGE: 0.030 ka BP * MAXIMUM AGE: 10.489 ka BP
+Event(s):	GeoB6518-1 * LATITUDE: -5.588300 * LONGITUDE: 11.221700 * DATE/TIME: 2000-06-20T15:23:00 * ELEVATION: -962.0 m * RECOVERY: 7.41 m * LOCATION: Congo Fan * CAMPAIGN: M47/3 (URI: doi:10.2312/cr_m47) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: CC: olive mud
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	75 data points
+*/
+Age [ka BP]	SST [¡C]
+0.030	25.2
+0.090	25.1
+0.151	25.0
+0.211	24.8
+0.271	25.0
+0.331	25.8
+0.392	24.9
+0.452	24.9
+0.512	25.1
+0.572	25.0
+0.633	24.8
+0.693	24.8
+1.048	25.1
+1.404	24.8
+1.759	24.6
+2.470	24.6
+2.825	24.3
+3.181	24.1
+3.536	24.5
+3.892	24.5
+4.247	24.6
+4.454	24.0
+4.661	24.3
+4.868	24.5
+5.075	24.9
+5.282	24.6
+5.489	24.5
+5.696	24.5
+5.903	24.6
+6.110	24.7
+6.317	24.5
+6.398	24.1
+6.479	24.6
+6.559	24.5
+6.640	24.4
+6.721	24.3
+6.802	24.3
+6.883	24.4
+6.963	24.3
+7.044	24.1
+7.125	24.3
+7.267	23.9
+7.410	24.2
+7.552	24.2
+7.695	23.9
+7.837	24.1
+7.980	24.1
+8.122	23.3
+8.264	24.5
+8.407	24.2
+8.507	23.8
+8.564	23.9
+8.621	23.7
+8.678	23.9
+8.735	24.2
+8.793	23.4
+8.850	23.9
+8.907	23.8
+8.964	24.3
+9.021	24.0
+9.083	24.4
+9.149	24.0
+9.215	24.7
+9.281	24.5
+9.347	24.8
+9.413	24.8
+9.479	24.6
+9.545	24.8
+9.611	24.3
+9.677	24.6
+9.797	25.1
+9.970	25.0
+10.143	24.7
+10.316	24.3
+10.489	24.8

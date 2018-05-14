@@ -1,0 +1,48 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD02-2529 using alkenones. doi:10.1594/PANGAEA.737244, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 8.205500 * LONGITUDE: -84.122000
+	MINIMUM AGE: 0.112 ka BP * MAXIMUM AGE: 10.435 ka BP
+Event(s):	MD02-2529 (MD022529) * LATITUDE: 8.205500 * LONGITUDE: -84.122000 * DATE/TIME: 2002-06-23T05:05:00 * ELEVATION: -1619.0 m * RECOVERY: 35.12 m * LOCATION: Cocos Ridge * CAMPAIGN: MD126 (IMAGES VIII - MONA) (URI: hdl:10013/epic.42896.d001) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Giant piston corer (GPC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	36 data points
+*/
+Age [ka BP]	SST [¡C]
+0.112	28.7
+0.372	28.6
+0.629	29.1
+0.858	29.2
+1.088	29.0
+1.317	28.5
+1.546	29.5
+1.775	29.3
+2.004	28.7
+2.233	28.0
+2.462	28.1
+2.691	28.0
+2.920	28.0
+3.150	27.8
+3.425	28.0
+3.701	28.0
+4.116	28.9
+4.461	28.0
+4.668	27.8
+5.152	27.6
+5.497	27.1
+5.842	27.9
+6.188	27.2
+6.533	27.4
+6.705	27.2
+7.223	27.4
+7.569	28.0
+7.914	28.0
+8.259	28.0
+8.605	27.8
+8.915	27.7
+9.054	27.7
+9.399	27.9
+9.744	27.2
+10.089	27.0
+10.435	27.8

@@ -1,0 +1,34 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core JT96-0909PC using alkenones. doi:10.1594/PANGAEA.737231, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 48.911700 * LONGITUDE: -126.890000
+	MINIMUM AGE: 0.181 ka BP * MAXIMUM AGE: 10.468 ka BP
+Event(s):	JT96-0909PC * LATITUDE: 48.911700 * LONGITUDE: -126.890000 * ELEVATION: -920.0 m * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	22 data points
+*/
+Age [ka BP]	SST [¡C]
+0.181	9.8
+0.542	10.2
+0.903	10.2
+1.626	10.3
+1.987	10.8
+2.348	10.7
+2.710	9.7
+3.071	10.3
+3.432	9.9
+4.155	9.7
+4.787	10.3
+4.878	9.5
+5.239	10.5
+5.600	10.5
+6.323	9.8
+6.594	11.0
+6.684	10.8
+7.136	10.2
+9.303	11.1
+10.100	11.8
+10.321	10.2
+10.468	12.4

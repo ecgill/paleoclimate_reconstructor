@@ -1,0 +1,78 @@
+/* DATA DESCRIPTION:
+Citation:	Kim, Jung-Hyun; Rimbu, Norel; Lorenz, Stefan J; Lohmann, Gerrit; Nam, Seung-Il; Schouten, Stefan; Rühlemann, Carsten; Schneider, Ralph R (2004): Age and alkenone-derived Holocene sea-surface temperature records of sediment core TY93-905. doi:10.1594/PANGAEA.438840, 
+	In Supplement to: Kim, Jung-Hyun; Rimbu, Norel; Lorenz, Stefan J; Lohmann, Gerrit; Schneider, Ralph R; Nam, Seung-Il; Schouten, Stefan; Sirocko, Frank; Rühlemann, Carsten (2004): North Pacific and North Atlantic sea-surface temperature variability during the Holocene. Quaternary Science Reviews, 23(20-22), 2141-2154, doi:10.1016/j.quascirev.2004.08.010
+Project(s):	Center for Marine Environmental Sciences (MARUM) (URI: http://www.marum.de/en/)
+Coverage:	LATITUDE: 11.066700 * LONGITUDE: 51.950000
+	MINIMUM AGE: 0.000 ka BP * MAXIMUM AGE: 11.420 ka BP
+	MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 3.1 m
+Event(s):	TY93-905 * LATITUDE: 11.066700 * LONGITUDE: 51.950000 * RECOVERY: -1567.00 m * DEVICE: Gravity corer (GC)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth)
+	AGE [ka BP] (Age)
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Schouten, Stefan (eMail: schouten@nioz.nl) * METHOD: Calculated from UK'37 (Prahl et al., 1988) (URI: doi:10.1016/0016-7037(88)90132-9)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	63 data points
+*/
+Depth [m]	Age [ka BP]	SST (1-12) [°C]
+0.00	0.00	25.7
+0.05	0.24	25.7
+0.10	0.47	25.7
+0.15	0.71	25.9
+0.20	0.95	25.8
+0.25	1.22	25.9
+0.30	1.49	25.5
+0.35	1.77	25.5
+0.40	2.04	25.6
+0.45	2.29	25.4
+0.50	2.54	25.3
+0.55	2.79	25.4
+0.60	3.05	25.1
+0.65	3.30	25.7
+0.70	3.55	25.4
+0.75	3.80	25.3
+0.80	4.05	25.0
+0.85	4.27	24.9
+0.90	4.49	25.1
+0.95	4.70	25.1
+1.00	4.92	25.1
+1.05	5.13	25.3
+1.10	5.35	25.2
+1.15	5.57	25.4
+1.20	5.78	25.0
+1.25	5.92	25.3
+1.30	6.06	25.1
+1.35	6.20	25.3
+1.40	6.34	25.1
+1.45	6.48	25.4
+1.50	6.62	25.4
+1.55	6.76	25.5
+1.60	6.90	25.2
+1.65	7.04	25.1
+1.70	7.18	25.5
+1.75	7.32	25.1
+1.80	7.46	25.2
+1.85	7.60	25.0
+1.90	7.74	25.4
+1.95	7.88	25.3
+2.00	8.02	24.9
+2.05	8.17	24.9
+2.10	8.32	25.2
+2.15	8.47	25.5
+2.20	8.62	25.3
+2.25	8.77	25.4
+2.30	8.92	25.6
+2.35	9.07	25.2
+2.40	9.22	25.2
+2.45	9.37	25.6
+2.50	9.52	25.5
+2.55	9.68	25.0
+2.60	9.84	25.4
+2.65	10.00	25.3
+2.70	10.15	25.4
+2.75	10.31	25.3
+2.80	10.47	25.1
+2.85	10.63	25.0
+2.90	10.79	25.0
+2.95	10.94	24.8
+3.00	11.10	25.0
+3.05	11.26	25.0
+3.10	11.42	25.4

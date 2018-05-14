@@ -1,0 +1,93 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core A-7 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736987, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 27.820000 * LONGITUDE: 126.980000
+	MINIMUM AGE: 1.084 ka BP * MAXIMUM AGE: 10.416 ka BP
+Event(s):	A-7 * LATITUDE: 27.820000 * LONGITUDE: 126.980000 * ELEVATION: -1264.0 m * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	81 data points
+*/
+Age [ka BP]	SST [¡C]
+1.084	26.62
+1.160	26.83
+1.236	26.45
+1.312	26.22
+1.388	27.90
+1.464	26.64
+1.540	26.50
+1.616	26.89
+1.692	26.89
+1.768	26.75
+1.844	25.66
+1.920	25.17
+1.996	26.78
+2.072	26.25
+2.148	26.05
+2.224	27.00
+2.300	26.42
+2.450	27.08
+2.600	27.42
+2.750	26.59
+2.900	26.50
+3.050	25.96
+3.200	27.21
+3.350	25.96
+3.500	25.48
+3.650	26.39
+3.800	25.66
+3.950	26.53
+4.100	26.22
+4.250	25.51
+4.400	26.02
+4.550	26.45
+4.700	26.39
+4.850	26.34
+5.000	26.70
+5.150	26.25
+5.300	27.00
+5.450	25.72
+5.600	26.75
+5.750	26.08
+5.900	26.45
+6.050	26.34
+6.200	25.26
+6.350	25.30
+6.500	25.57
+6.650	26.05
+6.800	26.94
+6.950	26.89
+7.100	25.01
+7.223	25.30
+7.347	25.51
+7.470	25.39
+7.593	25.93
+7.717	27.08
+7.840	27.44
+7.963	25.84
+8.087	25.69
+8.210	26.16
+8.333	25.51
+8.457	26.56
+8.580	26.59
+8.656	25.81
+8.733	27.10
+8.809	26.48
+8.885	26.53
+8.962	26.28
+9.038	26.83
+9.115	27.65
+9.191	27.18
+9.267	26.62
+9.344	26.83
+9.420	25.42
+9.531	26.16
+9.641	26.75
+9.752	25.33
+9.863	25.45
+9.973	26.19
+10.084	26.64
+10.194	26.67
+10.305	27.36
+10.416	27.60

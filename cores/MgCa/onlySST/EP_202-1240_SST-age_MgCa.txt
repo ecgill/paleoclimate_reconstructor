@@ -1,0 +1,70 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 202-1240 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736985, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 0.021850 * LONGITUDE: -86.462633
+	MINIMUM AGE: 1.910 ka BP * MAXIMUM AGE: 10.417 ka BP
+Event(s):	202-1240 * LATITUDE: 0.021850 * LONGITUDE: -86.462633 * DATE/TIME: 2002-05-16T00:00:00 * ELEVATION: -2920.8 m * RECOVERY: 622.50 m * PENETRATION: 613.10 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg202 (URI: doi:10.2973/odp.proc.ir.202.2003) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: 65 cores; 603.7 m cored; 9.4 m drilled; 103.1 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	58 data points
+*/
+Age [ka BP]	SST [¡C]
+1.910	24.86
+2.050	24.41
+2.470	25.17
+2.610	24.77
+3.030	25.03
+3.170	24.28
+3.590	24.89
+3.730	25.07
+4.150	24.36
+4.290	25.06
+4.710	25.87
+4.850	25.10
+5.270	25.61
+5.340	25.10
+5.549	25.58
+5.619	25.75
+5.828	25.76
+5.898	25.92
+6.108	25.38
+6.178	25.38
+6.387	25.57
+6.457	25.41
+6.666	26.12
+6.736	25.34
+6.945	26.30
+7.015	26.21
+7.225	25.48
+7.294	26.03
+7.504	26.42
+7.574	25.79
+7.783	26.88
+7.853	26.50
+8.062	26.27
+8.132	25.74
+8.342	25.85
+8.411	25.92
+8.621	26.28
+8.691	26.53
+8.900	25.51
+8.941	26.27
+9.064	26.32
+9.105	25.37
+9.228	26.04
+9.269	26.83
+9.392	26.74
+9.433	26.75
+9.556	25.79
+9.597	26.27
+9.720	25.73
+9.761	25.58
+9.884	26.26
+9.925	25.61
+10.048	25.91
+10.089	25.49
+10.212	24.78
+10.253	24.99
+10.376	25.27
+10.417	25.76

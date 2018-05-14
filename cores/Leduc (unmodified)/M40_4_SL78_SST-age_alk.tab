@@ -1,0 +1,80 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core M40/4_SL78 using alkenones. doi:10.1594/PANGAEA.737238, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 37.036667 * LONGITUDE: 13.189667
+	MINIMUM AGE: 0.017 ka BP * MAXIMUM AGE: 10.210 ka BP
+Event(s):	M40/4_SL78 * LATITUDE: 37.036667 * LONGITUDE: 13.189667 * DATE/TIME: 1998-02-02T08:25:00 * ELEVATION: -467.0 m * CAMPAIGN: M40/4 (URI: doi:10.2312/cr_m40) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	68 data points
+*/
+Age [ka BP]	SST [¡C]
+0.017	15.9
+0.050	16.5
+0.083	17.9
+0.116	17.2
+0.149	16.3
+0.182	16.9
+0.215	17.2
+0.248	17.1
+0.281	16.5
+0.315	16.4
+0.348	16.1
+0.382	16.4
+0.415	16.9
+0.448	18.5
+0.482	16.1
+0.516	17.4
+0.549	17.2
+0.583	17.4
+0.616	17.8
+0.650	18.5
+0.684	18.4
+0.718	18.0
+0.752	17.5
+0.786	17.0
+0.820	17.6
+0.854	18.1
+0.888	17.4
+0.922	17.9
+0.956	16.9
+0.990	17.9
+1.024	17.6
+1.058	17.4
+1.093	17.0
+1.128	17.5
+1.162	17.4
+1.197	17.5
+1.232	16.9
+1.267	16.7
+1.302	17.0
+1.338	17.4
+1.373	17.5
+1.408	18.0
+1.771	18.0
+2.146	18.6
+2.531	18.1
+2.926	19.2
+3.331	17.9
+3.743	19.0
+4.160	18.1
+4.580	17.6
+4.916	18.4
+5.414	18.9
+5.817	18.6
+6.197	19.2
+6.541	19.5
+6.826	19.7
+7.068	20.3
+7.297	20.0
+7.518	20.8
+7.744	20.7
+7.947	20.6
+8.222	19.5
+8.499	20.3
+8.819	19.6
+9.162	20.2
+9.516	18.3
+9.868	19.0
+10.210	18.4

@@ -1,0 +1,33 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core V21-30 using alkenones. doi:10.1594/PANGAEA.737285, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -1.217000 * LONGITUDE: -89.680000
+	MINIMUM AGE: 2.435 ka BP * MAXIMUM AGE: 10.258 ka BP
+Event(s):	V21-30 * LATITUDE: -1.217000 * LONGITUDE: -89.680000 * DATE/TIME: 1965-03-18T00:00:00 * ELEVATION: -617.0 m * RECOVERY: 12.02 m * CAMPAIGN: V21 * BASIS: Vema * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	21 data points
+*/
+Age [ka BP]	SST [¡C]
+2.435	24.8
+3.209	24.7
+3.674	24.9
+3.984	24.6
+4.371	24.6
+4.758	24.6
+5.223	24.4
+5.610	24.5
+5.992	24.9
+6.354	24.7
+6.679	24.6
+7.077	24.5
+7.511	24.7
+7.800	24.5
+8.198	24.5
+8.523	24.8
+8.812	24.4
+9.102	24.8
+9.608	24.3
+9.969	24.2
+10.258	24.2

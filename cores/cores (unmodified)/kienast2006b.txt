@@ -1,0 +1,409 @@
+Eastern Tropical Pacific ME0005A-24JC Deglacial Alkenone SST Data
+-----------------------------------------------------------------------
+               World Data Center for Paleoclimatology, Boulder
+                                  and
+                     NOAA Paleoclimatology Program
+-----------------------------------------------------------------------
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!!
+
+
+NAME OF DATA SET: 
+Eastern Tropical Pacific ME0005A-24JC Deglacial Alkenone SST Data
+
+LAST UPDATE: 12/2008 (Original receipt by WDC Paleo)
+CONTRIBUTOR: Markus Kienast, Dalhousie University
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2008-121
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Kienast, M., et al. 2008.
+Eastern Tropical Pacific ME0005A-24JC Deglacial Alkenone SST Data. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2008-121. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCE: 
+Kienast, M., S.S. Kienast, S.E. Calvert, T.I. Eglinton, 
+G. Mollenhauer, R. François, and A.C. Mix. 2006. 
+Eastern Pacific cooling and Atlantic overturning
+circulation during the last deglaciation.
+Nature, Vol. 443, pp. 846 - 849, 19 October 2006.   
+doi:10.1038/nature05222
+
+ABSTRACT:
+Surface ocean conditions in the equatorial Pacific Ocean could hold 
+the clue to whether millennial-scale global climate change during 
+glacial times was initiated through tropical ocean-atmosphere 
+feedbacks or by changes in the Atlantic thermohaline circulation. 
+North Atlantic cold periods during Heinrich events and millennial-
+scale cold events (stadials) have been linked with climatic changes 
+in the tropical Atlantic Ocean and South America, as well as the 
+Indian and East Asian monsoon systems, but not with tropical Pacific 
+sea surface temperatures.  Here we present a high-resolution record 
+of sea surface temperatures in the eastern tropical Pacific derived 
+from alkenone unsaturation measurements. Our data show a temperature 
+drop of 1ºC, synchronous (within dating uncertainties) with the 
+shutdown of the Atlantic meridional overturning circulation during
+Heinrich event 1, and a smaller temperature drop of 0.5ºC synchronous
+with the smaller reduction in the overturning circulation during the 
+Younger Dryas event. Both cold events coincide with maxima in surface 
+ocean productivity as inferred from 230Th-normalized carbon burial 
+fluxes, suggesting increased upwelling at the time. From the 
+concurrence of equatorial Pacific cooling with the two North Atlantic 
+cold periods during deglaciation, we conclude that these millennial-
+scale climate changes were probably driven by a reorganization of 
+the oceans' thermohaline circulation, although possibly amplified by 
+tropical ocean-atmosphere interaction as suggested before.
+
+
+GEOGRAPHIC REGION: Eastern Tropical Pacific 
+PERIOD OF RECORD: 36 KYRBP - present
+
+FUNDING SOURCES: 
+Canadian Foundation for Climate and Atmospheric Sciences (CFCAS), 
+Natural Sciences and Engineering Research Council (NSERC) of Canada, 
+US National Science Foundation (NSF), WHOI postdoctoral fellowship
+programme (M.K. and G.M.), and a fellowship of the Canadian Institute 
+for Advanced Research (CIAR; M.K.).
+
+
+DESCRIPTION:  
+High resolution (centennial scale) sea surface temperature estimates 
+for the eastern equatorial Pacific over the glacial–interglacial 
+transition, based on alkenone unsaturation data from marine sediments.  
+
+Core ME0005A-24JC:  0º1.3'N, 86º27.8'W, 2941m depth.
+
+
+
+DATA:
+1. Core ME0005A-24JC Alkenone Sea Surface Temperature estimates
+
+Column 1: Depth (cm) 
+Column 2: Age (kyrs BP) 
+Column 3: UK'37 
+Column 4: UK37' SST (°C; Prahl 1988 equation) 
+
+Depth       Age    UK'37      SST 
+5          2.09    0.886     24.9
+8          2.50    0.881     24.8
+12         3.04    0.897     25.2
+15         3.45    0.874     24.6
+18         3.86    0.866     24.3
+22         4.41    0.869     24.4
+25         4.75    0.873     24.5
+32         5.54    0.878     24.7
+35         5.88    0.859     24.1
+38         6.22    0.856     24.0
+45         6.97    0.861     24.2
+52         7.72    0.854     24.0
+55         8.04    0.841     23.6
+58         8.33    0.840     23.5
+65         9.00    0.837     23.5
+72         9.61    0.836     23.5
+75         9.84    0.841     23.6
+78        10.03    0.823     23.1
+92        10.66    0.835     23.4
+98        10.84    0.830     23.3
+105       11.05    0.830     23.3
+112       11.26    0.825     23.1
+115       11.35    0.805     22.5
+118       11.44    0.817     22.9
+122       11.56    0.817     22.9
+125       11.65    0.833     23.4
+128       11.74    0.817     22.9
+132       11.86    0.809     22.6
+135       11.95    0.769     21.5
+138       12.04    0.816     22.8
+142       12.16    0.796     22.3
+145       12.25    0.797     22.3
+148       12.34    0.802     22.4
+152       12.46    0.803     22.5
+155       12.55    0.804     22.5
+158       12.65    0.806     22.5
+162       12.78    0.803     22.5
+165       12.88    0.801     22.4
+168       12.98    0.809     22.6
+172       13.11    0.812     22.7
+175       13.21    0.813     22.8
+178       13.31    0.812     22.7
+182       13.45    0.815     22.8
+185       13.55    0.818     22.9
+188       13.66    0.813     22.8
+192       13.84    0.822     23.0
+195       13.97    0.813     22.8
+198       14.10    0.813     22.8
+202       14.25    0.815     22.8
+205       14.37    0.805     22.5
+208       14.50    0.802     22.4
+212       14.67    0.781     21.8
+215       14.80    0.791     22.1
+218       14.95    0.782     21.9
+222       15.14    0.784     21.9
+232       15.64    0.779     21.8
+235       15.79    0.767     21.4
+238       15.94    0.770     21.5
+242       16.15    0.780     21.8
+245       16.32    0.765     21.4
+248       16.49    0.791     22.1
+252       16.71    0.792     22.1
+255       16.87    0.796     22.3
+258       17.00    0.802     22.4
+262       17.16    0.795     22.2
+265       17.29    0.797     22.3
+268       17.42    0.807     22.6
+272       17.59    0.801     22.4
+278       17.89    0.813     22.8
+282       18.09    0.812     22.7
+285       18.28    0.813     22.8
+288       18.44    0.811     22.7
+292       18.66    0.795     22.2
+295       18.85    0.813     22.8
+298       19.00    0.829     23.2
+302       19.23    0.816     22.8
+305       19.41    0.833     23.4
+308       19.56    0.820     23.0
+312       19.92    0.809     22.6
+315       20.25    0.817     22.9
+318       20.61    0.820     23.0
+322       21.10    0.814     22.8
+325       21.46    0.810     22.7
+328       21.83    0.813     22.8
+332       22.15    0.826     23.1
+335       22.35    0.839     23.5
+338       22.55    0.817     22.9
+342       22.82    0.819     23.0
+345       23.02    0.816     22.8
+348       23.22    0.825     23.1
+352       23.49    0.819     22.9
+355       23.72    0.825     23.1
+358       23.96    0.827     23.2
+362       24.23    0.834     23.4
+365       24.44    0.827     23.2
+372       25.01    0.803     22.5
+378       25.49    0.795     22.2
+385       26.06    0.810     22.7
+392       26.62    0.799     22.4
+398       27.10    0.803     22.5
+405       27.67    0.806     22.5
+412       28.23    0.835     23.4
+419       28.79    0.818     22.9
+425       29.20    0.819     22.9
+432       29.73    0.813     22.8
+445       31.20    0.827     23.2
+452       32.13    0.827     23.2
+458       33.00    0.843     23.6
+465       33.47    0.837     23.5
+472       33.93    0.829     23.2
+478       34.33    0.832     23.3
+485       34.80    0.830     23.3
+492       35.22    0.839     23.5
+498       35.60    0.840     23.6
+
+
+
+
+
+2. Core ME0005A-24JC Organic Carbon 
+
+Column 1: Depth (cm) 
+Column 2: Age (kyrs BP) 
+Column 3: Organic Carbon (Corg, %)
+
+Depth       Age     Corg 
+0.5        1.48      1.1
+1.5        1.61      1.4
+3.5        1.89      1.4
+4.5        2.02      1.1
+7.5        2.43      1.8
+11.5       2.97      1.5
+14.5       3.38      1.2
+17.5       3.79      1.1
+21.5       4.34      1.4
+24.5       4.69      1.5
+27.5       5.03      1.2
+31.5       5.48      1.3
+34.5       5.82      0.9
+37.5       6.16      1.3
+41.5       6.60      1.0
+44.5       6.92      1.2
+47.5       7.23      1.2
+51.5       7.66      1.0
+54.5       7.99      1.2
+57.5       8.28      1.8
+61.5       8.67      1.3
+64.5       8.95      2.1
+67.5       9.21      1.5
+71.5       9.56      1.7
+74.5       9.81      1.8
+77.5       9.99      2.4
+81.5      10.24      1.2
+84.5      10.41      2.4
+87.5      10.51      1.7
+91.5      10.64      1.9
+94.5      10.74      1.8
+97.5      10.83      1.8
+101.5     10.95      1.6
+104.5     11.04      2.1
+107.5     11.13      2.2
+111.5     11.25      2.1
+114.5     11.34      2.5
+117.5     11.43      2.0
+121.5     11.55      2.0
+124.5     11.64      2.1
+127.5     11.73      2.5
+131.5     11.85      2.1
+134.5     11.94      2.3
+137.5     12.03      2.0
+141.5     12.15      2.4
+144.5     12.24      1.6
+147.5     12.33      1.7
+151.5     12.45      1.8
+154.5     12.54      2.3
+157.5     12.64      2.0
+161.5     12.77      2.0
+164.5     12.86      1.6
+167.5     12.96      2.0
+171.5     13.09      1.8
+174.5     13.19      1.5
+177.5     13.29      1.8
+181.5     13.43      2.1
+184.5     13.54      1.6
+187.5     13.64      1.6
+191.5     13.81      1.8
+194.5     13.95      2.2
+197.5     14.08      2.1
+201.5     14.23      2.5
+204.5     14.35      1.9
+207.5     14.47      2.9
+211.5     14.65      2.4
+214.5     14.78      2.9
+217.5     14.92      2.4
+221.5     15.12      2.2
+224.5     15.27      2.8
+227.5     15.42      3.6
+231.5     15.61      3.4
+234.5     15.76      3.7
+237.5     15.91      3.9
+241.5     16.12      3.4
+244.5     16.29      3.4
+247.5     16.46      3.2
+251.5     16.69      3.1
+254.5     16.85      3.2
+257.5     16.98      3.0
+261.5     17.14      2.7
+264.5     17.27      3.0
+267.5     17.40      3.1
+271.5     17.56      3.0
+274.5     17.71      2.8
+277.5     17.86      2.5
+281.5     18.07      3.1
+284.5     18.25      2.5
+287.5     18.42      2.4
+291.5     18.63      2.8
+294.5     18.82      2.7
+297.5     18.98      2.6
+301.5     19.20      2.8
+307.5     19.53      2.9
+311.5     19.87      3.3
+314.5     20.19      2.8
+317.5     20.55      3.0
+321.5     21.04      2.7
+324.5     21.40      2.4
+327.5     21.77      2.5
+331.5     22.12      2.4
+334.5     22.32      2.5
+337.5     22.52      2.3
+341.5     22.79      2.3
+344.5     22.99      2.3
+347.5     23.19      2.4
+351.5     23.46      2.1
+354.5     23.68      1.6
+357.5     23.92      1.9
+361.5     24.20      1.6
+364.5     24.40      1.8
+367.5     24.65      1.9
+371.5     24.97      2.2
+374.5     25.21      2.3
+377.5     25.45      2.2
+381.5     25.77      2.4
+384.5     26.01      2.5
+387.5     26.26      2.6
+391.5     26.58      2.4
+394.5     26.82      2.3
+397.5     27.06      1.8
+401.5     27.38      1.7
+404.5     27.62      1.7
+407.5     27.87      1.9
+411.5     28.19      1.7
+414.5     28.43      2.0
+417.5     28.67      1.9
+421.5     28.96      2.3
+424.5     29.16      2.1
+427.5     29.40      2.1
+431.5     29.70      2.4
+434.5     29.90      1.9
+437.5     30.19      2.1
+441.5     30.69      2.1
+444.5     31.13      2.1
+447.5     31.56      1.7
+451.5     32.06      1.7
+454.5     32.48      1.8
+457.5     32.93      2.3
+461.5     33.23      1.4
+464.5     33.43      1.5
+467.5     33.63      1.7
+471.5     33.90      1.6
+474.5     34.10      1.3
+477.5     34.30      1.4
+481.5     34.57      1.2
+484.5     34.77      1.4
+487.5     34.97      1.1
+491.5     35.19      1.2
+494.5     35.37      1.1
+497.5     35.57      1.0
+501.5     35.81      1.0
+504.5     35.97      1.1
+507.5     36.04      1.2
+511.5     36.11      1.2
+521.5     36.25      1.0
+
+
+
+
+3. Core ME0005A-24JC Organic Carbon Flux
+
+Column 1: Depth (cm) 
+Column 2: Age (kyrs BP) 
+Column 3: Organic Carbon Flux (FvCorg, gm-2yr-1) 
+
+Depth       Age   FvCorg 
+4.5        2.02      0.1
+21.5       4.34     0.15
+37.5       6.16     0.15
+51.5       7.66     0.11
+57.5       8.28     0.24
+81.5      10.24     0.15
+101.5     10.95     0.24
+114.5     11.34     0.46
+134.5     11.94     0.39
+141.5     12.15     0.41
+167.5     12.96     0.34
+181.5     13.43     0.32
+201.5     14.23     0.39
+207.5     14.47     0.49
+217.5     14.92     0.45
+231.5     15.61     0.63
+251.5     16.69     0.48
+271.5     17.56     0.45
+284.5     18.25     0.39
+301.5     19.20     0.36
+324.5     21.40     0.32
+351.5     23.46     0.27
+374.5     25.21     0.31
+397.5     27.06     0.37
+427.5     29.40     0.28
+464.5     33.43      0.2
+501.5     35.81     0.14
+
+

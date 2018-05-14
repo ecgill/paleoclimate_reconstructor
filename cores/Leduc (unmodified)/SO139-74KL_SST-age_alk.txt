@@ -1,0 +1,109 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core SO139-74KL using alkenones. doi:10.1594/PANGAEA.737267, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -6.543000 * LONGITUDE: 103.833000
+	MINIMUM AGE: 1.000 ka BP * MAXIMUM AGE: 10.475 ka BP
+Event(s):	SO139-74KL * LATITUDE: -6.543000 * LONGITUDE: 103.833000 * ELEVATION: -1690.0 m * RECOVERY: 10.50 m * LOCATION: Indonesia * CAMPAIGN: SO139 (GINCO 3) (URI: doi:10.2312/cr_so139) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	97 data points
+*/
+Age [ka BP]	SST [¡C]
+1.000	28.2
+1.300	28.3
+1.500	28.5
+1.800	28.1
+2.000	28.2
+2.300	28.4
+2.600	28.4
+2.900	28.3
+3.000	28.1
+3.300	28.5
+3.500	28.4
+3.800	28.4
+4.000	28.2
+4.300	28.4
+4.600	28.3
+4.619	28.1
+4.639	28.1
+4.667	28.3
+4.696	28.2
+4.725	28.3
+4.735	28.0
+4.764	27.6
+4.793	28.1
+4.812	27.5
+4.860	28.2
+4.908	28.1
+4.928	27.7
+4.966	27.5
+4.985	27.6
+5.014	27.8
+5.024	27.3
+5.053	27.2
+5.082	27.5
+5.111	27.3
+5.120	27.9
+5.149	27.5
+5.178	27.6
+5.207	27.4
+5.217	27.7
+5.246	27.2
+5.275	27.6
+5.303	27.5
+5.313	27.7
+5.342	27.4
+5.371	27.6
+5.400	27.2
+5.409	27.7
+5.438	27.3
+5.467	27.3
+5.496	27.3
+5.506	27.7
+5.535	27.5
+5.564	27.3
+5.593	27.3
+5.602	27.6
+5.631	27.5
+5.660	27.5
+5.687	27.6
+5.696	27.8
+5.723	27.5
+5.750	27.6
+5.777	27.6
+5.813	27.3
+5.858	27.5
+5.876	27.7
+5.903	27.6
+5.930	27.4
+5.957	27.5
+5.966	27.5
+5.993	27.3
+6.020	27.4
+6.217	27.0
+6.283	27.3
+6.545	27.3
+6.677	27.4
+6.874	26.9
+7.005	27.6
+7.136	26.6
+7.333	27.1
+7.530	26.5
+7.596	27.3
+7.793	26.9
+7.990	26.6
+8.187	26.8
+8.450	26.9
+8.647	27.2
+8.844	27.2
+8.909	26.2
+9.106	27.0
+9.303	27.2
+9.500	26.8
+9.566	27.2
+9.763	26.8
+9.960	27.1
+10.166	27.2
+10.321	26.9
+10.475	26.9

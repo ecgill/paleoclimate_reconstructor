@@ -1,0 +1,30 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core ME0005A-24JC using alkenones. doi:10.1594/PANGAEA.737257, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 0.021700 * LONGITUDE: -86.463300
+	MINIMUM AGE: 2.090 ka BP * MAXIMUM AGE: 10.025 ka BP
+Event(s):	ME0005A-24JC * LATITUDE: 0.021700 * LONGITUDE: -86.463300 * ELEVATION: -2941.0 m * LOCATION: South Pacific Ocean * CAMPAIGN: ME0005A (NEMO) * BASIS: Melville * DEVICE: Gravity corer (GC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	18 data points
+*/
+Age [ka BP]	SST [¡C]
+2.090	24.9
+2.498	24.8
+3.043	25.2
+3.452	24.6
+3.860	24.3
+4.405	24.4
+4.746	24.5
+5.540	24.7
+5.881	24.1
+6.221	24.0
+6.968	24.2
+7.719	24.0
+8.044	23.6
+8.333	23.6
+8.998	23.5
+9.605	23.4
+9.840	23.6
+10.025	23.1

@@ -1,0 +1,65 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GeoB3129-1 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736989, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -4.613333 * LONGITUDE: -36.636667
+	MINIMUM AGE: 0.166 ka BP * MAXIMUM AGE: 10.502 ka BP
+Event(s):	GeoB3129-1 * LATITUDE: -4.613333 * LONGITUDE: -36.636667 * DATE/TIME: 1995-03-18T00:00:00 * ELEVATION: -830.0 m * RECOVERY: 5.50 m * LOCATION: NE-Brazilian continental margin * CAMPAIGN: JOPSII-6 (URI: urn:nbn:de:gbv:46-ep000102061) * BASIS: Victor Hensen (URI: http://de.wikipedia.org/wiki/Victor_Hensen_(Schiff)) * DEVICE: Gravity corer (Kiel type) (SL)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	53 data points
+*/
+Age [ka BP]	SST [¡C]
+0.166	27.13
+0.249	27.15
+0.664	27.07
+1.078	27.26
+1.493	27.33
+1.898	27.25
+2.264	26.74
+2.629	27.52
+2.995	27.12
+3.360	27.27
+3.726	27.24
+3.909	26.95
+4.048	27.48
+4.122	27.81
+4.196	27.20
+4.271	27.63
+4.402	27.05
+4.618	27.18
+4.835	27.32
+5.051	27.55
+5.268	26.96
+5.484	27.24
+5.701	26.94
+5.918	27.05
+6.134	27.55
+6.567	27.40
+6.752	27.12
+6.811	26.54
+6.870	26.96
+6.929	27.16
+7.046	27.25
+7.164	27.29
+7.281	27.92
+7.399	26.98
+7.558	27.17
+7.727	27.23
+7.896	27.41
+8.065	27.23
+8.234	27.05
+8.403	27.72
+8.572	27.46
+8.741	26.96
+8.910	27.18
+9.079	27.61
+9.248	26.96
+9.417	27.77
+9.586	27.35
+9.755	26.89
+9.924	27.51
+10.093	27.13
+10.262	27.47
+10.415	27.27
+10.502	27.69

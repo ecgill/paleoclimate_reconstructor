@@ -1,0 +1,24 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD85674 using alkenones. doi:10.1594/PANGAEA.737248, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 3.110000 * LONGITUDE: 50.270000
+	MINIMUM AGE: 0.000 ka BP * MAXIMUM AGE: 9.400 ka BP
+Event(s):	MD85674 * LATITUDE: 3.110000 * LONGITUDE: 50.270000 * ELEVATION: -4875.0 m
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	12 data points
+*/
+Age [ka BP]	SST [¡C]
+0.000	26.9
+0.300	26.6
+0.500	26.6
+0.800	27.0
+2.000	26.9
+2.900	26.6
+3.800	27.5
+4.700	27.1
+5.500	27.3
+6.500	26.8
+7.700	26.6
+9.400	27.0

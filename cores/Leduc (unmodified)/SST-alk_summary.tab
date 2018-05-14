@@ -1,0 +1,200 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Summary of sea surface temperature trends reconstructed from alkenones for the Holocene. doi:10.1594/PANGAEA.735805, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	MEDIAN LATITUDE: 16.811963 * MEDIAN LONGITUDE: 13.577823 * SOUTH-BOUND LATITUDE: -50.000000 * WEST-BOUND LONGITUDE: -158.190000 * NORTH-BOUND LATITUDE: 74.998083 * EAST-BOUND LONGITUDE: 179.500000
+Event(s):	108-658C * LATITUDE: 20.749200 * LONGITUDE: -18.580800 * DATE/TIME START: 1986-03-08T00:45:00 * DATE/TIME END: 1986-03-08T16:00:00 * ELEVATION: -2273.0 m * RECOVERY: 70.38 m * PENETRATION: 72.90 m * LOCATION: Canarias Sea * CAMPAIGN: Leg108 (URI: doi:10.2973/odp.proc.ir.108.1988) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 8 cores; 72.9 m cored; 0 m drilled; 96.5 % recovery
+	138-846 * LATITUDE: -3.095000 * LONGITUDE: -90.818330 * DATE/TIME START: 1991-05-21T00:00:00 * DATE/TIME END: 1991-05-26T00:00:00 * ELEVATION: -3296.0 m * RECOVERY: 821.61 m * PENETRATION: 871.50 m * LOCATION: South Pacific Ocean * CAMPAIGN: Leg138 (URI: doi:10.2973/odp.proc.ir.138.1992) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: 92 cores; 865.5 m cored; 0 m drilled; 94.9 % recovery
+	160-967D * LATITUDE: 34.070800 * LONGITUDE: 32.725600 * DATE/TIME START: 1995-04-03T13:50:00 * DATE/TIME END: 1995-04-03T21:15:00 * ELEVATION: -2552.0 m * RECOVERY: 16.89 m * PENETRATION: 16.20 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: doi:10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 2 cores; 16.2 m cored; 0 m drilled; 104.3 % recovery
+	160-969E * LATITUDE: 33.841100 * LONGITUDE: 24.883100 * DATE/TIME START: 1995-04-16T17:55:00 * DATE/TIME END: 1995-04-16T15:20:00 * ELEVATION: -2201.0 m * RECOVERY: 100.23 m * PENETRATION: 97.90 m * LOCATION: Eastern Basin * CAMPAIGN: Leg160 (URI: doi:10.2973/odp.proc.ir.160.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 11 core; 97.9 m cored; 0 m drilled; 102.4 % recovery
+	161-977 * LATITUDE: 36.031700 * LONGITUDE: -1.955283 * DATE/TIME START: 1995-06-08T00:00:00 * DATE/TIME END: 1995-06-15T00:00:00 * ELEVATION: -1984.0 m * RECOVERY: 545.50 m * PENETRATION: 598.50 m * LOCATION: Alboran Sea * CAMPAIGN: Leg161 (URI: doi:10.2973/odp.proc.ir.161.1996) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: 63 cores; 598.5 m cored; 0 m drilled; 91.1% recovery
+	165-1002C * LATITUDE: 10.706100 * LONGITUDE: -65.169400 * DATE/TIME START: 1996-02-18T16:30:00 * DATE/TIME END: 1996-02-19T04:30:00 * ELEVATION: -892.6 m * RECOVERY: 186.00 m * PENETRATION: 170.10 m * LOCATION: Cayman Rise, Caribbean Sea * CAMPAIGN: Leg165 (URI: doi:10.2973/odp.proc.ir.165.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 19 cores; 170.1 m cored; 0 m drilled; 109.3 % recovery
+	167-1012B * LATITUDE: 32.282600 * LONGITUDE: -118.383000 * DATE/TIME START: 1996-05-11T07:30:00 * DATE/TIME END: 1996-05-11T17:15:00 * ELEVATION: -1772.0 m * RECOVERY: 131.26 m * PENETRATION: 132.30 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg167 (URI: doi:10.2973/odp.proc.ir.167.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 14 cores; 132.3 m cored; 0 m drilled; 99.2 % recovery
+	167-1017E * LATITUDE: 34.535000 * LONGITUDE: -121.107000 * DATE/TIME START: 1996-05-28T02:00:00 * DATE/TIME END: 1996-05-28T06:30:00 * ELEVATION: -955.5 m * RECOVERY: 25.71 m * PENETRATION: 24.90 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg167 (URI: doi:10.2973/odp.proc.ir.167.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 3 cores; 24.9 m cored; 0 m drilled; 103.3 % recovery
+	167-1019C * LATITUDE: 41.682900 * LONGITUDE: -124.932000 * DATE/TIME START: 1996-06-05T05:00:00 * DATE/TIME END: 1996-06-06T18:45:00 * ELEVATION: -946.9 m * RECOVERY: 213.97 m * PENETRATION: 247.80 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg167 (URI: doi:10.2973/odp.proc.ir.167.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 26 cores; 247.8 m cored; 0 m drilled; 86.3 % recovery
+	175-1078C * LATITUDE: -11.920770 * LONGITUDE: 13.400250 * DATE/TIME START: 1997-09-03T18:10:00 * DATE/TIME END: 1997-09-04T06:05:00 * ELEVATION: -426.0 m * RECOVERY: 149.58 m * PENETRATION: 165.20 m * LOCATION: Benguela Current, South Atlantic Ocean * CAMPAIGN: Leg175 (URI: doi:10.2973/odp.proc.ir.175.1998) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 18 cores; 165.2 m cored; 0 m drilled; 90.5 % recovery
+	202-1233 * LATITUDE: -41.000083 * LONGITUDE: -74.449867 * DATE/TIME: 2002-04-12T00:00:00 * ELEVATION: -838.0 m * RECOVERY: 422.20 m * PENETRATION: 451.60 m * LOCATION: South Pacific Ocean * CAMPAIGN: Leg202 (URI: doi:10.2973/odp.proc.ir.202.2003) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Composite Core (COMPCORE) * COMMENT: cores; 411 m cored; 40.6 m drilled; 102.7 % recovery
+	96-619 * LATITUDE: 27.193500 * LONGITUDE: -91.409000 * DATE/TIME: 1983-10-21T00:00:00 * ELEVATION: -2259.0 m * RECOVERY: 111.90 m * PENETRATION: 208.70 m * LOCATION: Gulf of Mexico * CAMPAIGN: Leg96 (URI: doi:10.2973/dsdp.proc.96.1986) * BASIS: Glomar Challenger (URI: http://odp.pangaea.de/glomar.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 25 cores; 134.4 m cored; 0 m drilled; 83.2 % recovery
+	AD91-17 * LATITUDE: 40.870000 * LONGITUDE: 18.636000 * ELEVATION: -844.0 m * DEVICE: Gravity corer (GC)
+	BOFS31/1K (BOFS31#1) * LATITUDE: 18.997900 * LONGITUDE: -20.162100 * DATE/TIME: 1990-10-17T00:00:00 * ELEVATION: -3300.0 m * LOCATION: Northeast Atlantic * CAMPAIGN: CD53 * BASIS: Charles Darwin * DEVICE: Kasten corer (KAL) * COMMENT: BOFS-ID 18537
+	BS79-33 * LATITUDE: 38.262000 * LONGITUDE: 14.030000 * ELEVATION: -1282.0 m * DEVICE: Gravity corer (GC)
+	BS79-38 * LATITUDE: 38.412000 * LONGITUDE: 13.577000 * ELEVATION: -1489.0 m * DEVICE: Gravity corer (GC)
+	CH07-98-GGC19 * LATITUDE: 36.867000 * LONGITUDE: -74.567000 * ELEVATION: -1049.0 m * DEVICE: Piston corer (PC)
+	D13882 * LATITUDE: 38.634500 * LONGITUDE: -9.454200 * DATE/TIME: 2000-09-01T00:00:00 * ELEVATION: -88.0 m * RECOVERY: 13.61 m * LOCATION: Portuguese Margin * CAMPAIGN: D249 * BASIS: Discovery (1962) (URI: http://en.wikipedia.org/wiki/RRS_Discovery_%281962%29) * DEVICE: Gravity corer (GC)
+	GGC-15 * LATITUDE: 48.168000 * LONGITUDE: 151.337000 * ELEVATION: -1980.0 m * RECOVERY: 3.25 m * LOCATION: Southern Okhotsk Sea * DEVICE: Gravity corer (GC)
+	GIK17748-2 (SO80_4) * LATITUDE: -32.750000 * LONGITUDE: -72.033330 * DATE/TIME: 1992-06-12T08:35:00 * ELEVATION: -2545.0 m * RECOVERY: 3.86 m * PENETRATION: 4.00 m * LOCATION: East Pacific * CAMPAIGN: SO80a (HOTLINE, HYGAPE) (URI: doi:10.2312/reports-gpi.1992.58) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK17940-2 * LATITUDE: 20.116667 * LONGITUDE: 117.383333 * DATE/TIME: 1994-05-05T00:00:00 * ELEVATION: -1727.0 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: SO95 (MONITOR MONSUN) (URI: doi:10.2312/reports-gpi.1994.68) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL)
+	GIK17964-1 * LATITUDE: 6.158333 * LONGITUDE: 112.213333 * DATE/TIME: 1994-06-01T00:00:00 * ELEVATION: -1556.0 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: SO95 (MONITOR MONSUN) (URI: doi:10.2312/reports-gpi.1994.68) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Giant box corer (GKG) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	GIK18252-3 (SO115_05) * LATITUDE: 9.250117 * LONGITUDE: 109.390767 * DATE/TIME: 1996-12-13T00:00:00 * ELEVATION: -1273.0 m * RECOVERY: 11.85 m * LOCATION: Vietnam shelf * CAMPAIGN: SO115 (SUNDAFLUT) (URI: doi:10.2312/reports-gpi.1997.86) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: GC-12/
+	GIK18287-3 (SO115_40) * LATITUDE: 5.663017 * LONGITUDE: 110.661483 * DATE/TIME: 1996-12-13T00:00:00 * ELEVATION: -598.0 m * RECOVERY: 5.66 m * LOCATION: Sunda Shelf (URI: http://en.wikipedia.org/wiki/Sunda_Shelf) * CAMPAIGN: SO115 (SUNDAFLUT) (URI: doi:10.2312/reports-gpi.1997.86) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: GC-6/
+	GIK23258-2 * LATITUDE: 74.998083 * LONGITUDE: 13.968533 * DATE/TIME: 1988-07-16T00:00:00 * ELEVATION: -1768.0 m * RECOVERY: 9.32 m * PENETRATION: 10.50 m * LOCATION: Arctic Ocean * CAMPAIGN: M7/2 (URI: doi:10.2312/reports-sfb313.1988.10) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Kasten corer (KAL)
+	GeoB1023-5 * LATITUDE: -17.157217 * LONGITUDE: 11.011667 * DATE/TIME: 1988-02-28T00:00:00 * ELEVATION: -1978.0 m * RECOVERY: 9.50 m * PENETRATION: 12.00 m * LOCATION: Angola Basin * CAMPAIGN: M6/6 (URI: urn:nbn:de:gbv:46-ep000101421) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: cc: clay, olivgreen, shells
+	GeoB3129-1 * LATITUDE: -4.613333 * LONGITUDE: -36.636667 * DATE/TIME: 1995-03-18T00:00:00 * ELEVATION: -830.0 m * RECOVERY: 5.50 m * LOCATION: NE-Brazilian continental margin * CAMPAIGN: JOPSII-6 (URI: urn:nbn:de:gbv:46-ep000102061) * BASIS: Victor Hensen (URI: http://de.wikipedia.org/wiki/Victor_Hensen_(Schiff)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GeoB3313-1 * LATITUDE: -41.000000 * LONGITUDE: -74.450000 * DATE/TIME: 1995-05-12T00:00:00 * ELEVATION: -852.0 m * RECOVERY: 8.07 m * LOCATION: South-East Pacific * CAMPAIGN: SO102/1 (CHIPAL) (URI: urn:nbn:de:gbv:46-ep000102011) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL)
+	GeoB3910-2 * LATITUDE: -4.245000 * LONGITUDE: -36.345000 * DATE/TIME: 1996-03-30T00:00:00 * ELEVATION: -2362.0 m * RECOVERY: 6.94 m * LOCATION: Northeast Brasilian Margin * CAMPAIGN: M34/4 (URI: urn:nbn:de:gbv:46-ep000102102) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: CC: stiff gray clay, mica, forams
+	GeoB4905-4 * LATITUDE: 2.500000 * LONGITUDE: 9.390000 * DATE/TIME: 1998-03-01T06:48:00 * ELEVATION: -1328.0 m * RECOVERY: 12.18 m * LOCATION: off Cameroon * CAMPAIGN: M41/1 (URI: doi:10.2312/cr_m41) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: CC: dark olive hemipelagic mud
+	GeoB5546-2 * LATITUDE: 27.536700 * LONGITUDE: -13.736700 * DATE/TIME: 1998-10-15T11:01:00 * ELEVATION: -1172.0 m * RECOVERY: 8.51 m * CAMPAIGN: M42/4b (URI: doi:10.2312/cr_m42) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: core recovery 8.51 m
+	GeoB5844-2 * LATITUDE: 27.713500 * LONGITUDE: 34.681700 * DATE/TIME: 1999-04-02T20:53:00 * ELEVATION: -963.0 m * RECOVERY: 12.35 m * LOCATION: Northern Red Sea * CAMPAIGN: M44/3 (URI: doi:10.2312/cr_m44) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GeoB5901-2 * LATITUDE: 36.380000 * LONGITUDE: -7.071330 * DATE/TIME: 1999-05-20T03:21:00 * ELEVATION: -574.0 m * RECOVERY: 3.26 m * CAMPAIGN: M45/1 (URI: doi:10.3289/cr_m45) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GeoB6007-2 * LATITUDE: 30.850000 * LONGITUDE: -10.268300 * DATE/TIME: 1999-10-18T15:50:00 * ELEVATION: -900.0 m * RECOVERY: 11.05 m * CAMPAIGN: M45/5a (URI: doi:10.3289/cr_m45) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	GeoB6518-1 * LATITUDE: -5.588300 * LONGITUDE: 11.221700 * DATE/TIME: 2000-06-20T15:23:00 * ELEVATION: -962.0 m * RECOVERY: 7.41 m * LOCATION: Congo Fan * CAMPAIGN: M47/3 (URI: doi:10.2312/cr_m47) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL) * COMMENT: CC: olive mud
+	GeoB7139-2 * LATITUDE: -30.200000 * LONGITUDE: -71.983500 * DATE/TIME: 2001-04-14T22:13:00 * ELEVATION: -3269.0 m * RECOVERY: 8.41 m * LOCATION: off Chile * CAMPAIGN: SO156/2 (PUCK) (URI: urn:nbn:de:gbv:46-ep000103106) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL)
+	GeoB7926-2 * LATITUDE: 20.213300 * LONGITUDE: -18.451700 * DATE/TIME: 2002-04-27T05:21:00 * ELEVATION: -2500.0 m * RECOVERY: 13.30 m * LOCATION: North-West African margin * CAMPAIGN: M53/1 (URI: doi:10.2312/cr_m53) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	IOW225514 (225514) * LATITUDE: 57.838000 * LONGITUDE: 8.704000 * ELEVATION: -420.0 m * DEVICE: Gravity corer (GC)
+	IOW225517 (225517) * LATITUDE: 57.667000 * LONGITUDE: 7.091000 * ELEVATION: -293.0 m * DEVICE: Gravity corer (GC)
+	JR51GC-35 * LATITUDE: 66.999000 * LONGITUDE: -17.961000 * ELEVATION: -420.0 m * CAMPAIGN: JR51 (URI: http://www.bodc.ac.uk/data/documents/cruise/6771/) * BASIS: James Clark Ross * DEVICE: Piston corer (PC)
+	JT96-0909PC * LATITUDE: 48.911700 * LONGITUDE: -126.890000 * ELEVATION: -920.0 m * DEVICE: Piston corer (PC)
+	KNR176-JPC32 * LATITUDE: 4.847000 * LONGITUDE: -77.963000 * ELEVATION: -2200.0 m * DEVICE: Piston corer (PC)
+	LAPAZ21P * LATITUDE: 22.990000 * LONGITUDE: -109.467000 * ELEVATION: -624.0 m * DEVICE: Piston corer (PC)
+	M35003-4 * LATITUDE: 12.090000 * LONGITUDE: -61.243333 * DATE/TIME: 1996-04-19T00:00:00 * ELEVATION: -1299.0 m * RECOVERY: 9.63 m * CAMPAIGN: M35/1 (URI: doi:10.2312/cr_m35) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M39008-3 * LATITUDE: 36.380000 * LONGITUDE: -7.071667 * DATE/TIME: 1997-04-24T14:30:00 * ELEVATION: -577.0 m * RECOVERY: 5.77 m * CAMPAIGN: M39/1 (URI: doi:10.2312/cr_m39) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M40/4_SL67 * LATITUDE: 34.814167 * LONGITUDE: 27.296000 * DATE/TIME: 1998-01-23T02:49:00 * ELEVATION: -2157.0 m * CAMPAIGN: M40/4 (URI: doi:10.2312/cr_m40) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M40/4_SL71 * LATITUDE: 34.811160 * LONGITUDE: 23.194160 * DATE/TIME: 1998-01-25T07:12:00 * ELEVATION: -2788.0 m * CAMPAIGN: M40/4 (URI: doi:10.2312/cr_m40) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M40/4_SL78 * LATITUDE: 37.036667 * LONGITUDE: 13.189667 * DATE/TIME: 1998-02-02T08:25:00 * ELEVATION: -467.0 m * CAMPAIGN: M40/4 (URI: doi:10.2312/cr_m40) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M40/4_SL87 * LATITUDE: 38.988000 * LONGITUDE: 4.023000 * DATE/TIME: 1998-02-07T10:29:00 * ELEVATION: -1897.0 m * CAMPAIGN: M40/4 (URI: doi:10.2312/cr_m40) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Gravity corer (Kiel type) (SL)
+	M44/1_74KL (96) * LATITUDE: 40.783333 * LONGITUDE: 28.773333 * DATE/TIME: 1999-02-09T00:00:00 * ELEVATION: -1142.0 m * RECOVERY: 10.26 m * LOCATION: Marmara Sea * CAMPAIGN: M44/1 (URI: doi:10.2312/cr_m44) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer Meischner large (KL_Mg)
+	M44/1_KL71 (71) * LATITUDE: 40.841800 * LONGITUDE: 27.763200 * DATE/TIME: 1999-02-04T00:00:00 * ELEVATION: -566.0 m * RECOVERY: 8.80 m * CAMPAIGN: M44/1 (URI: doi:10.2312/cr_m44) * BASIS: Meteor (1986) (URI: http://de.wikipedia.org/wiki/Meteor_(Schiff,_1986)) * DEVICE: Piston corer Meischner large (KL_Mg) * COMMENT: CTD/Ro, LS PAR 2X, LS MER 2x
+	MD01-2412 (MD012412) * LATITUDE: 44.527500 * LONGITUDE: 145.004000 * DATE/TIME: 2001-06-05T08:07:00 * ELEVATION: -1225.0 m * RECOVERY: 58.11 m * LOCATION: Kurilen Trench * CAMPAIGN: MD122 (IMAGES VII - WEPAMA) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Giant piston corer (GPC)
+	MD01-2443 * LATITUDE: 37.881000 * LONGITUDE: -10.176000 * ELEVATION: -2925.0 m * CAMPAIGN: MD123 (GEOSCIENCES, MARMARCORE) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+	MD02-2529 (MD022529) * LATITUDE: 8.205500 * LONGITUDE: -84.122000 * DATE/TIME: 2002-06-23T05:05:00 * ELEVATION: -1619.0 m * RECOVERY: 35.12 m * LOCATION: Cocos Ridge * CAMPAIGN: MD126 (IMAGES VIII - MONA) (URI: hdl:10013/epic.42896.d001) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Giant piston corer (GPC)
+	MD03-2611G (MD032611G) * LATITUDE: -36.729800 * LONGITUDE: 136.548300 * DATE/TIME: 2003-02-27T06:25:00 * ELEVATION: -2420.0 m * RECOVERY: 11.97 m * LOCATION: Southern Ocean * CAMPAIGN: MD130 (IMAGES X - CADO) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Gravity corer (GC)
+	MD77-194 * LATITUDE: 10.280000 * LONGITUDE: 75.140000 * DATE/TIME: 1977-01-01T00:00:00 * ELEVATION: -1222.0 m * RECOVERY: 11.70 m * LOCATION: Indian Ocean * CAMPAIGN: OSIRIS3 * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Piston corer (PC)
+	MD79-257 * LATITUDE: -20.240000 * LONGITUDE: 36.200000 * DATE/TIME: 1979-01-01T00:00:00 * ELEVATION: -1262.0 m * RECOVERY: 11.40 m * LOCATION: Indian Ocean * CAMPAIGN: OSIRIS4 * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Piston corer (PC)
+	MD85674 * LATITUDE: 3.110000 * LONGITUDE: 50.270000 * ELEVATION: -4875.0 m
+	MD94-103 * LATITUDE: -45.583333 * LONGITUDE: 86.516667 * ELEVATION: -3560.0 m * DEVICE: Giant piston corer (GPC)
+	MD95-2011 (MD952011) * LATITUDE: 66.969660 * LONGITUDE: 7.639330 * DATE/TIME: 1995-06-08T00:00:00 * ELEVATION: -1048.0 m * RECOVERY: 17.00 m * LOCATION: Voring Plateau * CAMPAIGN: MD101 (IMAGES I) (URI: hdl:10013/epic.37487.d001) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO) * COMMENT: XII Sections, Site location wrong, slumps. Bent core; liner imploded in the middle of the core; 30 cm of sediment of the top recovered in a 1/2 liner
+	MD95-2015 (MD952015) * LATITUDE: 58.762333 * LONGITUDE: -25.959000 * DATE/TIME: 1995-06-13T00:00:00 * ELEVATION: -2630.0 m * RECOVERY: 34.00 m * LOCATION: Reykjanes Ridge * CAMPAIGN: MD101 (IMAGES I) (URI: hdl:10013/epic.37487.d001) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO) * COMMENT: XXIII Sections, OK
+	MD95-2042 (MD952042) * LATITUDE: 37.799833 * LONGITUDE: -10.166500 * DATE/TIME: 1995-07-09T00:00:00 * ELEVATION: -3146.0 m * RECOVERY: 40.00 m * LOCATION: Marge IbŽrique * CAMPAIGN: MD101 (IMAGES I) (URI: hdl:10013/epic.37487.d001) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO) * COMMENT: XXVII Sections, OK; core bent
+	MD95-2043 (MD952043) * LATITUDE: 36.143333 * LONGITUDE: -2.621167 * DATE/TIME: 1995-07-09T00:00:00 * ELEVATION: -1841.0 m * RECOVERY: 37.00 m * LOCATION: Alboran Sea * CAMPAIGN: MD101 (IMAGES I) (URI: hdl:10013/epic.37487.d001) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO) * COMMENT: XXV Sections, OK; liner exploded in section VIII
+	MD97-2120 (MD972120) * LATITUDE: -45.534333 * LONGITUDE: 174.930833 * DATE/TIME: 1997-05-20T11:11:00 * ELEVATION: -1210.0 m * RECOVERY: 36.40 m * LOCATION: Chatham Rise * CAMPAIGN: MD106 (IMAGES III - IPHIS) (URI: http://www.ifremer.fr/sismer/UK/catal/campagne/campagnea.htql?crno=97200010) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+	MD97-2121 (MD972121) * LATITUDE: -40.380000 * LONGITUDE: 177.990000 * ELEVATION: -3014.0 m * RECOVERY: 34.92 m * CAMPAIGN: MD106 (IMAGES III - IPHIS) (URI: http://www.ifremer.fr/sismer/UK/catal/campagne/campagnea.htql?crno=97200010) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+	MD97-2151 (MD972151) * LATITUDE: 8.728000 * LONGITUDE: 109.869000 * ELEVATION: -1598.0 m * RECOVERY: 26.72 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: MD106 (IMAGES III - IPHIS) (URI: http://www.ifremer.fr/sismer/UK/catal/campagne/campagnea.htql?crno=97200010) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Calypso Corer (CALYPSO)
+	ME0005A-24JC * LATITUDE: 0.021700 * LONGITUDE: -86.463300 * ELEVATION: -2941.0 m * LOCATION: South Pacific Ocean * CAMPAIGN: ME0005A (NEMO) * BASIS: Melville * DEVICE: Gravity corer (GC)
+	OCE326-GGC26 * LATITUDE: 43.483000 * LONGITUDE: -54.867000 * ELEVATION: -3975.0 m * DEVICE: Piston corer (PC)
+	OCE326-GGC30 * LATITUDE: 43.882000 * LONGITUDE: -62.800000 * ELEVATION: -250.0 m * DEVICE: Piston corer (PC)
+	PC-17 * LATITUDE: 21.358000 * LONGITUDE: -158.190000 * ELEVATION: -503.0 m * DEVICE: Piston corer (PC)
+	PC-2 * LATITUDE: 50.395000 * LONGITUDE: 148.323000 * ELEVATION: -1258.0 m * DEVICE: Piston corer (PC)
+	PC-4 * LATITUDE: 49.488000 * LONGITUDE: 146.128000 * ELEVATION: -664.0 m * DEVICE: Piston corer (PC)
+	RC11-238 * LATITUDE: -1.517000 * LONGITUDE: -85.820000 * DATE/TIME: 1967-10-14T00:00:00 * ELEVATION: -2573.0 m * RECOVERY: 9.97 m * CAMPAIGN: RC11 * BASIS: Robert Conrad * DEVICE: Piston corer (PC)
+	RL11 * LATITUDE: 36.746000 * LONGITUDE: 17.717500 * ELEVATION: -3376.0 m * DEVICE: Piston corer (PC)
+	SCS90-36 * LATITUDE: 17.995000 * LONGITUDE: 111.494000 * ELEVATION: -2050.0 m * RECOVERY: 6.57 m * DEVICE: Gravity corer (GC)
+	SO136_011GC (2) * LATITUDE: -43.440000 * LONGITUDE: 167.851000 * DATE/TIME: 1998-10-18T15:30:00 * ELEVATION: -1546.0 m * RECOVERY: 8.92 m * CAMPAIGN: SO136 (TASQWA) (URI: doi:10.3289/GEOMAR_REP_89_1999) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (GC)
+	SO139-74KL * LATITUDE: -6.543000 * LONGITUDE: 103.833000 * ELEVATION: -1690.0 m * RECOVERY: 10.50 m * LOCATION: Indonesia * CAMPAIGN: SO139 (GINCO 3) (URI: doi:10.2312/cr_so139) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL)
+	SO90-136KL * LATITUDE: 23.122000 * LONGITUDE: 66.497000 * DATE/TIME: 1993-09-22T00:00:00 * ELEVATION: -568.0 m * RECOVERY: 16.55 m * LOCATION: Arabian Sea * CAMPAIGN: SO90 (PAKOMIN) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL)
+	SO90-39KG * LATITUDE: 24.833000 * LONGITUDE: 65.933000 * DATE/TIME: 1993-09-08T00:00:00 * ELEVATION: -695.0 m * RECOVERY: 0.45 m * LOCATION: Arabian Sea * CAMPAIGN: SO90 (PAKOMIN) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Box corer (Reineck) (BCR) (URI: http://en.wikipedia.org/wiki/Box_corer)
+	SO90-93KL * LATITUDE: 23.588000 * LONGITUDE: 64.216000 * DATE/TIME: 1993-09-16T00:00:00 * ELEVATION: -1802.0 m * RECOVERY: 7.50 m * LOCATION: Arabian Sea * CAMPAIGN: SO90 (PAKOMIN) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: GPS,
+	SO93-126KL * LATITUDE: 19.973333 * LONGITUDE: 90.033333 * DATE/TIME: 1994-01-15T00:00:00 * ELEVATION: -1250.0 m * LOCATION: Bengal Fan * CAMPAIGN: SO93 (BENGAL F€CHER) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Piston corer (BGR type) (KL) * COMMENT: continental slope, upslope thickening
+	SSDP102 * LATITUDE: 34.953000 * LONGITUDE: 128.881000 * ELEVATION: -40.0 m * DEVICE: Gravity corer (GC)
+	SU81-18 * LATITUDE: 37.767000 * LONGITUDE: -10.183000 * DATE/TIME: 1981-01-01T00:00:00 * ELEVATION: -3155.0 m * RECOVERY: 7.00 m * LOCATION: Atlantic Ocean * CAMPAIGN: CEPAG * BASIS: Le Suro”t * DEVICE: Piston corer (PC)
+	St.14 * LATITUDE: 32.668000 * LONGITUDE: 138.455000 * ELEVATION: -3252.0 m * DEVICE: Piston corer (PC)
+	St.19 * LATITUDE: -50.000000 * LONGITUDE: 140.000000 * ELEVATION: -3755.0 m * LOCATION: Pacific Ocean * CAMPAIGN: KH01-3 * BASIS: Hakuho-Maru * DEVICE: Piston corer (PC)
+	St.20 * LATITUDE: 30.377000 * LONGITUDE: 138.648000 * ELEVATION: -3280.0 m * DEVICE: Piston corer (PC)
+	TN057-21 * LATITUDE: -41.130000 * LONGITUDE: 8.800000 * ELEVATION: -4981.0 m * DEVICE: Piston corer (PC)
+	TY93-905 * LATITUDE: 11.066700 * LONGITUDE: 51.950000 * RECOVERY: -1567.00 m * DEVICE: Gravity corer (GC)
+	TY93929/P * LATITUDE: 13.700000 * LONGITUDE: 53.250000 * ELEVATION: -2490.0 m * DEVICE: Piston corer (PC)
+	U938 * LATITUDE: -45.080000 * LONGITUDE: 179.500000 * ELEVATION: -2700.0 m * DEVICE: Gravity corer (GC)
+	V19-27 * LATITUDE: -0.467000 * LONGITUDE: -82.070000 * DATE/TIME: 1963-04-05T00:00:00 * ELEVATION: -1373.0 m * RECOVERY: 9.72 m * CAMPAIGN: V19 * BASIS: Vema * DEVICE: Piston corer (PC)
+	V19-28 * LATITUDE: -2.367000 * LONGITUDE: -84.650000 * DATE/TIME: 1963-04-06T00:00:00 * ELEVATION: -2720.0 m * RECOVERY: 16.18 m * CAMPAIGN: V19 * BASIS: Vema * DEVICE: Piston corer (PC)
+	V19-30 * LATITUDE: -3.383000 * LONGITUDE: -83.520000 * DATE/TIME: 1963-04-07T00:00:00 * ELEVATION: -3091.0 m * RECOVERY: 18.18 m * CAMPAIGN: V19 * BASIS: Vema * DEVICE: Piston corer (PC)
+	V21-30 * LATITUDE: -1.217000 * LONGITUDE: -89.680000 * DATE/TIME: 1965-03-18T00:00:00 * ELEVATION: -617.0 m * RECOVERY: 12.02 m * CAMPAIGN: V21 * BASIS: Vema * DEVICE: Piston corer (PC)
+Comment:	Trend >0 means a warming over the time period, trend <0 means a cooling over the time period.
+Parameter(s):	Event label (Event) * Metadata
+	LATITUDE (Latitude) * Geocode
+	LONGITUDE (Longitude) * Geocode
+	Sea surface temperature trend [¡C] (SST trend) * COMMENT: Holocene 0-10 ka
+	Sea surface temperature trend [¡C] (SST trend) * COMMENT: early Holocene 6-10 ka
+	Sea surface temperature trend [¡C] (SST trend) * COMMENT: late Holocene 0-6 ka
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	225 data points
+*/
+Event	Latitude	Longitude	SST trend [¡C] (Holocene 0-10 ka)	SST trend [¡C] (early Holocene 6-10 ka)	SST trend [¡C] (late Holocene 0-6 ka)
+GIK23258-2	74.998	13.969			-2.7
+MD95-2011	66.970	7.639			-1.2
+MD95-2015	58.762	-25.959	-0.9	-0.7	-0.2
+IOW225514	57.838	8.704			-2.3
+IOW225517	57.667	7.091	-1.9	0.4	-2.3
+GGC-15	48.168	151.337	2.1	0.7	1.4
+JT96-0909PC	48.912	-126.890	-1.4	-1.3	-0.1
+167-1019C	41.683	-124.932	-0.6	-1.6	1.0
+AD91-17	40.870	18.636			-2.5
+M44/1_KL71	40.842	27.763	5.1	6.7	-1.6
+SU81-18	37.767	-10.183	-0.6	0.0	-0.6
+M40/4_SL78	37.037	13.190	-1.4	0.3	-1.7
+M39008-3	36.380	-7.072	-0.9	-0.3	-0.6
+GeoB5901-2	36.380	-7.071	-0.9	-0.2	-0.7
+MD95-2043	36.143	-2.621	-0.6	0.0	-0.6
+BS79-38	38.412	13.577	-1.3	-2.1	0.8
+BS79-33	38.262	14.030	-3.0	0.6	-3.6
+RL11	36.746	17.718	1.3	5.2	-3.9
+SSDP102	34.953	128.881			0.3
+167-1017E	34.535	-121.107	1.7	1.5	0.2
+160-967D	34.071	32.726	5.6	3.0	2.6
+St.14	32.668	138.455	0.1	0.3	-0.2
+St.19	-50.000	140.000	0.9	-0.3	1.2
+GeoB5844-2	27.714	34.682	1.2	0.7	0.5
+GeoB5546-2	27.537	-13.737		0.3	
+SO90-93KL	23.588	64.216	0.8	0.9	-0.1
+LAPAZ21P	22.990	-109.467	0.1	-0.2	0.3
+108-658C	20.749	-18.581	0.9	1.7	-0.8
+GIK17940-2	20.117	117.383	1.7	1.5	0.2
+SO93-126KL	19.973	90.033	0.6	0.6	0.0
+BOFS31/1K	18.998	-20.162	-0.3	0.2	-0.5
+SCS90-36	17.995	111.494	1.5	0.0	1.5
+M44/1_74KL	40.783	28.773	0.7	0.6	0.1
+M35003-4	12.090	-61.243	1.3	1.0	0.3
+TY93-905	11.067	51.950	0.4	-0.1	0.5
+165-1002C	10.706	-65.169	0.0	1.0	-1.0
+MD77-194	10.280	75.140	0.1	-0.2	0.3
+GIK18252-3	9.250	109.391		0.8	
+GIK17964-1	6.158	112.213			0.1
+GIK18287-3	5.663	110.661		0.5	
+175-1078C	-11.921	13.400	1.2	0.7	0.5
+GeoB1023-5	-17.157	11.012	-0.3	1.0	-1.3
+MD79-257	-20.240	36.200	0.5	1.0	-0.5
+GIK17748-2	-32.750	-72.033	-0.3	2.1	-2.4
+GeoB3313-1	-41.000	-74.450			-0.8
+M40/4_SL87	38.988	4.023	-0.1	3.4	-3.5
+M40/4_SL67	34.814	27.296		1.5	
+M40/4_SL71	34.811	23.194		3.4	
+160-969E	33.841	24.883		2.9	
+St.20	30.377	138.648		0.7	
+SO90-136KL	23.122	66.497		0.6	
+TY93929/P	13.700	53.250		0.4	
+MD85674	3.110	50.270	0.2	0.5	-0.3
+GeoB3129-1	-4.613	-36.637	0.2	0.4	-0.2
+CH07-98-GGC19	36.867	-74.567	-3.5	-0.3	-3.2
+OCE326-GGC30	43.882	-62.800	-6.3	-1.9	-4.4
+OCE326-GGC26	43.483	-54.867	-7.7	-4.6	-3.1
+ME0005A-24JC	0.022	-86.463		0.9	
+KNR176-JPC32	4.847	-77.963	2.1	1.1	1.0
+MD02-2529	8.206	-84.122	1.6	0.3	1.3
+202-1233	-41.000	-74.450	-1.6	-0.7	-0.9
+MD97-2120	-45.534	174.931	-2.9	-2.6	-0.3
+MD97-2121	-40.380	177.990		0.1	
+TN057-21	-41.130	8.800		-0.9	
+GeoB3910-2	-4.245	-36.345	0.4	0.4	0.0
+GeoB4905-4	2.500	9.390	1.8	-0.1	1.9
+U938	-45.080	179.500	-0.2	-0.4	0.2
+GeoB6518-1	-5.588	11.222	0.3	-0.2	0.5
+MD03-2611G	-36.730	136.548	-1.0	0.7	-1.7
+MD01-2412	44.528	145.004	1.5	1.1	0.4
+SO136_011GC	-43.440	167.851	-1.9	-0.7	-1.2
+RC11-238	-1.517	-85.820		0.8	
+V19-27	-0.467	-82.070	1.2	-0.1	1.3
+V19-28	-2.367	-84.650	0.5	0.2	0.3
+V19-30	-3.383	-83.520	0.4	0.3	0.1
+V21-30	-1.217	-89.680		0.7	
+GeoB7926-2	20.213	-18.452	0.7	1.5	-0.8
+MD94-103	-45.583	86.517		-1.4	
+MD95-2042	37.800	-10.166	0.0	0.7	-0.7
+MD01-2443	37.881	-10.176	-0.7	0.0	-0.7
+GeoB7139-2	-30.200	-71.984	-1.5	-0.2	-1.3
+JR51GC-35	66.999	-17.961	-2.3	-2.5	0.2
+161-977	36.032	-1.955	-0.6	0.0	-0.6
+SO139-74KL	-6.543	103.833	1.2	0.5	0.7
+MD97-2151	8.728	109.869	0.8	0.6	0.2
+GeoB6007-2	30.850	-10.268	-1.4	-0.3	-1.1
+PC-17	21.358	-158.190	1.5	1.4	0.1
+96-619	27.194	-91.409			4.3
+PC-2	50.395	148.323	-0.1	-0.4	0.3
+PC-4	49.488	146.128		0.2	
+D13882	38.634	-9.454	-3.0	-0.7	-2.3

@@ -1,0 +1,91 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core GIK17940-2 using alkenones. doi:10.1594/PANGAEA.737223, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 20.116667 * LONGITUDE: 117.383333
+	MINIMUM AGE: 0.014 ka BP * MAXIMUM AGE: 10.488 ka BP
+Event(s):	GIK17940-2 * LATITUDE: 20.116667 * LONGITUDE: 117.383333 * DATE/TIME: 1994-05-05T00:00:00 * ELEVATION: -1727.0 m * LOCATION: South China Sea (URI: http://en.wikipedia.org/wiki/South_China_Sea) * CAMPAIGN: SO95 (MONITOR MONSUN) (URI: doi:10.2312/reports-gpi.1994.68) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (Kiel type) (SL)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	79 data points
+*/
+Age [ka BP]	SST [¡C]
+0.014	26.8
+0.174	26.9
+0.326	26.7
+0.396	26.7
+0.492	27.0
+0.635	26.8
+0.785	26.7
+0.967	26.9
+1.178	27.0
+1.357	26.8
+1.539	26.7
+1.759	26.8
+1.882	26.8
+2.064	26.4
+2.221	26.7
+2.337	26.5
+2.438	26.7
+2.541	26.6
+2.671	26.4
+2.819	26.4
+2.945	26.7
+3.127	26.4
+3.263	26.7
+3.538	26.7
+3.717	26.4
+3.872	26.5
+4.065	26.5
+4.262	26.6
+4.468	26.7
+4.639	26.5
+4.769	26.6
+4.940	26.5
+5.148	26.6
+5.347	26.6
+5.536	26.7
+5.697	26.8
+5.882	26.6
+6.008	26.7
+6.125	26.4
+6.208	26.6
+6.311	26.5
+6.433	26.5
+6.534	26.3
+6.673	26.2
+6.803	26.3
+6.876	26.0
+7.034	26.2
+7.207	26.0
+7.344	26.2
+7.532	26.3
+7.772	25.8
+8.009	25.9
+8.170	25.7
+8.366	26.1
+8.471	25.8
+8.611	25.8
+8.783	25.5
+8.961	25.5
+9.144	25.6
+9.299	25.3
+9.416	25.5
+9.472	25.3
+9.553	25.0
+9.606	25.2
+9.683	25.2
+9.733	25.1
+9.807	24.8
+9.855	25.2
+9.927	25.2
+9.950	25.0
+9.997	25.0
+10.045	25.3
+10.092	25.3
+10.164	25.4
+10.211	25.1
+10.309	25.0
+10.359	25.0
+10.436	24.8
+10.488	24.6

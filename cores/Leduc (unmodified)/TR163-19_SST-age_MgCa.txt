@@ -1,0 +1,20 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core TR163-19 using Mg/Ca-ratios. doi:10.1594/PANGAEA.737009, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 2.258000 * LONGITUDE: -90.952000
+	MINIMUM AGE: 1.000 ka BP * MAXIMUM AGE: 9.500 ka BP
+Event(s):	TR163-19 * LATITUDE: 2.258000 * LONGITUDE: -90.952000 * ELEVATION: -2348.0 m * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	8 data points
+*/
+Age [ka BP]	SST [¡C]
+1.000	26.00
+1.800	25.50
+3.100	26.40
+4.400	26.10
+5.600	26.20
+6.900	26.30
+8.200	27.10
+9.500	25.90

@@ -1,0 +1,89 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core MD01-2378 using Mg/Ca-ratios. doi:10.1594/PANGAEA.736991, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -13.082500 * LONGITUDE: 121.788000
+	MINIMUM AGE: 0.732 ka BP * MAXIMUM AGE: 10.541 ka BP
+Event(s):	MD01-2378 (MD012378) * LATITUDE: -13.082500 * LONGITUDE: 121.788000 * DATE/TIME: 2001-05-03T21:05:00 * ELEVATION: -1783.0 m * RECOVERY: 40.73 m * LOCATION: Timor Sea * CAMPAIGN: MD122 (IMAGES VII - WEPAMA) * BASIS: Marion Dufresne (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * DEVICE: Giant piston corer (GPC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	77 data points
+*/
+Age [ka BP]	SST [¡C]
+0.732	28.60
+0.933	27.47
+1.135	27.86
+1.235	28.62
+1.336	27.71
+1.436	27.60
+1.738	28.80
+1.839	27.00
+1.939	26.89
+2.141	27.55
+2.241	28.09
+2.342	27.33
+2.442	27.53
+2.644	28.12
+2.744	28.32
+2.845	27.14
+2.945	27.38
+3.147	28.10
+3.247	28.12
+3.348	27.20
+3.448	27.45
+3.650	27.40
+3.750	28.11
+3.851	28.02
+3.951	28.11
+4.153	27.96
+4.253	27.30
+4.354	27.70
+4.454	28.06
+4.656	27.74
+4.756	28.13
+4.857	27.73
+4.957	27.63
+5.159	28.08
+5.259	27.33
+5.360	27.91
+5.460	27.69
+5.662	27.91
+5.762	28.49
+5.863	28.16
+5.963	27.66
+6.165	28.01
+6.265	28.17
+6.366	28.77
+6.466	27.56
+6.668	28.53
+6.768	28.27
+6.869	28.77
+6.969	28.66
+7.171	27.56
+7.271	28.75
+7.372	27.66
+7.472	28.62
+7.674	28.68
+7.774	28.36
+7.875	28.13
+7.975	28.06
+8.126	28.81
+8.227	28.62
+8.328	27.96
+8.529	28.30
+8.629	28.74
+8.730	28.19
+8.831	28.57
+9.032	28.31
+9.132	28.19
+9.233	27.90
+9.334	27.92
+9.535	27.99
+9.635	28.68
+9.736	28.54
+9.837	29.79
+10.038	28.34
+10.138	28.80
+10.239	28.20
+10.340	28.81
+10.541	29.04

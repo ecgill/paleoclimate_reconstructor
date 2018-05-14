@@ -1,0 +1,46 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core SO136-011GC using alkenones. doi:10.1594/PANGAEA.737266, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: -43.440000 * LONGITUDE: 167.851000
+	MINIMUM AGE: 0.050 ka BP * MAXIMUM AGE: 10.350 ka BP
+Event(s):	SO136_011GC (2) * LATITUDE: -43.440000 * LONGITUDE: 167.851000 * DATE/TIME: 1998-10-18T15:30:00 * ELEVATION: -1546.0 m * RECOVERY: 8.92 m * CAMPAIGN: SO136 (TASQWA) (URI: doi:10.3289/GEOMAR_REP_89_1999) * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Gravity corer (GC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	34 data points
+*/
+Age [ka BP]	SST [¡C]
+0.050	15.0
+0.290	14.5
+0.540	14.5
+0.790	15.0
+1.050	14.4
+1.320	15.0
+1.600	14.8
+1.900	15.2
+2.210	15.5
+2.530	14.9
+2.880	15.5
+3.250	15.5
+3.630	15.6
+4.030	15.6
+4.440	15.8
+4.850	15.8
+5.270	15.7
+5.680	15.7
+6.090	15.8
+6.490	16.1
+6.870	16.2
+7.240	16.2
+7.590	16.0
+7.920	15.8
+8.240	16.2
+8.540	16.1
+8.820	15.9
+9.080	16.1
+9.330	15.9
+9.560	16.3
+9.780	16.8
+9.980	16.6
+10.170	16.5
+10.350	16.8

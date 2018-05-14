@@ -1,0 +1,93 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core 167-1019C using alkenones. doi:10.1594/PANGAEA.737199, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 41.682900 * LONGITUDE: -124.932000
+	MINIMUM AGE: 0.158 ka BP * MAXIMUM AGE: 10.395 ka BP
+Event(s):	167-1019C * LATITUDE: 41.682900 * LONGITUDE: -124.932000 * DATE/TIME START: 1996-06-05T05:00:00 * DATE/TIME END: 1996-06-06T18:45:00 * ELEVATION: -946.9 m * RECOVERY: 213.97 m * PENETRATION: 247.80 m * LOCATION: North Pacific Ocean * CAMPAIGN: Leg167 (URI: doi:10.2973/odp.proc.ir.167.1997) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * DEVICE: Drilling/drill rig (DRILL) * COMMENT: 26 cores; 247.8 m cored; 0 m drilled; 86.3 % recovery
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	81 data points
+*/
+Age [ka BP]	SST [¡C]
+0.158	11.7
+0.158	11.6
+0.289	11.5
+0.289	11.4
+0.553	11.3
+0.684	11.4
+0.816	11.6
+0.947	11.3
+1.211	11.5
+1.342	11.5
+1.474	11.7
+1.605	11.6
+1.868	11.5
+1.868	11.4
+2.000	11.3
+2.000	11.2
+2.132	10.9
+2.263	11.5
+2.526	11.8
+2.658	11.9
+2.789	12.1
+2.921	11.6
+3.184	12.2
+3.316	11.3
+3.447	10.5
+3.579	10.8
+3.579	10.8
+3.579	10.8
+3.842	11.0
+3.974	10.7
+4.105	11.0
+4.237	10.6
+4.500	11.2
+4.632	10.4
+4.763	10.6
+4.895	10.4
+5.184	10.5
+5.289	10.5
+5.421	10.6
+5.515	10.6
+5.515	10.8
+5.728	10.8
+5.834	10.7
+5.941	10.8
+6.047	10.8
+6.260	10.4
+6.366	10.2
+6.494	9.8
+6.579	10.1
+6.792	10.4
+6.919	10.2
+6.919	10.2
+7.004	10.7
+7.111	10.6
+7.324	10.4
+7.430	10.4
+7.536	10.9
+7.730	10.9
+7.840	10.6
+7.940	11.5
+8.050	10.8
+8.200	10.2
+8.387	11.3
+8.494	11.3
+8.600	11.8
+8.707	11.3
+8.919	11.6
+8.919	11.8
+9.026	11.7
+9.132	11.7
+9.260	11.5
+9.366	11.9
+9.558	11.8
+9.664	11.1
+9.770	12.7
+9.970	12.8
+10.045	13.2
+10.170	11.6
+10.220	12.0
+10.345	11.9
+10.395	11.9

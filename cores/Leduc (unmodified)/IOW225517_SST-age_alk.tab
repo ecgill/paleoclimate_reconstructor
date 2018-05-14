@@ -1,0 +1,88 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core IOW225517 using alkenones. doi:10.1594/PANGAEA.737229, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 57.667000 * LONGITUDE: 7.091000
+	MINIMUM AGE: 1.820 ka BP * MAXIMUM AGE: 10.383 ka BP
+Event(s):	IOW225517 (225517) * LATITUDE: 57.667000 * LONGITUDE: 7.091000 * ELEVATION: -293.0 m * DEVICE: Gravity corer (GC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	76 data points
+*/
+Age [ka BP]	SST [¡C]
+1.820	11.5
+1.966	11.5
+2.105	11.5
+2.238	11.7
+2.367	11.6
+2.492	11.6
+2.613	11.9
+2.733	12.1
+2.850	11.9
+2.966	12.0
+3.081	12.1
+3.172	11.9
+3.194	12.2
+3.306	12.2
+3.416	12.5
+3.525	12.3
+3.632	12.3
+3.736	12.1
+3.838	12.5
+3.937	12.6
+4.034	12.8
+4.126	12.9
+4.215	12.9
+4.299	13.2
+4.378	12.9
+4.451	12.5
+4.519	12.9
+4.585	13.0
+4.649	13.1
+4.714	12.9
+4.781	13.2
+4.855	13.0
+4.923	13.3
+4.941	13.3
+5.028	13.7
+5.116	13.2
+5.204	13.2
+5.292	13.0
+5.380	13.4
+5.468	13.8
+5.556	13.2
+5.645	13.5
+5.733	13.7
+5.821	13.8
+5.909	13.2
+5.997	13.8
+6.086	13.8
+6.174	14.2
+6.262	13.9
+6.351	14.2
+6.439	14.1
+6.528	13.6
+6.707	14.1
+6.798	13.7
+6.891	13.7
+6.992	14.0
+7.103	14.2
+7.221	14.2
+7.346	14.1
+7.479	13.4
+7.620	13.7
+7.768	13.7
+7.924	14.0
+8.087	13.5
+8.258	13.5
+8.437	13.8
+8.623	13.5
+8.816	13.8
+9.017	13.7
+9.226	13.8
+9.443	13.6
+9.667	13.8
+9.851	13.2
+9.898	13.2
+10.136	13.6
+10.383	13.3

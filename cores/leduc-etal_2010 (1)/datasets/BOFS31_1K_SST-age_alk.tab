@@ -1,0 +1,25 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core BOFS31/1K using alkenones. doi:10.1594/PANGAEA.737204, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 18.997900 * LONGITUDE: -20.162100
+	MINIMUM AGE: 0.000 ka BP * MAXIMUM AGE: 10.360 ka BP
+Event(s):	BOFS31/1K (BOFS31#1) * LATITUDE: 18.997900 * LONGITUDE: -20.162100 * DATE/TIME: 1990-10-17T00:00:00 * ELEVATION: -3300.0 m * LOCATION: Northeast Atlantic * CAMPAIGN: CD53 * BASIS: Charles Darwin * DEVICE: Kasten corer (KAL) * COMMENT: BOFS-ID 18537
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy alkenones (URL: hdl:10013/epic.35232.d001) * METHOD: SST calculated from alkenones
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	13 data points
+*/
+Age [ka BP]	SST [¡C]
+0.000	20.5
+0.910	21.0
+1.820	21.0
+2.720	21.1
+3.630	21.3
+4.540	21.4
+5.450	21.4
+6.360	21.3
+7.260	21.4
+8.170	21.2
+9.080	21.6
+9.720	20.9
+10.360	21.3

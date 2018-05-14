@@ -1,0 +1,37 @@
+/* DATA DESCRIPTION:
+Citation:	Leduc, G et al. (2010): Sea surface temperature reconstruction from sediment core OCE326-GGC26 using Mg/Ca-ratios. doi:10.1594/PANGAEA.737006, 
+	In Supplement to: Leduc, Guillaume; Schneider, Ralph R; Kim, Jung-Hyun; Lohmann, Gerrit (2010): Holocene and Eemian Sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry. Quaternary Science Reviews, 29(7-8), 989-1004, doi:10.1016/j.quascirev.2010.01.004
+Coverage:	LATITUDE: 43.483000 * LONGITUDE: -54.867000
+	MINIMUM AGE: 0.059 ka BP * MAXIMUM AGE: 10.346 ka BP
+Event(s):	OCE326-GGC26 * LATITUDE: 43.483000 * LONGITUDE: -54.867000 * ELEVATION: -3975.0 m * DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * Geocode
+	Sea surface temperature [¡C] (SST) * PI: References, proxy Mg/Ca (URL: hdl:10013/epic.35231.d001) * METHOD: SST from Mg/Ca ratios
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	25 data points
+*/
+Age [ka BP]	SST [¡C]
+0.059	13.07
+0.965	15.16
+1.780	15.38
+2.618	14.59
+3.361	15.02
+4.144	13.26
+5.026	13.98
+5.884	13.67
+6.590	14.07
+7.306	15.22
+7.576	16.73
+7.873	15.39
+8.103	16.62
+8.324	15.58
+8.544	15.36
+8.612	16.52
+8.680	15.36
+8.749	13.94
+8.817	14.71
+9.007	14.27
+9.360	13.64
+9.646	14.31
+9.879	15.18
+10.113	15.55
+10.346	14.36

@@ -1,0 +1,58 @@
+/* DATA DESCRIPTION:
+Citation:	Kim, Jung-Hyun; Rimbu, Norel; Lorenz, Stefan J; Lohmann, Gerrit; Nam, Seung-Il; Schouten, Stefan; Rühlemann, Carsten; Schneider, Ralph R (2004): Age and alkenone-derived Holocene sea-surface temperature records of sediment core SO42-74KL. doi:10.1594/PANGAEA.438818, 
+	In Supplement to: Kim, Jung-Hyun; Rimbu, Norel; Lorenz, Stefan J; Lohmann, Gerrit; Schneider, Ralph R; Nam, Seung-Il; Schouten, Stefan; Sirocko, Frank; Rühlemann, Carsten (2004): North Pacific and North Atlantic sea-surface temperature variability during the Holocene. Quaternary Science Reviews, 23(20-22), 2141-2154, doi:10.1016/j.quascirev.2004.08.010
+Related to:	Sirocko, Frank; Sarnthein, Michael; Erlenkeuser, Helmut; Lange, Heinz; Arnold, Maurice; Duplessy, Jean-Claude (1993): Century-scale events in monsoonal climate over the past 24,000 years. Nature, 364, 322-324, doi:10.1038/364322a0
+Project(s):	Center for Marine Environmental Sciences (MARUM) (URI: http://www.marum.de/en/)
+Coverage:	LATITUDE: 14.321000 * LONGITUDE: 57.347000
+	MINIMUM AGE: 0.210 ka BP * MAXIMUM AGE: 11.280 ka BP
+	DATE/TIME START: 1986-05-24T00:00:00 * DATE/TIME END: 1986-05-24T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.0 m * MAXIMUM DEPTH, sediment/rock: 1.0 m
+Event(s):	SO42-74KL (KL-74, AS-12) * LATITUDE: 14.321000 * LONGITUDE: 57.347000 * DATE/TIME: 1986-05-24T00:00:00 * ELEVATION: -3212.0 m * RECOVERY: 3.16 m * LOCATION: Arabian Sea * CAMPAIGN: SO42 * BASIS: Sonne (URI: http://www.bgr.de/fs_sonne/) * DEVICE: Kasten corer (KAL)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth)
+	AGE [ka BP] (Age)
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Kim, Jung-Hyun (eMail: Jung-Hyun.Kim@nioz.nl) * METHOD: Calculated from UK'37 (Prahl et al., 1988) (URI: doi:10.1016/0016-7037(88)90132-9)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY)
+Size:	41 data points
+*/
+Depth [m]	Age [ka BP]	SST (1-12) [°C]
+0.025	0.21	27.3
+0.050	0.42	27.4
+0.075	0.63	27.3
+0.100	0.84	27.4
+0.125	1.05	27.1
+0.150	1.26	27.2
+0.175	1.47	27.0
+0.200	1.68	27.1
+0.225	1.89	27.0
+0.250	2.10	26.9
+0.275	2.31	26.8
+0.300	2.52	27.2
+0.325	2.73	27.0
+0.350	2.94	27.2
+0.375	3.26	27.0
+0.400	3.58	26.9
+0.425	3.90	27.0
+0.450	4.22	27.0
+0.475	4.55	27.2
+0.500	4.87	27.1
+0.525	5.19	27.3
+0.550	5.51	27.2
+0.575	5.87	27.2
+0.625	6.60	26.7
+0.650	6.96	27.1
+0.675	7.32	26.8
+0.700	7.68	26.9
+0.725	7.86	27.0
+0.750	8.04	27.0
+0.775	8.22	26.6
+0.800	8.41	26.9
+0.825	8.71	26.7
+0.850	9.02	26.7
+0.875	9.32	26.7
+0.900	9.62	26.6
+0.925	9.93	26.7
+0.950	10.23	26.4
+0.975	10.54	26.5
+1.000	10.78	26.4
+1.025	11.03	26.3
+1.050	11.28	26.2
